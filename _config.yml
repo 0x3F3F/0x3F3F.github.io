@@ -115,13 +115,13 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spain.jpg"
     date: "2009 - Today"
-    description: "Independant programmer, Spain.  Involved in Dev and Test for Linedata Limited"
+    description: "Independant programmer, working remotely from Spain.  Involved in Dev and Test for Linedata Limited"
   - image: "/img/timeline/linedata2.jpg"
     date: "2006 - 2009"
-    description: "Analyst Porgrammer, Linedata Services. Accounting Software, Fund Managers, City of London, 'nuf said."
+    description: "Analyst Porgrammer, Linedata Services. Accounting Software, C, Oracle,  Fund Managers, City of London, 'nuf said."
   - image: "/img/timeline/eurofightersmall.jpg"
     date: "2001 - 2006"
-    description: "Systems Engineer, BAE systems. Involved dev of radar modes for Eurofighter Typhoon"
+    description: "Systems Engineer, BAE systems. Dev of radar modes for Eurofighter Typhoon in C and GEDAE"
   - image: "/img/timeline/navysmall.jpg"
     date: "1998 - 2001"
     description: "Scientist, DERA.  Investigating existance of transient signal in noise using Matlab"
@@ -150,7 +150,7 @@ email: "1a1n_b3ns0n@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Iain Benson is an awesome person. He lives in Spain, where he works as an independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
+author_blurb: "Iain Benson is a person. He lives in Spain, where he works as an independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -162,8 +162,6 @@ social:
     url: "https://twitter.com/iainbenson"
   - title: "github"
     url: "https://github.com/0x3F3F"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
