@@ -115,22 +115,22 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spain.jpg"
     date: "2009 - Today"
-    description: "Independant programmer, working remotely from Spain.  Involved in Dev and Test for Linedata Limited"
+    description: "Independant programmer, working remotely from underwater Spanish volcano.  Involved in Dev and Test for various clients"
   - image: "/img/timeline/linedata2.jpg"
     date: "2006 - 2009"
-    description: "Analyst Porgrammer, Linedata Services. Accounting Software, C, Oracle,  Fund Managers, City of London, 'nuf said."
+    description: "Analyst Programmer, Linedata Services. Accounting Software, C, Oracle,  Fund Managers, City of London, 'nuf said."
   - image: "/img/timeline/eurofightersmall.jpg"
     date: "2001 - 2006"
-    description: "Systems Engineer, BAE systems. Dev of radar modes for Eurofighter Typhoon in C and GEDAE"
+    description: "Systems Engineer, BAE systems. Dev of radar modes for Eurofighter Typhoon using C and GEDAE"
   - image: "/img/timeline/navysmall.jpg"
     date: "1998 - 2001"
     description: "Scientist, DERA.  Investigating existance of transient signal in noise using Matlab"
   - image: "/img/timeline/deathstarsmall.jpg"
     date: "1996 - 1997"
-    description: "Msc Opto-electronics at University of Strathclyde"
+    description: "Msc Opto-electronics at the University of Strathclyde"
   - image: "/img/timeline/glasgowuni.jpg"
     date: "1992 - 1996"
-    description: "1st Class BSc (hons) in Physics at University of Glasgow"  
+    description: "1st Class BSc (hons) in Physics at the University of Glasgow"  
   
 # First image of the Timeline
 
