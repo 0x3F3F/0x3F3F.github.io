@@ -87,9 +87,9 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 20
 
-paginate: 5
+paginate: 8
 
 email-share: True
 fb-share: True
@@ -116,13 +116,13 @@ events:
     description: "Moved to Spain, working as an independant programmer.  Involved in Dev and Test roles for Linedata Limited."
   - image: "/img/timeline/baracktocat.jpg"
     date: "2006 - 2009"
-    description: "Worked as an Analyst Porgrammer for Linedata Services, based in London."
+    description: "Analyst Porgrammer, Linedata Services. Accounting Software, Fund Managers, City of London, 'nuf said."
   - image: "/img/timeline/baracktocat.jpg"
     date: "2001 - 2006"
-    description: "BAE systems"
+    description: "Systems Engineer, BAE systems. Involved dev of radar modes for Eurofighter Typhoon"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1998 - 2001"
-    description: "DERA"
+    description: "Scientist, DERA.  Investigating existance of transient signal in noise using Matlab"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1996 - 1997"
     description: "Msc Opto-electronics at University of Strathclyde"
