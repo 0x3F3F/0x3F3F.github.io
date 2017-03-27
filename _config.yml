@@ -32,7 +32,7 @@ lang: "en"
 author: "Iain Benson"
 title: "{ Iain Benson }"
 description: "Blog and website of Iain Benson, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "benson, iain, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -112,12 +112,24 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "2009 - Today"
+    description: "Moved to Spain, working as an independant programmer.  Involved in Dev and Test roles for Linedata Limited."
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
+    date: "2006 - 2009"
+    description: "Wored as an Analyst Porgrammer for Linedata Services, based in London."
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2001 - 2006"
+    description: "BAE systems"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "1998 - 2001"
+    description: "DERA"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "1996 - 1997"
+    description: "Msc Optoelectronics at University of Strathclyde"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "1992 - 1996"
+    description: "1st Class Bsc (hons) in Physics at University of Glasgow"  
+  
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
@@ -136,7 +148,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Iain Benson is an awesome person. He lives in Spain, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Iain Benson is an awesome person. He lives in Spain, where he works as n independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
 author_blurb_image: "/img/author.png"
 
 ##################
