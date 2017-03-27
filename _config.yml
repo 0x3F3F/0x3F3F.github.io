@@ -116,7 +116,7 @@ events:
     description: "Moved to Spain, working as an independant programmer.  Involved in Dev and Test roles for Linedata Limited."
   - image: "/img/timeline/baracktocat.jpg"
     date: "2006 - 2009"
-    description: "Wored as an Analyst Porgrammer for Linedata Services, based in London."
+    description: "Worked as an Analyst Porgrammer for Linedata Services, based in London."
   - image: "/img/timeline/baracktocat.jpg"
     date: "2001 - 2006"
     description: "BAE systems"
@@ -125,10 +125,10 @@ events:
     description: "DERA"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1996 - 1997"
-    description: "Msc Optoelectronics at University of Strathclyde"
+    description: "Msc Opto-electronics at University of Strathclyde"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1992 - 1996"
-    description: "1st Class Bsc (hons) in Physics at University of Glasgow"  
+    description: "1st Class BSc (hons) in Physics at University of Glasgow"  
   
 # First image of the Timeline
 
@@ -148,7 +148,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Iain Benson is an awesome person. He lives in Spain, where he works as n independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
+author_blurb: "Iain Benson is an awesome person. He lives in Spain, where he works as an independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -156,12 +156,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/iainbenson"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/0x3F3F"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
@@ -177,9 +175,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-username: iainbenson
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
