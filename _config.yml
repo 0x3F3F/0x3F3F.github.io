@@ -113,22 +113,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/spain.png"
     date: "2009 - Today"
-    description: "Independant programmer, Spain.  Involved in Dev and Test for Linedata Limited."
-  - image: "/img/timeline/baracktocat.jpg"
+    description: "Independant programmer, Spain.  Involved in Dev and Test for Linedata Limited"
+  - image: "/img/timeline/Linedata.png"
     date: "2006 - 2009"
     description: "Analyst Porgrammer, Linedata Services. Accounting Software, Fund Managers, City of London, 'nuf said."
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/eurofightersmall.jpg"
     date: "2001 - 2006"
     description: "Systems Engineer, BAE systems. Involved dev of radar modes for Eurofighter Typhoon"
   - image: "/img/timeline/baracktocat.jpg"
     date: "1998 - 2001"
     description: "Scientist, DERA.  Investigating existance of transient signal in noise using Matlab"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/deathstarsmall.jpg"
     date: "1996 - 1997"
     description: "Msc Opto-electronics at University of Strathclyde"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/glasgowuni.jpg"
     date: "1992 - 1996"
     description: "1st Class BSc (hons) in Physics at University of Glasgow"  
   
