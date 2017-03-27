@@ -113,7 +113,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "2009 - Today"
-    description: "Moved to Spain, working as an independant programmer.  Involved in Dev and Test roles for Linedata Limited."
+    description: "Independant programmer, Spain.  Involved in Dev and Test for Linedata Limited."
   - image: "/img/timeline/baracktocat.jpg"
     date: "2006 - 2009"
     description: "Analyst Porgrammer, Linedata Services. Accounting Software, Fund Managers, City of London, 'nuf said."
