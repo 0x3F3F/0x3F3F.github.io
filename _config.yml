@@ -55,9 +55,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
+  - text: "If you can't dazzle them with brilliance, baffle them with bullshit"
+  - text: "I have never let my schooling interfere with my education"
+  - text: "In knowing that you know nothing, that makes you the smartest of all"
+  - text: "The eyes only see what the mind is prepared to comprehend"
+  
 me-img: "/img/jetpacktocat.png"
 
 ##############################
