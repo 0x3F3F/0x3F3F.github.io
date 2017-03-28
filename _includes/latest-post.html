@@ -3,12 +3,13 @@
 
 <section id="{{ page.section-type }}" class="container content-section text-center">
     <div class="row">
-      <div class="col-md-10 col-md-offset-2">
+      <div class="col-md-10 col-md-offset-1">
 
         {{ page.content | markdownify }}
           
-        <!-- IRB: Updated from singe post to multiple post titles.  Need to figure out how to show only X --> 
-        {% for post in site.posts limit: 2 %}
+        <!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
+        <div>
+        {% for post in site.posts limit: 4 %}
           <h4 align="left"> <strong> {{ post.date | date_to_string }} </strong>
             <small>.
               <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
@@ -19,8 +20,9 @@
             <!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
           </h4>
         {% endfor %}
+        <div>  
           
-        <h4><a href="{{site.baseurl}}/blog/">Full Archive</a></h4>
+        <h4><a href="{{site.baseurl}}/blog/">Read Full Archive</a></h4>
 
       </div>
     </div>
