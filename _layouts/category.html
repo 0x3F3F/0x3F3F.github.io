@@ -17,7 +17,11 @@
           {% assign category = page.title %}
 
           <h3 id="#{{ category }}">Category: {{ category }}</h3>
-
+        </div>
+      </div>
+          
+     <div class="row">
+        <div class="col-md-8 col-md-offset-3 col-xs-8 col-xs-offset-3">
           <div>
             {% for post in site.posts %}
               {% if post.category == category %}
