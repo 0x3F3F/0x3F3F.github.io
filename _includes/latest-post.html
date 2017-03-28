@@ -1,6 +1,10 @@
 
 <!-- Latest Post Preview Start -->
 
+<!-- IRB: grid system is called bootstrap.   Supposed to add to 12, though this added to 11 -->
+<!--       method is to add a row div  each time defien new column layout. -->
+
+
 <section id="{{ page.section-type }}" class="container content-section text-center">
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
@@ -9,7 +13,7 @@
     </div>
     
     <div class="row">
-      <div class="col-md-8 col-md-offset-3">
+      <div class="col-md-7 col-md-offset-4">
           
         <!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
         {% for post in site.posts limit: 4 %}
@@ -23,11 +27,18 @@
             <!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
           </h4>
         {% endfor %}
-          
+        </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
         <h4><a href="{{site.baseurl}}/blog/">Read Full Archive</a></h4>
-
       </div>
     </div>
+    
+        
+
+      
 </section>
 
 <!-- Latest Post Preview End -->
