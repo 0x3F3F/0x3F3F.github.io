@@ -15,4 +15,19 @@ In theory, it should all just work, but we'll see how it goes.
 
 Not sure how often I'll post, probably very infrequently and it's likely to be tech or finance related.
 
-Bye for now.
+#### Format tests
+
+Here is a `blockquote` and a list:
+
+- one
+- two
+- three
+
+indentation:
+
+  one
+  two 
+  three
+  
+ Hmm, need to think of some more markdown... 
+
