@@ -43,8 +43,8 @@ page separator
 
 ---
   
-A picture of monkey:
-![monkey magic](../img/timeline/monkey.jpg)
+A picture of monkey:  
+![monkey magic](/img/timeline/monkey.jpg)
 
 Hmm, need to think of some more markdown that I might want to use... 
 
