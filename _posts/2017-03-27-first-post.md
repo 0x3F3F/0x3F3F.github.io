@@ -25,11 +25,15 @@ Here is an `inline` and a list:
 - two
 - three
 
+Padding issue there on the last sub list item.  Probably wont use anyho...
+
+See if repeated `0.` substitutes in numbers
+
 0. one
 0. two
 0. three
 
-Hmm, don't like the centre justification there(fixed).  Lets try indentation:
+Yay.  Lets try indentation:
 
     one
     two 
@@ -39,5 +43,8 @@ page separator
 
 ---
   
+A picture of monkey:
+![monkey magic](../img/timeline/monkey.jpg)
+
 Hmm, need to think of some more markdown that I might want to use... 
 
