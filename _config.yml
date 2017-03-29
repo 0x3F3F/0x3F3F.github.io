@@ -150,7 +150,7 @@ email: "1a1n_b3ns0n@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Iain Benson is a person. He lives in Spain, where he works as an independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi and going for long walks."
+author_blurb: "Iain Benson is a person. He lives in Spain, where he works as an independant contractor. In his spare time, Iain likes tinkering with his Raspberry Pi, going for long walks and drinking wine.  Preferably all at the same time."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -161,7 +161,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/iainbenson"
   - title: "github"
-    url: "https://github.com/0x3F3F"
+    url: "https://github.com/0x??"
   - title: "rss"
     url: "/feed.xml"
 
