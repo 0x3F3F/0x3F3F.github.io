@@ -16,13 +16,14 @@
       <div class="col-md-7 col-md-offset-4 col-xs-7 col-xs-offset-4">
           
         <!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
-        {% for post in site.posts limit: 4 %}
+        {% for post in site.posts limit: 5 %}
           <h4 align="left"> <strong> {{ post.date | date_to_string }} </strong>
             <small>.
               <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
                 {{ post.category }}
               </a>
-            .</small>
+            </small>
+						<br />
             <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
             <!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
           </h4>
