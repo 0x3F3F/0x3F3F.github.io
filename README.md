@@ -1,5 +1,6 @@
 # Iains CV Jekyll Theme
 
+I'm hosting my website on git! iainbenson.com pointing to these pages.
 
 Iains CV Jekyll Theme is a free responsive Jekyll theme, forked from  [personal-jekyll-theme](https://panossakkos.github.io/personal-jekyll-theme/).  I've updated add my personal info in and to remove the centre justification which I didn't much like and probably one or two other bit'n'bobs.
 
