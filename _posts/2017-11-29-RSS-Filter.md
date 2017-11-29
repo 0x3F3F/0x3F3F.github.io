@@ -6,7 +6,7 @@ category: linux
 tags: [ 'RSS' ]
 ---
 
-I've wrote a very basic filter for Fresh RSS.  It simply allows me to specify filteres for individual feeds in a json file as follows:
+I've wrote a very basic filter for FreshRSS.  It simply allows me to specify filters for individual feeds using a json file as follows:
 
 ```json
 [
@@ -31,14 +31,15 @@ I've wrote a very basic filter for Fresh RSS.  It simply allows me to specify fi
 ]
 ```
 
-The json file is user specific, so each user can define their own filters.
+The json file is user specific, so each user can define their own filters.  Which is nice.
 
-It has two modes of operation.  If the 'default' parameter is set to Hide, thee the words in the 'filters' section will unhide an 
-article if they appear in the title or content. If the Default is set o show, then the defined words will hide an article.  It's 
+It has two modes of operation.  If the 'default' parameter is set to 'hide', then the words in the 'filters' section will unhide an 
+article if they appear in the title or content. If the Default is set to 'show', then the defined words will hide an article.  It's 
 pretty basic, but works well for my needs.
 
 I've [checked the code in](https://github.com/0x3F3F/RssTools/tree/master/FreshRSS/extensions/xExtension-SimpleArticleFilter) over at 
-github in a new RssTools repository.  Here's what it looks like:
+github in a new RssTools repository.  It's the first code I've wrote in PHP for years so could be all wrong, but here's what it looks 
+like anyway:
 
 ```php
 // Performs a very simple filtering operation on rss feeds.
@@ -74,7 +75,7 @@ class SimpleArticleFilterExtension extends Minz_Extension {
     foreach($filterSettings as $filterEntry)
     {
       // Unable to use the url as some rss feeds don't have it or are shared across many feeds ie twitter
-      // Instead use feed id which is unique, whech can be read from url eg f_8
+      // Instead use feed id which is unique, which can be read from url eg f_8
       if (strpos($entry->feed(), $filterEntry->feedId) !== false)
       {
         $filterExists = true;
@@ -98,6 +99,7 @@ class SimpleArticleFilterExtension extends Minz_Extension {
         //Check. Case insensitive
         if ( stripos($titlePlusContent, $filter) !== false)
         {
+          // Got a defined word.  NO need to keep checking
           $filterMatch = true;
           break;
         }
@@ -114,6 +116,7 @@ class SimpleArticleFilterExtension extends Minz_Extension {
       }
     }
 
+    // We want to see this one!
     return $entry;
 
   }// End checkForStrings
