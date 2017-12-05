@@ -26,11 +26,11 @@ in question output reports every quarter, and I want a feed of these as they app
 `scrapy shell` to refine the tags I wanted:
 
 ```bash
-scrapy shell http://120.0.0.1/test.html
+scrapy shell http://127.0.0.1/test.html
 >response.css('li.views-row a::attr(title)')
 ```
 
-This looked for the title of tags &lt;a&gt; nested within &lt;li class="views-row"&gt; tags. 
+This looked for the title tags of &lt;a&gt; nested within &lt;li class="views-row"&gt; tags. 
 Following the investigation, I then came up with the spider:
 
 ```python
@@ -80,7 +80,7 @@ scrapy runspider PersaonalAssets_spider.py -o test.xml
 ```
 
 This worked and output xml to the supplied file.  I did get one warning stating that service_identity 
-cannot import opentype.  Internet searched told me this was due to pyasn1 not being installed, but I 
+cannot import opentype.  An Internet search told me this was due to pyasn1 not being installed, but I  
 was confused as it was.  After much headscratching I ran a `scrapy version -v` and noted that it was 
 using php3, even though default on my system was php2.  I then ran `pip3 install service_identity` which worked!
 
@@ -143,7 +143,7 @@ FEED_EXPORTERS = {'xml' : 'SiteCrawler.feedexport.RssXmlItemExporter'}
 
 ## Adding a Title tag
 
-I decide that I'd like to add in a title tag, which turned out to be much harder than I thought.  The 
+I decide that I'd like to add in a title tag for the whole feed, which turned out to be much harder than I thought.  The 
 problem was that the parameters from the spider class were not available in the exporter.
 
 After much reading, I decided the way to do this was for me to write a pipeline which would explicitly call 
@@ -159,12 +159,12 @@ class SitecrawlerPipeline(object):
 
 	def __init__(self, settings):
 
-		# Following items were set in spider using custom_setting dict.
+		# Following items were set in spider using custom_settings dict.
 		self.rss_title = settings.get("RSS_TITLE")
 		self.rss_link = settings.get("RSS_LINK")
 		self.rss_output_file = "output_feeds/" + settings.get("RSS_OUTPUT_FILE")
 
-		# Setting for the exporter.  These are comings from gloabal settings.py
+		# Settings for the exporter.  These come from global settings.py
 		exporterSettings = 	{}
 		exporterSettings['fields_to_export'] = settings.get("FEED_EXPORT_FIELDS")
 		exporterSettings['indent'] = settings.get("FEED_EXPORT_INDENT")
@@ -221,7 +221,7 @@ ITEM_PIPELINES = {
 }
 ```
 
-## Finished xml
+## Finished RSS Feed
 
 Running this spider then gave the following xml, which I could point my feed reader to.  The plan being to run 
 the scripts daily on a CRON. My next task is to create new spiders for each site that I check.
@@ -254,7 +254,10 @@ the scripts daily on a CRON. My next task is to create new spiders for each site
 ```
 
 
-Hopefully someone will find this useful.  I suspect I will return to using scrapy when I get round to looking into machine learning, 
+Hopefully someone will find this useful, there weren't any end to end guides - strange as I thought exporting to 
+ RSS would be one of it's main uses.  I've checked it all into [github](https://github.com/0x3F3F/RssTools/tree/master/SiteCrawler).
+
+  I suspect I will return to using scrapy whee I get round to looking into machine learning, 
 as can use it to scrape learning data. Useful articles [here](https://stackoverflow.com/questions/14075941/how-to-access-scrapy-settings-from-item-pipeline), 
 [here](https://doc.scrapy.org/en/latest/topics/item-pipeline.html#write-items-to-mongodb), 
 [here](http://www.scrapingauthority.com/2016/09/19/scrapy-exporting-json-and-csv/) and [here](https://github.com/nblock/feeds/blob/master/feeds/pipelines.py).
