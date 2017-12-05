@@ -6,8 +6,8 @@ category: linux
 tags: [ 'RSS' ]
 ---
 
-After my [unsuccefful attempts](2017-11-26-RSS-Tools) to use existing RSS tools to create feeds from sites that don't have them, 
-I decided to write my own based around [scrapy](https://scrapy.org).
+After my [unsuccefful attempts](http://www.iainbenson.com/linux/2017/11/26/RSS-Tools.html) to use existing RSS 
+tools to create feeds from sites that don't have them, I decided to write my own based around [scrapy](https://scrapy.org).
 
 ## Setup Scrapey and First Spider
 
@@ -87,7 +87,7 @@ using php3, even though default on my system was php2.  I then ran `pip3 install
 ## Creating A Valid RSS Feed
 
 The feed created by the tool appeared to be missing **rss** and **channel** tags.  So, I tried to 
-write (or rather update) the default exporter, to add them in.  Here's what I came up with:
+write new exporter, to add them in.  Here's what I came up with:
 
 ```python
 from scrapy.exporters import XmlItemExporter 
@@ -103,7 +103,7 @@ class RssXmlItemExporter(XmlItemExporter):
 	def start_exporting_rss(self, rss_title, rss_link):
 		"""
 		Adds opening tags, including channel and rss
-		Additionall adds a title and link to teh feed.
+		Additionall adds a title and link to the feed.
 		"""
 		self.xg.startDocument()
 
@@ -176,10 +176,12 @@ class SitecrawlerPipeline(object):
 		# Open the rss file for writing 
 		self.file = open(self.rss_output_file,"wb")	# Overwrites existing
 
-		# Now setup the exporter to be used.  Can pass params separately, but I'm using dict.
+		# Now setup the exporter to be used.  
+		# Can pass params separately, but I'm using dict.
 		self.exporter = RssXmlItemExporter(self.file, **exporterSettings)
 
-		# Useful to know how to tie signals to functions.  open/close_spider automatically setup
+		# Useful to know how to tie signals to functions.  
+		# open/close_spider automatically setup
 		# dispatcher.connect(self.SpiderOpenFunc, signals.spider_opened)
 		# dispatcher.connect(self.SpiderCloseFunc, signals.spider_closed)
 
@@ -187,9 +189,11 @@ class SitecrawlerPipeline(object):
 	@classmethod
 	def from_crawler(cls, crawler):
 		"""
-		This function changes how the crawler engine calls the pipeline __init__ function
-		The additional parameters are added.  Therefore need to update init above to include extra param(s)
-		This allows access to global settings (settings.py) and custom setting from within spider
+		This function changes how the crawler engine calls the pipeline 
+		__init__ function.  The additional parameters are added.  Therefore 
+		need to update init above to include extra param(s). This allows 
+		access to global settings (settings.py) and custom setting from within 
+		spider
 		"""
 		settings = crawler.settings
 		return cls(settings)
