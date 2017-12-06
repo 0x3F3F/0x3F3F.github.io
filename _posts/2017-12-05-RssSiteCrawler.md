@@ -6,10 +6,11 @@ category: linux
 tags: [ 'RSS' ]
 ---
 
-After my [unsuccefful attempts](http://www.iainbenson.com/linux/2017/11/26/RSS-Tools.html) to use existing RSS 
-tools to create feeds from sites that don't have them, I decided to write my own based around [scrapy](https://scrapy.org).
+After my [unsuccessful attempts](http://www.iainbenson.com/linux/2017/11/26/RSS-Tools.html) to use existing RSS 
+tools to create feeds from sites that don't have them, I decided to write my own based around [scrapy](https://scrapy.org).  It's 
+called [SiteCrawler](https://github.com/0x3F3F/RssTools/tree/master/SiteCrawler).
 
-## Setup Scrapey and First Spider
+## Setup Scrapy and Creating My First Spider
 
 After installing scrapy using pip, I first ran a command to set-up a project, which created a directory 
 structure and various files.
@@ -148,7 +149,7 @@ problem was that the parameters from the spider class were not available in the 
 
 After much reading, I decided the way to do this was for me to write a pipeline which would explicitly call 
 the exporter methods.  I guess scrapy uses a default one if none present.  This provides a customisable way to 
-process the data that I've scraped.
+process the data that I've scraped, giving me full control.
 
 I fetched the name/url items from the spider and then passed them into the appropriate function call.
 
@@ -254,10 +255,10 @@ the scripts daily on a CRON. My next task is to create new spiders for each site
 ```
 
 
-Hopefully someone will find this useful, there weren't any end to end guides - strange as I thought exporting to 
+Hopefully someone will find this useful, there weren't any end to end guides which was strange as I thought exporting to 
  RSS would be one of it's main uses.  I've checked it all into [github](https://github.com/0x3F3F/RssTools/tree/master/SiteCrawler).
 
-  I suspect I will return to using scrapy whee I get round to looking into machine learning, 
+  I suspect I will return to using scrapy when I get round to looking into machine learning, 
 as can use it to scrape learning data. Useful articles [here](https://stackoverflow.com/questions/14075941/how-to-access-scrapy-settings-from-item-pipeline), 
 [here](https://doc.scrapy.org/en/latest/topics/item-pipeline.html#write-items-to-mongodb), 
 [here](http://www.scrapingauthority.com/2016/09/19/scrapy-exporting-json-and-csv/) and [here](https://github.com/nblock/feeds/blob/master/feeds/pipelines.py).
