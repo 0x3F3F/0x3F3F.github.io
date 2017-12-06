@@ -31,8 +31,11 @@ scrapy shell http://127.0.0.1/test.html
 >response.css('li.views-row a::attr(title)')
 ```
 
-This looked for the title tags of &lt;a&gt; nested within &lt;li class="views-row"&gt; tags. 
-Following the investigation, I then came up with the spider:
+This looked for the title tags of &lt;a&gt; nested within &lt;li class="views-row"&gt; tags.  One tip here was 
+that after I changed the pipeline/extractor (below) the shell stopped working -  Changinig scrapy.cfg attribute from 
+`SiteCrawler.settings` to `scrapy.settings` reset to the default config and restored shell operation.  
+
+Following a bit of investigation, I then came up with the following spider:
 
 ```python
 import scrapy
@@ -258,8 +261,14 @@ the scripts daily on a CRON. My next task is to create new spiders for each site
 Hopefully someone will find this useful, there weren't any end to end guides which was strange as I thought exporting to 
  RSS would be one of it's main uses.  I've checked it all into [github](https://github.com/0x3F3F/RssTools/tree/master/SiteCrawler).
 
-  I suspect I will return to using scrapy when I get round to looking into machine learning, 
-as can use it to scrape learning data. Useful articles [here](https://stackoverflow.com/questions/14075941/how-to-access-scrapy-settings-from-item-pipeline), 
+I've created several spiders and each one only takes around 10 mins or so, so am very happy with the rapid setup.  My next task is to expand 
+some of the spiders to operate on mutiple pages on the same site.  I'm also eying scraping a phpBB site, but that will involve it logging 
+in to get a session ID......
+
+I suspect I will return to using scrapy when I get round to looking into machine learning, so 
+as to  use it to scrape learning data. Hopefully I'll be more of a scraping expert by then.
+
+Useful articles [here](https://stackoverflow.com/questions/14075941/how-to-access-scrapy-settings-from-item-pipeline), 
 [here](https://doc.scrapy.org/en/latest/topics/item-pipeline.html#write-items-to-mongodb), 
 [here](http://www.scrapingauthority.com/2016/09/19/scrapy-exporting-json-and-csv/) and [here](https://github.com/nblock/feeds/blob/master/feeds/pipelines.py).
 
