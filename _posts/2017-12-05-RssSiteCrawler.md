@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: RSS Site Crawler
-category: linux
+category: dev
 tags: [ 'RSS' ]
 ---
 
