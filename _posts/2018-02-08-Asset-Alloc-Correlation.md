@@ -14,20 +14,20 @@ significantly less volatility ie with max draw downs in teens instead of 50%+.
 
 Here's the chart:
 
-![Asset Allocation Correlation](/img/2017/20180208_AACorrelation.jpg)
+![Asset Allocation Correlation](/img/2018/20180208_AACorrelation.jpg)
 
 Between 1916-2016, the return on S&P was 18.4 times, compared to 37.9 times for the rebalanced portfolio.
 
-It may seem quite unintuitive, but the chart is showing that **adding a vastly underperforming asset can significantly 
-increase the total return** of a re-balanced portfolio compared to 100% equity.  The key is that the **assets are uncorrelated**, 
+It may seem quite unintuitive, but the chart is showing that __adding a vastly underperforming asset can significantly 
+increase the total return__ of a re-balanced portfolio compared to 100% equity.  The key is that the __assets are uncorrelated__, 
 that one is zigging while the other zagging - this is more important than the return of the asset (which is aweful).  
 
 
 Mark Spiz nagel explains this as follows:
 
 *As long as the underperforming component adds value during market weakness, the rebalanced portfolio experiences 
-reduced drawdowns and, therefore, compounds at a higher rate over time. Most sensible investors look only for  
-opportunities with the highest returns, but long term returns greatly depend on having uncorrelated components,
+reduced drawdowns and, therefore, compounds at a higher rate over time. Most sensible investors look only for
+opportunities with the highest returns, but __long term returns greatly depend on having uncorrelated components__,
 even if some of those components have a low return or even no overall return*
 
 Another point worth bearing in mind is how correlations may change over time.  Currently many 60:40 equity/bond portfolios are 
