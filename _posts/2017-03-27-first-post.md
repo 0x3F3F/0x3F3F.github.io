@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: First Post
-category: tech
+category: Random
 tags: [ 'intro' ]
 ---
 

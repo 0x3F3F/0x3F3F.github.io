@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: RSS Feed Readers Part IV - Filter Tools
-category: dev
+category: Dev
 tags: [ 'RSS' ]
 ---
 
