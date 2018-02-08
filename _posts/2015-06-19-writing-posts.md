@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Writing posts
 category: Random
-tags: [ 'tutorial' ]
+tags: [ 'Tutorial' ]
 ---
 
 ### Creating a new post

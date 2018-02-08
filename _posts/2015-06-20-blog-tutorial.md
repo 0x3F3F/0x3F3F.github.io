@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Setting up the Blog
 category: Random
-tags: [ 'tutorial' ]
+tags: [ 'Tutorial' ]
 ---
 
 A website is truly personal if it hosts your blog as well, this place of the internet

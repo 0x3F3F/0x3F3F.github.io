@@ -3,7 +3,6 @@ layout: post
 section-type: post
 title: First Post
 category: Random
-tags: [ 'intro' ]
 ---
 
 This is my first post, just testing it out.  Initial thoughts: Front page looks good, but the centre alignment looks bad on individual blog posts (update: sort of fixed).
