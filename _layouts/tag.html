@@ -21,7 +21,7 @@
           <div>
             {% for post in site.posts %}
               {% for t in post.tags %}
-                {% capture tg %}{{ t | downcase }}{% endcapture %}
+                {% capture tg %}{{ t | replace:" ","-" }}{% endcapture %}
                 {% if tg == tag %}
                   {% include post-list.html%}
                 {% endif %}
