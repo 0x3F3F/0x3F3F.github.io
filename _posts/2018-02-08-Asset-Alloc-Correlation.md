@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Importance of Correlation In Asset Allocation
 category: Investment
-tags: [ 'Asset Allocation' ]
+tags: [ 'Asset-Allocation' ]
 ---
 
 I recently came across the chart below and thought I'd save it for future reference, along with some brief notes.
