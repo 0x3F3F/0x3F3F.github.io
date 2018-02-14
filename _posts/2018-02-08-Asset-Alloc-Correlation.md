@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Importance of Correlation In Asset Allocation
+title: Importance of Non-Correlation In Asset Allocation
 category: Investment
 tags: [ 'AssetAllocation' ]
 ---
