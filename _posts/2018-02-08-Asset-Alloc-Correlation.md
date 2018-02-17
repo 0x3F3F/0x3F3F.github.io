@@ -47,11 +47,11 @@ To recap, the correlation figures range between 1 and -1, where +1 is a perfect 
 0 represents no correlation (no relationship betwen the items).  Negative values signify negative correlations, that is when one goes up 
 the other goes down.
 
-The table indicates that gold is a useful diversifier, with no correlation.  It also shows that bonds have been an excellent diversifier, 
+W.r.t. equities, the table indicates that gold is a useful diversifier, with no correlation.  It also shows that bonds have been an excellent diversifier, 
 being strongly negatively correlated.  Commodities too look like they could be useful, though they appear to be more correlated in the recent 
 past. The other item missing from the table is cash.
 
-The Bond figures go from -0.39 (20y), -0.29(10y), -0.13(5y) which shows that they are clearly becoming more correlated.  So maybe not as essentail as 
+The Bond/equity correlations go from -0.39 (20y), -0.29(10y), -0.13(5y) which shows that they are clearly becoming more correlated.  So maybe not as essential as 
 the table suggests?
 
 This information should provide a helpful starting point when thinking about an initial portfolio asset allocation. 
