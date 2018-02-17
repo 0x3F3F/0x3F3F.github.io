@@ -25,10 +25,10 @@ that one is zigging while the other zagging - this is more important than the re
 
 Mark Spiz-nagel explains this as follows:
 
-*"As long as the underperforming component adds value during market weakness, the rebalanced portfolio experiences 
-reduced drawdowns and, therefore, compounds at a higher rate over time. Most sensible investors look only for
-opportunities with the highest returns, but long term returns greatly depend on having uncorrelated components,
-even if some of those components have a low return or even no overall return"*
+	"As long as the underperforming component adds value during market weakness, the rebalanced portfolio experiences 
+	reduced drawdowns and, therefore, compounds at a higher rate over time. Most sensible investors look only for
+	opportunities with the highest returns, but long term returns greatly depend on having uncorrelated components,
+	even if some of those components have a low return or even no overall return"
 
 Another point worth bearing in mind is how correlations may change over time.  Currently many 60:40 equity/bond portfolios are 
 popular. In the past bonds/equities have been uncorrelated and so provided a good hedge, the worry is that in the recent past 
