@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 40px 0 10px;
+    margin: 0 0 35px;
     text-transform: uppercase;
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -49,13 +49,13 @@ h4 {
 }
 
 p {
-    margin: 20px 0 5px;
+    margin: 0 0 25px;
     font-size: 18px;
 	font-weight: 400;
 	font-style: normal;
     line-height: 1.5;
     @media(min-width:768px) {
-        margin: 20px 0 5px;
+        margin: 0px 0 25px;
         font-size: 18px;
         line-height: 1.6;
     }
@@ -281,12 +281,14 @@ a {
     }
 }
 
-/* IRB: Move post content up a bit */
+/* IRB: Post page settings.  First move post content up a bit */
 .irb_fudge {
     margin-top: 50px;
     padding-top: 50px;
 }
-
+.irb_fudge p{margin: 20px 0 5px;}
+.irb_fudge h1{margin: 40px 0 10px;}
+.irb_fudge h2{margin: 40px 0 10px;}
 
 .btn {
     border-radius: 0;
