@@ -284,9 +284,14 @@ a {
     margin-top: 50px;
     padding-top: 50px;
 }
+/* Fix paragraph and heading spacing in posts.  Don;t aply to main page as screws up positioning */
 .irb_fudge p{margin: 20px 0 5px;}
 .irb_fudge h1{margin: 40px 0 10px;}
 .irb_fudge h2{margin: 40px 0 10px;}
+.irb_fudge h3{margin: 40px 0 10px;}
+.irb_fudge h4{margin: 40px 0 10px;}
+.irb_fudge h5{margin: 40px 0 10px;}
+.irb_fudge h6{margin: 40px 0 10px;}
 
 .btn {
     border-radius: 0;
