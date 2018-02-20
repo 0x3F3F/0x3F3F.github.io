@@ -21,31 +21,22 @@
 
           <h3 id="#{{ page.title  }}" style="text-transform:none;">{{ page.title }}</h3>
 
-				<h4 align="left"><small>Click the tag to see related posts: <br class="visible-xs-block"></small></h4>
+					{% comment %}
+					=======================
+					The purpose of this snippet is to list all the tags you have in your site.
+					=======================
+					
+					{% endcomment %}
+
+					<p>
+					{% for tag in tags %}
+						<a class="post-tag" href="{{site.baseurl}}/tags/{{ tag }}.html">{{ tag }}</a>
+					{% endfor %}
+					</p>
+
 				</div>
 			</div>
 
-			<div class="row">
-        <div class="col-md-6 col-md-offset-5 col-xs-6 col-xs-offset-5">
-          <div>
-
-
-				{% comment %}
-				=======================
-				The purpose of this snippet is to list all the tags you have in your site.
-				=======================
-				
-				{% endcomment %}
-
-				<p>
-				{% for tag in tags %}
-					<a class="post-tag" href="{{site.baseurl}}/tags/{{ tag }}.html">{{ tag }}</a>
-				{% endfor %}
-				</p>
-
-          </div>
-        </div>
-      </div>
     </section>
 
     {% include footer.html %}
