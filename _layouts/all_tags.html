@@ -26,7 +26,7 @@
 
 			<div class="row">
         <div class="col-md-8 col-md-offset-3 col-xs-8 col-xs-offset-3">
-          <div>
+          <div style="text-align: left;">
 
 
 				{% comment %}
@@ -35,7 +35,19 @@
 				=======================
 				{% endcomment %}
 				{% for tag in tags %}
-				<p>Posts tagged: <a class="post-tag" href="{{site.baseurl}}/tags/{{ tag }}.html">{{ tag }}</a></p>
+					<p>Posts tagged: <a class="post-tag" href="{{site.baseurl}}/tags/{{ tag }}.html">{{ tag }}</a></p>
+
+					{% for post in site.posts %}
+
+						{% if tag in post.tags %}
+							<h4 align="left">
+							<strong>{{ post.date | date_to_string }}</strong><br />
+							<a href="{{site.baseurl}}{{post.url}}">{{ post.title}}</a><br class="visible-xs-block">
+							</h4>
+						{% endif %}
+				
+					{% endfor %}
+
 				{% endfor %}
 
 
