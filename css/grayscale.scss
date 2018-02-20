@@ -287,12 +287,20 @@ a {
 /* Fix paragraph and heading spacing in posts.  Don;t aply to main page as screws up positioning */
 .irb_fudge p{margin: 20px 0 5px;}
 .irb_fudge h1{margin: 40px 0 10px;}
-.irb_fudge h2{margin: 40px 0 10px;}
-.irb_fudge h3{margin: 40px 0 10px;}
-.irb_fudge h4{margin: 40px 0 10px;}
-.irb_fudge h5{margin: 40px 0 10px;}
-.irb_fudge h6{margin: 40px 0 10px;}
-.irb_fudge blockquote p{color: #4d4d4d; margin: 5px, 0, 5px, 0;}
+.irb_fudge h2{margin: 40px 0 10px;text-transform:none;}
+.irb_fudge h3{margin: 40px 0 10px;text-transform:none;}
+.irb_fudge h4{margin: 40px 0 10px;text-transform:none;}
+.irb_fudge h5{margin: 40px 0 10px;text-transform:none;}
+.irb_fudge h6{margin: 40px 0 10px;text-transform:none;}
+
+.irb_fudge blockquote { background:#f0f7fd; border-left:10px solid #b7cee0; margin:1.5em 10px;padding:.5em 10px; blockquote{background:#f0f7fd;border-left:1em solid #b7cee0;margin:1.5em 1em;padding:.5em 1em;quotes:"\201C""\201D";}}
+/*.irb_fudge blockquote:before{color:#808080;content:open-quote;font-size:4em;line-height:.1em;margin-right:.25em;vertical-align:-.4em;}*/
+.irb_fudge blockquote :first-child{display:inline;}
+.irb_fudge blockquote :last-child{margin-bottom:0;}
+
+
+
+
 
 .btn {
     border-radius: 0;
