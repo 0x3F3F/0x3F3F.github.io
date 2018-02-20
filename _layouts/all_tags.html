@@ -34,7 +34,7 @@
 				=======================
 				{% endcomment %}
 				{% for tag in tags %}
-					<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+				<p>Posts tagged: <a class="post-tag" href="{{site.baseurl}}/tags/{{ tag }}.html">{{ tag }}</a></p>
 				{% endfor %}
 
 
