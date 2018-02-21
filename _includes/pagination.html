@@ -2,7 +2,7 @@
 <!-- Pagination Links Start -->
   <h4>
   {% if paginator.previous_page %}
-    <a href="{{site.baseurl}}{{paginator.previous_page_path}}" class="previous">Newer Posts</a>
+    <a class="smaller" href="{{site.baseurl}}{{paginator.previous_page_path}}" class="previous">Newer Posts</a>
   {% endif %}
 
   {% if paginator.previous_page and paginator.next_page %}
@@ -10,7 +10,7 @@
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="{{site.baseurl}}{{paginator.next_page_path}}" class="next">Older Posts</a>
+    <a class="smaller"  href="{{site.baseurl}}{{paginator.next_page_path}}" class="next">Older Posts</a>
   {% endif %}
   </h4>
 <!-- Pagination Links End -->

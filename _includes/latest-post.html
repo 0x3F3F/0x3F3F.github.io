@@ -14,7 +14,7 @@
 				<div style="align:center; display:inline-block;">              
 					<!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
 					{% for post in site.posts limit: 5 %}
-						<h4 align="left"> <span style="smaller"> {{ post.date | date_to_string }} </span>
+						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
 							<small>.
 								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
 									{{ post.category }}
@@ -27,7 +27,7 @@
 					{% endfor %}
 				</div>
     
-        <h4><a href="{{site.baseurl}}/blog/">Read Full Archive</a></h4>
+        <h4><a class="smaller" href="{{site.baseurl}}/blog/">Read Full Archive</a></h4>
       </div>
     </div>
     
