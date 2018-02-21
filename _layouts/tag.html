@@ -20,11 +20,7 @@
           <h3 id="#{{ tag }}" style="text-transform:none;">Posts tagged '{{ tag }}'</h3>
 
 					{% include blog_nav.html  %}
-				</div>
-			</div>
 
-			<div class="row">
-        <div class="col-md-8 col-md-offset-3 col-xs-8 col-xs-offset-3">
           <div>
             {% for post in site.posts %}
               {% for t in post.tags %}

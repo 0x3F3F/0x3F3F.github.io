@@ -21,9 +21,8 @@
 
           <h1><strong>{{ page.title }}</strong></h1>
           <h4>
-            <strong>{{ page.date | date_to_string }}</strong>
             <small>
-              . category:
+							{{ page.date | date_to_string }} . Category:
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
                 {{ page.category }}
               </a>

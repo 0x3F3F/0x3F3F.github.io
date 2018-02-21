@@ -9,30 +9,24 @@
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
         {{ page.content | markdownify }}
-			{% include blog_nav.html %}
-			</div>
-    </div>
+				{% include blog_nav.html %}
     
-    <div class="row">
-      <div class="col-md-8 col-md-offset-3 col-xs-8 col-xs-offset-3">
-        <!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
-        {% for post in site.posts limit: 5 %}
-          <h4 align="left"> <strong> {{ post.date | date_to_string }} </strong>
-            <small>.
-              <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
-                {{ post.category }}
-              </a>
-            </small>
-						<br />
-            <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-            <!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
-          </h4>
-        {% endfor %}
-        </div>
-    </div>
+				<div style="align:center; display:inline-block;">              
+					<!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
+					{% for post in site.posts limit: 5 %}
+						<h4 align="left"> <strong> {{ post.date | date_to_string }} </strong>
+							<small>.
+								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+									{{ post.category }}
+								</a>
+							</small>
+							<br />
+							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+							<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
+						</h4>
+					{% endfor %}
+				</div>
     
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1">
         <h4><a href="{{site.baseurl}}/blog/">Read Full Archive</a></h4>
       </div>
     </div>
