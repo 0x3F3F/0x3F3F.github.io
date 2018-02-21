@@ -19,9 +19,11 @@
           {% assign tag = page.title %}
           <h3 id="#{{ tag }}" style="text-transform:none;">Posts tagged '{{ tag }}'</h3>
 
+					<div style="align:center; display:inline-block;">              
 					{% include blog_nav.html  %}
+          </div>
 
-          <div>
+					<div style="align:center; display:inline-block;">              
             {% for post in site.posts %}
               {% for t in post.tags %}
                 {% capture tg %}{{ t }}{% endcapture %}
@@ -31,6 +33,7 @@
               {% endfor %}
             {% endfor %}
           </div>
+
         </div>
       </div>
     </section>
