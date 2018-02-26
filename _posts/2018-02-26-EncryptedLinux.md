@@ -22,7 +22,7 @@ swap, home.  At this stage all unencrypted:
 As the boot partition remains unencrypted, I formatted only the partitions that were to be encrypted as follows (as
 superuser):
 
-```shellsession
+```no-highlight
 cryptsetup luksFormat /dev/sda6
 cryptsetup luksFormat /dev/sda7
 cryptsetup luksFormat /dev/sda8
@@ -30,7 +30,7 @@ cryptsetup luksFormat /dev/sda8
 
 I then opened these encrypted volumes as follows:
 
-```shellsession
+```no-highlight
 cryptsetup luksOpen /dev/sda6 root
 cryptsetup luksOpen /dev/sda7 swap
 cryptsetup luksOpen /dev/sda7 home
@@ -39,7 +39,7 @@ cryptsetup luksOpen /dev/sda7 home
 This creates unencrypted entries with corresponding names in **/dev/mapper/**.  It's these that should be mounted, should there
 ever be an issue and the data needs to be retrieved.  With the devices unencrypted, I then created their filesystems
 
-```shellsession
+```no-highlight
 mkfs.ext4 /dev/mapper/root
 mkfs.ext4 /dev/mapper/home
 mkswap /dev/mapper/swap
@@ -62,7 +62,7 @@ Then continue with the install process.  Once complete, choose **"Continue Testi
 
 The following directories need to be mounted, using **chroot** as we're running from our Live USB:
 
-```shellsession
+```no-highlight
 cd /mnt
 mkdir root
 mount /dev/mapper/root root
@@ -82,7 +82,7 @@ it's the sda7 line that was needed)
 
 The crypttab file can be created using `vi /etc/crypttab` and should be edited as follows (Using UUIDs from above):
 
-```shellsession
+```no-highlight
 root UUID=f0f7443a-2530-68b36158793f none luks
 root UUID=50f7443a-249c-e7b36158353a none luks,swap
 home UUID=a757443a-4163-c2376154793d none luks
@@ -95,7 +95,7 @@ a re-boot.
 
 The initramfs is a boot filesystem image, used to mount root (Or something like that). I found that I had to regenerate locale as otherwise I got an error relating to no support for en_US.utf8
 
-```shellsession
+```no-highlight
 locale-gen --purge --no-archive
 update-initramfs -u
 ```
@@ -105,7 +105,7 @@ update-initramfs -u
 If the headers in the LUKS volumes become corrupted, then the partition will become unusable.  It is a good idea to have a backup 
 to restore from.  This was done as a root user as follows:
 
-```shellsession
+```no-highlight
 cryptsetup luksHeaderBackup /dev/sda6 --header-backup-file /root/root.img
 cryptsetup luksHeaderBackup /dev/sda7 --header-backup-file /root/home.img
 ```
@@ -139,7 +139,7 @@ doing a `top` confirmed my swap was was 0.
 I think what had went wrong was that on re-creating the swap, the UUID had got trashed.  I booted into the Live usb again and
 recreated the swap area manually:
 
-```shellsession
+```no-highlight
 cryptsetup luksFormat /dev/sda7
 cryptsetup luksOpen /dev/sda7 swap
 mkswap /dev/mapper/swap 
@@ -148,7 +148,7 @@ mkswap /dev/mapper/swap
 I them re-performed the mappping/chroot operations and edited the swap line in the crypttab file to use the new UUID and regenerate 
 a password:
 
-```shellsession
+```no-highlight
 root UUID=68e7423a-a3f2-e7b36158353a /dev/urandom offset=2048,cipher=aex-xts-plain64,size=256,swap
 ```
 
