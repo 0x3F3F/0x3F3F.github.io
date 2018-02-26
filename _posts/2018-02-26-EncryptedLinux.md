@@ -22,18 +22,18 @@ swap, home.  At this stage all unencrypted:
 As the boot partition remains unencrypted, I formatted only the partitions that were to be encrypted as follows (as
 superuser):
 
-```
-cryptsetup luksFormat /dev/sda6
-cryptsetup luksFormat /dev/sda7
-cryptsetup luksFormat /dev/sda8
+```shellsession
+# cryptsetup luksFormat /dev/sda6
+# cryptsetup luksFormat /dev/sda7
+# cryptsetup luksFormat /dev/sda8
 ```
 
 I then opened these encrypted volumes as follows:
 
-```
-cryptsetup luksOpen /dev/sda6 root
-cryptsetup luksOpen /dev/sda7 swap
-cryptsetup luksOpen /dev/sda7 home
+```shellsession
+$ cryptsetup luksOpen /dev/sda6 root
+$ cryptsetup luksOpen /dev/sda7 swap
+$ cryptsetup luksOpen /dev/sda7 home
 ```
 
 This creates unencrypted entries with corresponding names in **/dev/mapper/**.  It's these that should be mounted, should there
@@ -148,7 +148,7 @@ mkswap /dev/mapper/swap
 I them re-performed the mappping/chroot operations and edited the swap line in the crypttab file to use the new UUID and regenerate 
 a password:
 
-```
+```text
 root UUID=68e7423a-a3f2-e7b36158353a /dev/urandom offset=2048,cipher=aex-xts-plain64,size=256,swap
 ```
 
