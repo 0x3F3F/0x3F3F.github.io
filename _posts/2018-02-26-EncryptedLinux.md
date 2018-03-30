@@ -52,7 +52,7 @@ I then proceeded to install Linux using the install option in the live USB.  Whe
 swap mount points:
 
 Select `/dev/mapper/root`, click Change select **ext4** and mount point **/**  
-Select `/dev/mapper/home`, click Change select **ext4** and mount point **/home** 
+Select `/dev/mapper/home`, click Change select **ext4** and mount point **/home**  
 Select `/dev/mapper/swap`, click Change select **swaparea**  
 Select `/dev/sda5`, click Change select **ext2** and mount point **/boot**  
 
@@ -154,7 +154,7 @@ root UUID=68e7423a-a3f2-e7b36158353a /dev/urandom offset=2048,cipher=aex-xts-pla
 
 This uses a random password, which is discarded at shutdown, so no need to enter a password manually.  
 
-As I suspect the UUID was previously being trashed when the swap was re-created.  The **offset=2048** means there is a 1Mb 
+As I suspected the UUID was previously being trashed when the swap was re-created, I added the **offset=2048** which means there is a 1Mb 
 offset used when re-creating the swap and thus the original UUID/LABEL is maintained rather than wiped since they live in the 
 initial 1Mb header.  As the UUID will remain unchanged, the crypttab entry is always valid and the swap should be correctly mounted.
 
