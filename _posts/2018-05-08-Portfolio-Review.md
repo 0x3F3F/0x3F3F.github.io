@@ -6,11 +6,11 @@ category: Portfolio
 tags: [ 'PortfolioReview' ]
 ---
 
-![Overall](/img/2018/20180508_PortfolioReview_Overall.png)
+<img style="border: 0;" src="/img/2018/20180508_PortfolioReview_Overall.png" />
 
-![Multi Asset Portfolio](/img/2018/20180508_PortfolioReview_MultiAsset.png)
+<img style="border: 0;" src="/img/2018/20180508_PortfolioReview_MultiAsset.png" />
 
-<img src="/img/2018/20180508_PortfolioReview_ThematicGrowth.png">
+<img style="border: 0;" src="/img/2018/20180508_PortfolioReview_ThematicGrowth.png"/>
 
 ## Commentary
 
