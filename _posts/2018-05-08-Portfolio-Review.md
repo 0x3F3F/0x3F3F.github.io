@@ -10,7 +10,7 @@ tags: [ 'PortfolioReview' ]
 
 ![Multi Asset Portfolio](/img/2018/20180508_PortfolioReview_MultiAsset.png)
 
-![Thematic Growth Portfolio](/img/2018/20180508_PortfolioReview_ThematicGrowth.png)
+<img src="/img/2018/20180508_PortfolioReview_ThematicGrowth.png">
 
 ## Commentary
 
