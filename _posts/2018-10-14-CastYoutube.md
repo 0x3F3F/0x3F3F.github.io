@@ -9,9 +9,8 @@ tags: [ '' ]
 
 I had been using Raspicast to cast YouTube videos from my Tablet to the TV (Raspberry Pi).
 Unfortunately, it was a bit hit and miss, sometimes failing for no reason. Given this, I
-decided to write my own solution.
+decided to write my own solution which I called `ytplay.sh` :
 
-I came up with the following script on the Pi :
 
 ```bash
 #!/bin/bash
@@ -113,7 +112,7 @@ fi
 
 I had originally used [mpv](https://mpv.io/), which was nice as it handled YouTube playlists automatically.
 But it isn't compiled to use the Raspberry Pi's hardware acceleration, so some videos were
-jerky.  I tried (and failed) to recompile it with HW acceleration, but in the end decided to switch back to
+jerky.  I tried (and failed) to recompile it with HW acceleration, so in the end decided to switch back to
 [omxplayer](https://github.com/popcornmix/omxplayer/).
 
 ## PlayVid Function
@@ -127,7 +126,7 @@ The youtube-dl '-f' option is used to try and select the required video fidelity
 aiming to retrieve mp4 no greater than 720p that the Rapberry Pi can handle.  If that fails,
 I'll just go for Best at 720p or less (The Pi has trouble with vp9, so this might not
 work).  I'm not able to fetch separate audio/video streams as is commonly done, it seems
-like there is an issue in them not getting multiplexed together and I end up with a cideo
+like there is an issue in them not getting multiplexed together and I end up with a video
 with no sound.
 
 Once I have the link, I call omxplayer with the -b option, there wasn't documentation for
@@ -166,7 +165,7 @@ pi.
 
 One minor annoyance is that youtube-dl takes a few seconds to extract the link.  This
 appears to be a known issue and is being caused by the python script importing extractors 
-(it supports hundreds of sites, not just youtube).  There is a githuub issue for this and
+(it supports hundreds of sites, not just YouTube).  There is a github issue for this and
 it looks like a flag will be added at some point to limit the extractors loaded (I did see
 a patch that could be manually applied, I may do this at some point)
 
@@ -174,7 +173,9 @@ a patch that could be manually applied, I may do this at some point)
 ## Conclusion
 
 With this set up, simply selecting share then Termux from the browser will play the media stream 
-on the Pi.  It works well. The script is available from my [github repo](https://github.com/0x3F3F/bin/blob/master/ytplay.sh).
+on the Pi.  It works well and other sites such as Vimeo, Soundcloud, etc are supported. 
+
+The script is available from my [github repo](https://github.com/0x3F3F/bin/blob/master/ytplay.sh).
 
 
 
