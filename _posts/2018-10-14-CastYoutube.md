@@ -9,7 +9,7 @@ tags: [ '' ]
 
 I had been using Raspicast to cast YouTube videos from my Tablet to the TV (Raspberry Pi).
 Unfortunately, it was a bit hit and miss, sometimes failing for no reason. Given this, I
-decided to write bash script to do this,my own solution which I called `ytplay.sh` :
+decided to write a bash script to do this, which I called `ytplay.sh` :
 
 
 ```bash
