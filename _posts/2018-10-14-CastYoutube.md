@@ -19,7 +19,7 @@ decided to write bash script to do this,my own solution which I called `ytplay.s
 #	
 #	     Script:  ytplay.sh
 #	     Author:  Iain Benson
-#	     Desc:	  Stream Youtube & other sites using omxplayer (HW acceleration)
+#	     Desc:    Stream Youtube & other sites using omxplayer (HW acceleration)
 #                 Caters for Playlists as well as single URLs.
 #
 #        Some Notes:
@@ -151,6 +151,7 @@ Termux, it looks for a handler script `termux-url-opener` :
 
 # Kill off existing ytplay instances on the Raspberry Pi
 ssh pi@raspberrypi "pgrep ytplay && killall ytplay.sh; exit"
+clear
 
 # Play video using ytplay script on the pi via ssh
 # -t option is essential to force pseudo terminal - as gives keyboard control
