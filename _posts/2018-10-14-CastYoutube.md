@@ -9,7 +9,7 @@ tags: [ '' ]
 
 I had been using Raspicast to cast YouTube videos from my Tablet to the TV (Raspberry Pi).
 Unfortunately, it was a bit hit and miss, sometimes failing for no reason. Given this, I
-decided to write my own solution which I called `ytplay.sh` :
+decided to write bash script to do this,my own solution which I called `ytplay.sh` :
 
 
 ```bash
@@ -17,25 +17,25 @@ decided to write my own solution which I called `ytplay.sh` :
 
 ############################################################################################## 
 #	
-#		Script: ytplay.sh
-#		Author:	Iain Benson
-#		Desc:	Stream Youtube using omxplayer (HW acceleration)
-#				Caters for Playlists as well as single URLs.
+#	     Script:  ytplay.sh
+#	     Author:  Iain Benson
+#	     Desc:	  Stream Youtube & other sites using omxplayer (HW acceleration)
+#                 Caters for Playlists as well as single URLs.
 #
-#		Some Notes:
-#				*Sound*
-#				omxplayer doesn't use ALSA or Raspi confib setting, but detects automagically
-#				Can force with -o flag that has options: hdmi, local, both
+#        Some Notes:
+#                 *Sound*
+#                 omxplayer doesn't use ALSA or Raspi config setting, but detects automagically
+#                 Can force with -o flag that has options: hdmi, local, both
 #
-#				*Launch from Phone (via Share manu)*
-#				Use Termux.  Create script in bin called 'termux-url-opener'
-#				Leave it to that script to kill existing ytplay instances
+#                 *Launch from Phone (via Share manu)*
+#                 Use Termux.  Create script in bin called 'termux-url-opener'
+#                 Leave it to that script to kill existing ytplay instances
 #
-#		Dependencies:
-#				omxplayer
-#				youtube-dl
-#				jq
-#				A Raspberry Pi :)
+#        Dependencies:
+#                 omxplayer
+#                 youtube-dl
+#                 jq
+#                 A Raspberry Pi :)
 #
 ############################################################################################## 
 
@@ -92,7 +92,7 @@ if [[ $1 = *"list="* ]]; then
 		# Create Url(web url not extracted omx compatable one) from id and play using our function above
 		PlayVid "https://www.youtube.com/watch?v=$URL"
 
-		# Once video terminate, give user ability to quit out of playlist
+		# Once video ends, give user ability to quit out of playlist
 		echo -e "${RED}"
 		read -p "Press q to quit playlist " -t 2 -n 1 key <&1
 		echo -e "${NO_COL}"
@@ -129,7 +129,7 @@ work).  I'm not able to fetch separate audio/video streams as is commonly done, 
 like there is an issue in them not getting multiplexed together and I end up with a video
 with no sound.
 
-Once I have the link, I call omxplayer with the -b option, there wasn't documentation for
+Once I have the  omx compatible link, I call omxplayer with the -b option, there wasn't documentation for
 that.  On old-style videos (3:4) the background terminal was visible at the sides while playing, this
 blacks them out.
 
@@ -149,11 +149,11 @@ Termux, it looks for a handler script `termux-url-opener` :
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Kill off existing ytplay instances o teh Raspberry Pi
+# Kill off existing ytplay instances on the Raspberry Pi
 ssh pi@raspberrypi "pgrep ytplay && killall ytplay.sh; exit"
 
 # Play video using ytplay script on the pi via ssh
-# it option is essential to force pseudo terminal - as gives keyboard control
+# -t option is essential to force pseudo terminal - as gives keyboard control
 ssh pi@raspberrypi -t "/home/pi/bin/ytplay.sh \"$1\""
 
 ```
@@ -163,7 +163,7 @@ pi.
 
 ## Youtube-dl Slow
 
-One minor annoyance is that youtube-dl takes a few seconds to extract the link.  This
+One minor annoyance is that youtube-dl takes a few seconds to extract the omx compatible link.  This
 appears to be a known issue and is being caused by the python script importing extractors 
 (it supports hundreds of sites, not just YouTube).  There is a github issue for this and
 it looks like a flag will be added at some point to limit the extractors loaded (I did see
