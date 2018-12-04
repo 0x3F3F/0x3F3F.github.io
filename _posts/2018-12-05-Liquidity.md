@@ -3,18 +3,18 @@ layout: post
 section-type: post
 title: Portfolio Liquidity	
 category: Portfolio
-tags: [ 'PortfolioReview' ]
+tags: [ '' ]
 ---
 
 
-A rather dull topic, though worth a note so as I can document my thoughts for future
+A rather dull topic, though worth a note so as I can document my thoughts for my future
 reference w.r.t. currency holdings over the Brexit transition.
 
 As I have a large percentage of my Portfolio in Cash, I've been watching the Brexit
 situation with reluctant interest.  The near term direction of `GBP` appears to be a **binary 
 bet** on the outcome of the next weeks vote.
 
-Given this, I started moving cash out of pounds sterling and into `USD`, which many feel
+Given this, I started **moving cash out of pounds** sterling and into `USD`, which many feel
 could outperform due to a dollar shortage.  I had hoped for more of a dip to move more across,
 but have managed to re-allocate a large percentage my cash holdings.
 
@@ -26,12 +26,12 @@ As of today, here's how things stand in the cash part of my portfolio:
 
 <img style="border: 0;" src="/img/2018/20181205_Liquidity.png" />
 
-**Short Term US Treasuries** (`IBTM`) - These have short duration and so are a **proxy for USD**.  Not
-sensitive to interest rates, so a good safe store of value.
+**Short Duration US Treasuries** (`IBTM`) - These have short duration (0-3yr) and so are a good 
+ **proxy for USD**.  Not sensitive to interest rates, so a good safe store of value.
 
-**Medium / Long Term US Treasuries** (`IBTM` / `IBTL`) - `USD` exposure but introduce interest rate risk,
+**Medium / Long Duration US Treasuries** (`IBTM` / `IBTL`) - `USD` exposure but introduce interest rate risk,
 with the latter being particularly sensitive.  However, on a market downturn (which I'm
-expecting) they should benefit.  Many people think this will be **the** trade for 2019.
+expecting) they should benefit.  Many people think this will be **The** trade for 2019.
 
 **Short Duration TIPS** (`TP05`) - Inflation protected US bonds with short duration.  I've added these as
 many of my multi asset funds hold similar and they seem a safe place to hide.
