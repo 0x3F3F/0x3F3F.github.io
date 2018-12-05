@@ -30,9 +30,9 @@ As of today, here's how things stand in the cash part of my portfolio:
  **proxy for USD**.  Not sensitive to interest rates, so a good safe store of value.
 
 **Medium / Long Duration US Treasuries** (`IBTM` / `IBTL`) - `USD` exposure but introduces interest rate risk,
-with the latter being particularly sensitive.  If I'm wrong and GBP/USD moves against me, I've also the possibility of making any losses back due to the bond yields falling pushing the price of the bonds up. As market weakness in 2019 is my baseline scenario, this gives me 2 bites of the same cherry - which makes it a good trade.  Obvs, strong GBP and Strong stock market would be a disater...
+with the latter being particularly sensitive.  If I'm wrong and GBP/USD moves against me, I've also the possibility of making any losses back due to the bond yields falling pushing the price of the bonds up. As market weakness in 2019 is my baseline scenario, this gives me 2 bites of the same cherry - which makes it a good trade.  Obvs, strong GBP and strong stock market would be a disaster...
 
-**Short Duration TIPS** (`TP05`) - Inflation protected US bonds with short duration.  I've added these as
+**Short Duration TIPS** (`TP05`) - Inflation protected US bonds with 0-5yr duration.  I've added these as
 many of my multi asset funds hold similar and they seem a safe place to hide.
 
 **Gold** - It's shiny. I wasn't sure to include this, hence one cart with/without above.
@@ -44,5 +44,5 @@ advantage of any downturn in the market.
 Things are made more difficult in that my accounting is in Euros, so may have to pay gains that otherwise wouldn't.  There's no way round this.  
 
 **Summary:** It's a difficult environment to choose where to hold liquidity and I'm hedging
-my bets.  I managed to largely circumvent the earlier devaluation, so hoping for similar this time round.  I told you it was dull.
+my bets.  I managed to largely circumvent the earlier devaluation, so hoping for similar this time round.  I  did tell you it was dull.
 
