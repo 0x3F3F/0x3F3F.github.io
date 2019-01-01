@@ -7,7 +7,7 @@ tags: [ 'PortfolioReview' ]
 ---
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Overall.png" />
-<img style="border: 0;" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
+<img style="border: 20 0 0 0;" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
 
 
 ## Commentary
@@ -34,10 +34,9 @@ Multi Asset portfolio which will form the core and underweight the Growth portfo
 more volatile but, er, growthy-er. 
 
 
-### Multi Asset Portfolio
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_MultiAsset.png" />
-<img style="border: 0;" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
+<img style="border: 30 0 0 0;" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
 
 The Multi Asset portfolio had a couple of transactions, adding to a defensive fund and is
 around 2/3rds invested (I'll probably re-jig portfolio weightings, so maybe less).  The 
@@ -49,10 +48,9 @@ much less volatility.  In a bear market, which I think we're in, I'd expect unde
 measure and so I'm not too disappointed with the result (Poor excuse #2).
 
 
-### Growth Portfolio
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Growth.png"/>
-<img style="border: 0;" src="/img/2019/20190101_PortfolioReview_GrowthChart.png"/>
+<img style="border: 40 0 0 0;" src="/img/2019/20190101_PortfolioReview_GrowthChart.png"/>
 
 As can be seen above, I have renamed this from Thematic Growth and reworded the investment objective and 
 methodology.  This now sets out a clear objective for what I'm trying to achieve and how I'm going to go 
@@ -75,6 +73,8 @@ we fall?  I have no idea, but here's an interesting chart :
 
 <img style="border: 0;" src="/img/2019/20190101_120YearDow.jpg" />
 
+As some guy off Twitter once remarked :
+
 > "The biggest mistake bears make is becoming bullish too early."
 
 I remember reading that if stocks were to fall 90% and you waited till 80% before buying, then you'd still lose 
@@ -85,7 +85,7 @@ time period.
 Brexit (or `GBP` performance) also adds an additional complication.  The worry is I feel forced take a position to 
 avoid a 10% currency hit, only to then take a 40% equity hit. I'm going to try and not do that.
 
-To summarise: I'm in no rush to invest in a market that I'm wary of, and have no clear plan other than to average 
+To summarise, I'm in no rush to invest in a market that I'm wary of, and have no clear plan other than to average 
 in.  I'm vaguely thinking of waiting for a 20-30% drop before averaging in, which would correspond to the 2016 level 
 from where the index took off in what looks like a blow-off top.  Saying that, things do tend to overshoot.
 
