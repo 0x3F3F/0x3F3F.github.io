@@ -7,7 +7,7 @@ tags: [ 'PortfolioReview' ]
 ---
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Overall.png" />
-<img style="border: 20 0 0 0;" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
+<img style="border: 0; padding-top:50px" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
 
 
 ## Commentary
@@ -36,7 +36,7 @@ more volatile but, er, growthy-er.
 
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_MultiAsset.png" />
-<img style="border: 30 0 0 0;" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
+<img style="border: 0; padding-top:40px" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
 
 The Multi Asset portfolio had a couple of transactions, adding to a defensive fund and is
 around 2/3rds invested (I'll probably re-jig portfolio weightings, so maybe less).  The 
@@ -50,7 +50,7 @@ measure and so I'm not too disappointed with the result (Poor excuse #2).
 
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Growth.png"/>
-<img style="border: 40 0 0 0;" src="/img/2019/20190101_PortfolioReview_GrowthChart.png"/>
+<img style="border: 0; padding-top:30px" src="/img/2019/20190101_PortfolioReview_GrowthChart.png"/>
 
 As can be seen above, I have renamed this from Thematic Growth and reworded the investment objective and 
 methodology.  This now sets out a clear objective for what I'm trying to achieve and how I'm going to go 
