@@ -7,7 +7,7 @@ tags: [ 'PortfolioReview' ]
 ---
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Overall.png" />
-<img style="border: 0; padding-top:50px" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
+<img style="border: 0; padding-top:40px" src="/img/2019/20190101_PortfolioReview_OverallChart.png" />
 
 
 ## Commentary
@@ -36,14 +36,14 @@ more volatile but, er, growthy-er.
 
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_MultiAsset.png" />
-<img style="border: 0; padding-top:40px" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
+<img style="border: 0; padding-top:30px" src="/img/2019/20190101_PortfolioReview_MultiAssetChart.png" />
 
 The Multi Asset portfolio had a couple of transactions, adding to a defensive fund and is
 around 2/3rds invested (I'll probably re-jig portfolio weightings, so maybe less).  The 
 remaining funds I'd like to add are slightly less defensive so I'm planning to accumulate on 
 general market weakness.
 
-The portfolio returned -3%, underperforming `RPI+3%` (6%)  but outperforming `FTSEAS-TR` (-9%) and with less 
+The portfolio returned **-3%**, underperforming `RPI+3%` (6%)  but outperforming `FTSEAS-TR` (-9%) and with less 
 much less volatility.  In a bear market, which I think we're in, I'd expect underperformance against the RPI 
 measure and so I'm not too disappointed with the result (Poor excuse #2).
 
@@ -69,7 +69,7 @@ in developing markets.
 
 As I mentioned above, I suspect we're in a bear market.  The recent S&P price action appears to confirm this, 
 as does inverted yield curves, Nasdaq down 20+%, Oil price fall etc.  The question is therefore, how far will 
-we fall?  I have no idea, but here's an interesting chart :
+we fall?  I have no idea, but here's an interesting chart to ponder:
 
 <img style="border: 0;" src="/img/2019/20190101_120YearDow.jpg" />
 
@@ -86,7 +86,7 @@ Brexit (or `GBP` performance) also adds an additional complication.  The worry i
 avoid a 10% currency hit, only to then take a 40% equity hit. I'm going to try and not do that.
 
 To summarise, I'm in no rush to invest in a market that I'm wary of, and have no clear plan other than to average 
-in.  I'm vaguely thinking of waiting for a 20-30% drop before averaging in, which would correspond to the 2016 level 
+in.  I'm vaguely thinking of waiting for a 20-30% drop before doing anything, which would correspond to the 2016 level 
 from where the index took off in what looks like a blow-off top.  Saying that, things do tend to overshoot.
 
 
