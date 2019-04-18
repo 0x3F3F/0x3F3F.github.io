@@ -23,7 +23,7 @@
 						{% endif %}
 						
 
-						{% if post.category != "Portfolio" or portCount < 1 %}
+						{% if post.category != "Portfolio" or portCount <= 1 %}
 						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
 							<small>.
 								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
