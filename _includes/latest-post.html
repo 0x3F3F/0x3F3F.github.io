@@ -17,12 +17,10 @@
 					{% for post in site.posts limit: 8 %}
 
 
-						{% if post.category == "Portfolio" %}
-							{% assign portCount = portCount | portCount:1 %}
+						{% if post.category == "Portfolio" and portCount > 1 %}
+							{% continue %}
 						{% endif %}
-						
 
-						{% if post.category != "Portfolio" %}
 						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
 							<small>.
 								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
@@ -32,8 +30,10 @@
 							<br />
 							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
 						</h4>
-						{% endif %}
 
+						{% if post.category == "Portfolio" %}
+							{% assign portCount = portCount | portCount:1 %}
+						{% endif %}
 
 					{% endfor %}
 
