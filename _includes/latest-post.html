@@ -13,7 +13,6 @@
     
 				<div style="align:center; display:inline-block;">              
 					<!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
-					<!-- {% for post in site.categories.Dev limit: 3 %} -->
 					{% assign portCount = 0 %}
 					{% for post in site.posts limit: 8 %}
 
@@ -23,7 +22,7 @@
 						{% endif %}
 						
 
-						{% if post.category != "Portfolio" or portCount <= 1 %}
+						{% if post.category != "Portfolio" or portCount < 2 %}
 						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
 							<small>.
 								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
@@ -32,7 +31,6 @@
 							</small>
 							<br />
 							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-							<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
 						</h4>
 						{% endif %}
 
