@@ -14,7 +14,14 @@
 				<div style="align:center; display:inline-block;">              
 					<!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
 					<!-- IRB: Decided to post some dev stuff at top, followed by portfolio stuff. Oherwise swamped by portfolio --> 
-					{% for post in site.categories.Dev limit: 3 %}
+					<!--{% for post in site.categories.Dev limit: 3 %}-->
+					{% assign i = 0 %}
+					{% for post in site.posts limit: 6 %}
+
+
+						{% if post.category == "Dev"	%}
+							{% assign i = i | plus:1 %}
+						
 						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
 							<small>.
 								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
@@ -25,21 +32,13 @@
 							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
 							<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
 						</h4>
+
+						{% endif %}
+
 					{% endfor %}
 
 
 
-					{% for post in site.categories.Portfolio limit: 3 %}
-						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
-							<small>.
-								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
-									{{ post.category }}
-								</a>
-							</small>
-							<br />
-							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-							<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
-						</h4>
 					{% endfor %}
 
 
