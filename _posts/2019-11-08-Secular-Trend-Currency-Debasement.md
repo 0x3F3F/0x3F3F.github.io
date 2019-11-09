@@ -30,16 +30,16 @@ slips out.  Here's a recent quote from the Dutch central bank :
 Gold can't be printed, it's growth closely matches that of worldwide population growth.  Gold 
 is universally recognised as having great value (game theory ['Schelling
 point'](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) ). 
-It has all the properties of money described by Aristotle.
+It has all the properties of money as described by Aristotle.
 
 With the dramatic **escalation of money printing** in recent years and **bonds no longer giving
-any return**, it makes sense to hold a sizeable percentage of a portfolio in Gold.
+any return**, it makes sense to hold a sizeable percentage of a portfolio in precious metals.
 
 Given golds few other uses, when the time comes it can be instantly revalued to any dollar value
-without knock-on effects and used to back currencies and wipe out sovereign debt.
+without knock-on effects, then used to back currencies and wipe out sovereign debt.
 
 
-# Silver
+## Silver
 	
 > Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants &  debt is the money of slaves
 
@@ -48,13 +48,13 @@ This is the reason that I have opted to hold it in my growth portfolio - as a le
 play on currency debasement.
 
 Compared to gold, silver is a tiny market.  The same amount of money entering the silver
-market would drive it much higher.  Alternatively, the market could be contained (manipulated) with 
+market would drive it far higher.  Alternatively, the market could be contained (manipulated) with 
 a far smaller amount of money. 
 
 Silver is both a precious and an industrial metal.  It is a by-product of other industrial
 metal mining and so in a crisis I'd expect its supply to decrease and support the price.
 
-# Gold / Silver Ratio
+## Gold / Silver Ratio
 
 One key aspect of silver investment is the ratio of gold to silver, currently around 85.  In 
 times of crisis this could decrease to around 20 or so, which gives the leverage to supercharge 
@@ -71,7 +71,7 @@ has ever been mined still sits in Vault.  This should put a steady downward pres
 the ratio.
 
 
-# Miners
+## Miners
 
 Precious metal mining stocks are another alternative 'levered' play on currency
 debasement, with explosive returns.
@@ -100,11 +100,10 @@ The following charts show performance during each of the past 3 bull runs:
 
 
 
-# Links
+## Links
 
 [Gold Price History in Pounds](https://www.chards.co.uk/gold-price/gold-price-history)
-
-[Gold Charts from](https://www.longtermtrends.net/)
+[Gold Charts](https://www.longtermtrends.net/)
 
 
 
