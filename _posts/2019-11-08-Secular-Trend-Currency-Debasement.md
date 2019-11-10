@@ -2,10 +2,11 @@
 layout: post
 section-type: post
 title: Secular Trends&#58; Currency Debasement
-category: Portfolio
+category: Investment
 tags: [ 'Investment' ]
 ---
 
+## Investment Thesis
 
 > "Paper money will always return to its intrinsic value. Zero."
 
@@ -38,8 +39,14 @@ any return**, it makes sense to hold a sizeable percentage of a portfolio in pre
 Given golds few other uses, when the time comes it can be instantly revalued to any dollar value
 without knock-on effects, then used to back currencies and wipe out sovereign debt.
 
+## Method
 
-## Silver
+For the reasons expanded upon below, I intend to use direct investment into physical silver
+as my main exposure to this theme.  I may additionally hold a smaller amount of mining
+companies.
+
+
+### Silver
 	
 > Gold is the money of kings, silver is the money of gentlemen, barter is the money of peasants &  debt is the money of slaves
 
@@ -54,7 +61,7 @@ a far smaller amount of money.
 Silver is both a precious and an industrial metal.  It is a by-product of other industrial
 metal mining and so in a crisis I'd expect its supply to decrease and support the price.
 
-## Gold / Silver Ratio
+### Gold / Silver Ratio
 
 One key aspect of silver investment is the ratio of gold to silver, currently around 85.  In 
 times of crisis this could decrease to around 20 or so, which gives the leverage to supercharge 
@@ -71,7 +78,7 @@ has ever been mined still sits in Vault.  This should put a steady downward pres
 the ratio.
 
 
-## Miners
+### Miners
 
 Precious metal mining stocks are another alternative 'levered' play on currency
 debasement, with explosive returns.
