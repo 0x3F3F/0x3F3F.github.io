@@ -32,7 +32,7 @@ Key points:
 - **Demand(III):** Util. Contracting ramping up from 2020. Anticipate not enough Uranium.
 - **Supply(I):** Extraction cost far below spot → price rises or shortages (catalyst).
 - **Supply(II):** New mines take years to develop / re-start → no quick fix.
-- **Price(I):** Near low, around $28/lb. Plummeted from **$130/lb → $20/lb**.
+- **Price(I):** Near low, around $25/lb. Plummeted from **$130/lb → $20/lb**.
 - **Price (II):** Utilities want certainty of supply. Price secondary (¼ fuel rod cost)
 - **Price(III):** Fraction of spend for utility companies(~5%).Scope to increase dramatically.
 
