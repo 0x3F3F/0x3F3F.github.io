@@ -35,6 +35,7 @@ Key points:
 - **Price(I):** Near low, around $28/lb. Plummeted from **$130/lb → $20/lb**.
 - **Price (II):** Utilities want certainty of supply. Price secondary (¼ fuel rod cost)
 - **Price(III):** Fraction of spend for utility companies(~5%).Scope to increase dramatically.
+- **Price(IV):** Demand is price inelastic, higher prices do not choke off demand.
 
 
 ## Method
