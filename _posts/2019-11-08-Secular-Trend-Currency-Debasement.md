@@ -12,7 +12,8 @@ tags: [ 'Investment' ]
 
 In a fiat based monetary system, the value of money is slowly eroded over time which amounts 
 to a significant **hidden tax on savings**.  Governments can borrow money via the bond market and 
-pay back with devalued money in the future.  A gold sovereign (the original pound coin) had a value 
+pay back with devalued money in the future; the alternative of raising taxes is not 
+popular with their electorate. A gold sovereign (the original pound coin) had a value 
 that remained static for 100s of years, until the advent of fiat money - it's now worth ~275x 
 what it originally was.
 
