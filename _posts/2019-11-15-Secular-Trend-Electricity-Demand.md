@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Secular Trends&#58; Electricity Demand
+title: Secular Trend&#58; Electricity Demand
 category: Investment
 tags: [ 'Investment' ]
 ---

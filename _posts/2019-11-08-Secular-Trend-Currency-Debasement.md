@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Secular Trends&#58; Currency Debasement
+title: Secular Trend&#58; Currency Debasement
 category: Investment
 tags: [ 'Investment' ]
 ---
