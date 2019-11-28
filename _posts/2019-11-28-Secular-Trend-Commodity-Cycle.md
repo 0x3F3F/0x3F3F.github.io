@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Secular Trend: Commodity Cycle
+title: Secular Trend&#58; Commodity Cycle
 category: Investment
 tags: [ 'Investment' ]
 ---
