@@ -4,6 +4,7 @@ section-type: post
 title: Dual Boot Win10 & Linux with Full Disk Encryption 
 category: Linux
 tags: [ 'Encryption' ]
+frontPgDisp: Yes
 ---
 
 This details the set-up I performed to dual boot windows and Linux with full disk encryption (LUKS encrypted **root/home/swap**, 

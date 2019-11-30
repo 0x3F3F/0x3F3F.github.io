@@ -4,6 +4,7 @@ section-type: post
 title: 2018 Portfolio Review
 category: Portfolio
 tags: [ 'PortfolioReview' ]
+frontPgDisp: Yes
 ---
 
 <img style="border: 0;" src="/img/2019/20190101_PortfolioReview_Overall.png" />

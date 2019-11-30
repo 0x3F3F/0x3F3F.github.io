@@ -4,6 +4,7 @@ section-type: post
 title: Casting YouTube Videos from Tablet
 category: Dev
 tags: [ '' ]
+frontPgDisp: Yes
 ---
 
 
