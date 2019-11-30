@@ -13,17 +13,26 @@
     
 				<div style="align:center; display:inline-block;">              
 					<!-- IRB: Updated from singe post to multiple post titles.  Hard code for now... --> 
-					{% for post in site.posts limit: 5 %}
-						<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
-							<small>.
-								<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
-									{{ post.category }}
-								</a>
-							</small>
-							<br />
-							<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-							<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
-						</h4>
+					{% for post in site.posts %}
+
+
+					<!-- IRB: --> 
+					<!-- Added an attricute to post YAML Front Matter: frontPgDisp                 --> 
+					<!-- If that is set ie present and not empty, then the post will appear        --> 
+					<!-- This lets me control the posts more easily.  Recommend displaying 5 posts --> 
+					{% if post.frontPgDisp and post.frontPgDisp != "" %}
+							<h4 align="left"> <span class="smaller"> {{ post.date | date_to_string }} </span>
+								<small>.
+									<a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+										{{ post.category }}
+									</a>
+								</small>
+								<br />
+								<strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+								<!--<small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>-->
+							</h4>
+					{% endif %}
+
 					{% endfor %}
 				</div>
     
