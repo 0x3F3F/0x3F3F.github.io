@@ -16,7 +16,7 @@ correspond to a final investment pot of 50% more when compared to an active fund
 
 ## The Case Against ETFs
 
-Traditionally, the market consisted of rational players making **risk-reward decisions** as
+Traditionally, the market consisted of **rational players** making **risk-reward decisions** on
 when to buy or sell a stock.  This led to a somewhat efficient market, with shares trading
 at their 'correct price'.
 
@@ -34,7 +34,7 @@ with shares that lie outside the indexes (or with lower weightings) being left b
 and not bid-up like the larger ETF constituents.  Steve Bregman classified this bifurcated 
 market as ["the ETF Divide"](https://horizonkinetics.com/wp-content/uploads/Grants_On-The-ETF-Divide.pdf).
 
-When the pendulum swings back, the overvalued stocks held within ETFs could fall significantly 
+When the pendulum swings back, the overvalued stocks held within ETFs could **fall significantly** 
 and the undervalued stocks that were left behind outperform.  Active investors may once again have 
 their day in the sun.
 
@@ -45,7 +45,7 @@ Steven Bregman [details the calculation](https://youtu.be/xpk3triMLZQ?t=1325) of
 for the NASDAQ.  High PEs & -ve PEs are excluded from the calculation,  then the calculation 
 is performed using a 'Weighting Harmonic mean'.  This calculation is somewhat different to 
 an average (or weighted average), instead it involves the summation of the reciprocals.
-Performing all these actions makes the PE come to at around 28 rather than 56 (WTF!).
+Performing all these actions makes the PE come to at around **28 rather than 56** ( WTF! ).
 
 This slight of hand does raise the prospect of what other 'funnies' there are, under-the-hood.
 
@@ -53,8 +53,8 @@ This slight of hand does raise the prospect of what other 'funnies' there are, u
 ### Float Adjusted
 
 Indices have been changed to lower the weightings of holdings in proportion to insider
-ownership. This 'float adjusted' weighting  methodology improves the scalability of the
-ETF, though likely not the performance of the fund - given that stocks with high insider
+ownership. This 'float adjusted' weighting  methodology **improves the scalability** of the
+ETF, though likely **not the performance** of the fund - given that stocks with high insider
 ownership are said to return up to 4% more per annum!
 
 As the insiders sell their shares, presumably as they've lost confidence in the company,
