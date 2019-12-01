@@ -1,20 +1,20 @@
 ---
 layout: post
 section-type: post
-title: ETF Bubble?
+title: An ETF Bubble?
 category: Investment
 tags: [ 'Investment' ]
 frontPgDisp: Yes
 ---
 
-<img style="border: 0;" src="/img/2019/20191201_etf_index.jpg" />
+<img style="border: 0;" src="/img/2019/20191201_etf_header.jpg" />
 
 The main argument for [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) is their **low 
 cost fees**.  While an active manager might charge 1.5% (plus much more in hidden fees), a similar 
 ETF could charge 0.5% or less.  All else being equal, this 1% saving could compound over time to 
-correspond to a final investment pot of 50% more compared to an active fund.  So...
+correspond to a final investment pot of 50% more when compared to an active fund.
 
-## Why I Don't Like ETFs
+## The Case Against ETFs
 
 Traditionally, the market consisted of rational players making **risk-reward decisions** as
 when to buy or sell a stock.  This led to a somewhat efficient market, with shares trading
@@ -38,10 +38,6 @@ When the pendulum swings back, the overvalued stocks held within ETFs could fall
 and the undervalued stocks that were left behind outperform.  Active investors may once again have 
 their day in the sun.
 
-
-## A Closer Look
-
-<img style="border: 0;" src="/img/2019/20191201_etf_index.jpg" />
 
 ### Suspicious PEs
 
@@ -89,7 +85,7 @@ as good as advertised.
 
 > You Need to search for securities that are outside the ETF flow of funds, that are idiosyncratic in their behaviour. They might do well, or might do poorly, but not for the same reasons the rest of the market does well/poorly. 
 
-As everyone and their dog is indexing these days, my gut instinct is to do exactly the opposite - 
+As everyone and their dog is indexing these days, my **gut instinct is to do exactly the opposite** - 
 selecting active funds that focus on equities that are outside the indexes, with a bias to small cap.
 
 
