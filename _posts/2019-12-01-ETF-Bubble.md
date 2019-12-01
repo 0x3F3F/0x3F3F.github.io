@@ -7,42 +7,41 @@ tags: [ 'Investment' ]
 frontPgDisp: Yes
 ---
 
+<img style="border: 0;" src="/img/2019/20191201_etf_index.jpg" />
 
-The principle argument for ETFs is their ultra low cost fees.  While an active manager might
-charge 1.5% (plus more in hidden fees), a similar ETF could charge 0.5% or less.  All else being 
-equal, this 1% saving could correspond to a final investment pot of 50% more compared to an 
-active fund.
+The main argument for [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) is their **low 
+cost fees**.  While an active manager might charge 1.5% (plus much more in hidden fees), a similar 
+ETF could charge 0.5% or less.  All else being equal, this 1% saving could compound over time to 
+correspond to a final investment pot of 50% more compared to an active fund.  So...
 
-This leads to an obvious question relating to my holdings: **why don't I use ETFs more?**
+## Why I Don't Like ETFs
 
-## An ETF Driven Bubble?
-
-Traditionally, the market consisted of rational players making risk-reward decisions as
+Traditionally, the market consisted of rational players making **risk-reward decisions** as
 when to buy or sell a stock.  This led to a somewhat efficient market, with shares trading
 at their 'correct price'.
 
 With the advent of indexing, the pendulum started to swing and investors instead stopped
 making risk reward decisions and only decided to 'buy the index'.  As the proportion of
-people indexing has grown, this has led to distortions in the market.  
+people indexing has grown, this has led to **distortions in the market**.  
 
 As waves of money enter the market, expensive shares become more expensive as they are
 blindly bought according to their weighting in the index.  The gains become self
 sustaining as more money enters and shares are driven to unimaginable highs.  Large
 ex-growth companies now trade with 25+ PEs.
 
-It's my opinion that in these distortions lies opportunity.  The market has bifurcated 
-with in shares that lie outside the indexes (or with lower weightings) being left behind 
+It's my opinion that in these distortions lies opportunity.  The **market has bifurcated** 
+with shares that lie outside the indexes (or with lower weightings) being left behind 
 and not bid-up like the larger ETF constituents.  Steve Bregman classified this bifurcated 
 market as ["the ETF Divide"](https://horizonkinetics.com/wp-content/uploads/Grants_On-The-ETF-Divide.pdf).
 
-In theory, when the pendulum swings back, the overvalued stocks held within ETFs will come crashing down 
-and the undervalued stocks that were left behind will outperform.  Active investors may
-once again have their day in the sun.
+When the pendulum swings back, the overvalued stocks held within ETFs could fall significantly 
+and the undervalued stocks that were left behind outperform.  Active investors may once again have 
+their day in the sun.
 
 
+## A Closer Look
 
-## ETF Structure
-
+<img style="border: 0;" src="/img/2019/20191201_etf_index.jpg" />
 
 ### Suspicious PEs
 
@@ -67,14 +66,14 @@ the ETFs (a natural buyer) can step in and increase their weighting.  This is pr
 opposite action any rational investor would take.
 
 
-### Diversification (Lack Of)
+### Diversification (Lack Thereof)
 
 Due to the amount of funds entering ETFs, the indexes are forced to give larger companies higher 
-weightings in the indices, which is sub optimal.  Many companies doesn't have sufficient
+weightings in the indices, which is **sub optimal**.  Many companies don't have sufficient
 liquidity and can't be included, that is not enough shares are traded to handle large inflows 
-ETF of cash.
+of ETF cash.
 
-Worse still, due to this liquidity constraint, they often include companies in the indices where	
+Worse still, due to this **liquidity constraint**, they often include companies in the indices where	
 they might not belong - Mr Bregman gives the example of Exxon Mobile being 25% of the iShares 
 U.S. Energy ETF, 22% of the Vanguard Energy ETF, Its in  Dividend Growth and Deep Value Indices.  
 It is in the USA Quality Factor ETF and in the Weak Dollar U.S. Equity ETF. He states "Get this: 
@@ -88,14 +87,10 @@ as good as advertised.
 
 ## Conclusion
 
-Other than don't use ETFs, one idea that was suggsted :
+> You Need to search for securities that are outside the ETF flow of funds, that are idiosyncratic in their behaviour. They might do well, or might do poorly, but not for the same reasons the rest of the market does well/poorly. 
 
-> Need to search for securities that are outside the ETF flow of funds, that are idiosyncratic in their behaviour.  
-> They might do well, or might do poorly, but not for the same reasons the rest of the market does well/poorly. 
-
-This is the approach I'm taking.  As everyone and their dog is indexing these days, my gut instinct is 
-to do exactly the opposite - selecting active funds that focus on equities that are outside the indexes, 
-with a bias to small cap.
+As everyone and their dog is indexing these days, my gut instinct is to do exactly the opposite - 
+selecting active funds that focus on equities that are outside the indexes, with a bias to small cap.
 
 
 ## Links
