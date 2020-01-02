@@ -17,8 +17,8 @@ frontPgDisp: Yes
 Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), my recession
 forecast has not come to pass and shares have been driven higher.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.  Although the performance
-has been a bit meh, I'm happy to maintain the positioning (more fidelity than above), which is 
-fairly evenly balanced:
+has been a bit meh, I'm happy to maintain the positioning which is fairly evenly balanced 
+(more fidelity than above):
 
 <img style="border: 0;" src="/img/2020/20200102_Overview3.png" />
 
@@ -94,8 +94,9 @@ currencies (deliberately or accidentally):
 > because of its political mandate, so **inflation will be the pressure valve** that releases all the excess in the system..."
 
 With the above in mind, I've started to **reduce liquidity** and **purchase real assets** that have not 
-benefited from the last 10 years of asset price inflation.  In my opinion, A re-run of the 70s is not
-unlikely. 
+benefited from the last 10 years of asset price inflation.  With money printing, eventually "money leaks 
+from yielding assets into non yielding assets such as commodities", a re-run of the 70s is not unlikely. 
+
 
 <img style="border: 0;" src="/img/2020/20200102_TradeOfDecade.png" />
 
