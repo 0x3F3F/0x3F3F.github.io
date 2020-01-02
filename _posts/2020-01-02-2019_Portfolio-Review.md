@@ -37,7 +37,6 @@ now has 3 managers, which is 2 too many.  As well as being expensive in TER term
 multiple holding of other Ruffer funds which I suspect layered another level of **hidden fees**. Why 
 pay for a Ruffer gold fund, when they could just buy gold?
 
-I plan on adding to this portfolio this year.
 
 ## Growth Portfolio
 
@@ -47,12 +46,13 @@ I plan on adding to this portfolio this year.
 During the course of the year, holdings in the `Growth Portfolio` were increased significantly, but 
 performance was poor **losing 5%**.
 
-Holdings of longer dated US Treasuries were moved into the portfolio as had made sizeable gains and 
-I wanted to account for them in my portfolio.  Shorted dated Notes / Cash were kept separate.
+Holdings of longer dated [US Treasuries]({% post_url 2018-12-05-Liquidity %}) were 
+moved into the portfolio as had made decent gains and I wanted to account for them in my portfolio.  Shorted 
+dated Notes / Cash were kept separate.
 
-Gold holdings were sold and replaced by silver which had lagged the gold price rise, with the Gold/Silver 
-ratio around an historic high of 85.  I'm opting for Silver rather than  miners as the historical returns are 
-excellent and doesn't have company specific risk, as detailed in my notes on the 
+Gold holdings were sold and replaced by **silver** which had lagged the gold price rise, with the Gold/Silver 
+ratio around an historic high of 85.  I'm prefering Silver to  miners as the historical returns are 
+excellent and it doesn't have company specific risk, as detailed in my notes on the 
 [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) trend.
 
 As part of the [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) theme, 
@@ -60,7 +60,8 @@ a basket of **uranium companies** were purchased with a bias towards **producers
 loss, though a disciplined approach meant that funds were available to average in at lower prices.  The 
 uranium market is currently blocked due to anticipated US regulations, but I am hopeful once this is 
 resolved the market will rebound.  The longer the situation takes to resolve, the higher I suspect the 
-uranium price will go.  The main risk is how much my holdings get diluted in the meantime.
+uranium price will go.  The **main risk is dilution**, though my overweight in producers should help 
+minimise this possibility.
 
 A general **commodity investment trust** was added to the portfolio as part of my 
 [Commodity Cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) theme.
@@ -87,7 +88,7 @@ should be on its way, but I need to consider the possibility of government deval
 currencies (deliberately or accidentally):
 
 > "The down-cycle will be different than 2008 and 2000. The FED wont allow markets to adjust to reality, 
-> because of its political mandate, so inflation will be the pressure valve that releases all the excess in the system..."
+> because of its political mandate, so **inflation will be the pressure valve** that releases all the excess in the system..."
 
 With the above in mind, I've started to **reduce liquidity** and **purchase real assets** that have not 
 benefited from the last 10 years of asset price inflation.  In my opinion, A re-run of the 70s is not
