@@ -87,7 +87,7 @@ do so at some point in the coming year.
 ## Conclusion 
 
 We're currently in the longest business cycle on record.  Under normal circumstances, a recession 
-should be on its way, but I need to consider the possibility of government devaluing their 
+should be on its way, but I need to consider the possibility of governments devaluing their 
 currencies (deliberately or accidentally):
 
 > "The down-cycle will be different than 2008 and 2000. The FED wont allow markets to adjust to reality, 
