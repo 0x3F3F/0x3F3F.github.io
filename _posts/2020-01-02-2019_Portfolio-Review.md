@@ -7,18 +7,18 @@ tags: [ 'PortfolioReview' ]
 frontPgDisp: Yes
 ---
 
-<img style="border: 0;" style="padding-bottom: 15px" src="/img/2020/20200102_Overview1.png" />
+<img style="border: 0;" style="border: 0 ; padding-bottom: 20px" src="/img/2020/20200102_Overview1.png" />
 <img style="border: 0;" src="/img/2020/20200102_Overview2.png" />
 
 
 ## Commentary
 
+Overall performance was **-1%**, behind both the `RPI+3%` (6%), and the `FTSEAS-TR` (+19%) benchmarks.
+
 Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), my recession
 forecast has not come to pass and shares have marched higher.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.
 
-Overall performance was **-1%**, behind both the `RPI+3%` (6%), and the `FTSEAS-TR` (+19%) 
-benchmarks. 
 
 ## Multi Asset Portfolio
 
