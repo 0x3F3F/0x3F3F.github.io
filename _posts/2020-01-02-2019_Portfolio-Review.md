@@ -13,14 +13,16 @@ frontPgDisp: Yes
 
 ## Commentary
 
-Overall performance was **-1%**, behind both the `RPI+3%` (6%), and the `FTSEAS-TR` (+19%) benchmarks.
 
 Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), my recession
 forecast has not come to pass and shares have been driven higher.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.  Although the performance
-has been a bit meh, I'm happy to maintain the look-through positioning, which is fairly evenly balanced:
+has been a bit meh, I'm happy to maintain the positioning (more fidelity than above), which is 
+fairly evenly balanced:
 
 <img style="border: 0;" src="/img/2020/20200102_Overview3.png" />
+
+Overall performance was **-1%**, behind both the `RPI+3%` (6%), and the `FTSEAS-TR` (+19%) benchmarks.
 
 ## Multi Asset Portfolio
 
@@ -43,8 +45,8 @@ pay for a Ruffer gold fund, when they could just buy gold?
 <img style="border: 0;" src="/img/2020/20200102_G1.png" />
 <img style="border: 0;" src="/img/2020/20200102_G2.png" />
 
-During the course of the year, holdings in the `Growth Portfolio` were increased significantly, but 
-performance was poor **losing 5%**.
+During the course of the year, holdings in the `Growth Portfolio` were increased significantly but 
+performance was poor, **losing 5%**.
 
 Holdings of longer dated [US Treasuries]({% post_url 2018-12-05-Liquidity %}) were 
 moved into the portfolio as had made decent gains and I wanted to account for them in my portfolio.  Shorted 
@@ -69,7 +71,8 @@ I expect commodities would fall in a market correction, though as they're at 10 
 they may be quick to rebound.  This fund has holdings in **Shipping** and **Gold Miners**, which I'm keen to 
 gain exposure to, holding these via a fund also has capital gains advantages.  The IT has a small cap 
 focus and has underperformed other commodity funds, which I think have benefited from the 
-[ETF Divide]({% post_url 2019-12-01-ETF-Bubble %}).
+[ETF Divide]({% post_url 2019-12-01-ETF-Bubble %}).  The plan is to buy the larger (& cheaper) fund on 
+general market weakness.
 
 The `Growth Portfolio` is mainly exposed to **real assets** which should hold their value in an inflationary 
 environment.  In a deflationary environment, hopefully real assets' downside is limited as they are 
