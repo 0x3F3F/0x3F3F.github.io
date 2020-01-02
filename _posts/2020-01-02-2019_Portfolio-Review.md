@@ -7,7 +7,7 @@ tags: [ 'PortfolioReview' ]
 frontPgDisp: Yes
 ---
 
-<img style="border: 0;" src="/img/2020/20200102_Overview1.png" />
+<img style="border: 0;" style="padding-bottom: 15px" src="/img/2020/20200102_Overview1.png" />
 <img style="border: 0;" src="/img/2020/20200102_Overview2.png" />
 
 
@@ -90,7 +90,7 @@ With the above in mind, I've started to reduce liquidity and purchase real asset
 benefited from the last 10 years of asset price inflation.  In my opinion, A re-run of the 70s is not
 unlikely. 
 
-<img style="border: 0;" src="/img/2020/20200101_TradeOfDecade.png" />
+<img style="border: 0;" src="/img/2020/20200102_TradeOfDecade.png" />
 
 Additionally, precious metal holdings are likely to be a safe place to be, if the Dutch central bank 
 are to be believed:
@@ -101,7 +101,7 @@ are to be believed:
 Stocks are considered an inflation hedge too, however "In hyperinflation, stocks can underperform 
 the rate of inflation immensely" :
 
-<img style="border: 0;" src="/img/2020/20200101_VenGoldStock.png" />
+<img style="border: 0;" src="/img/2020/20200102_VenGoldStock.png" />
 
 
 There appears to be a rush by central banks to buy / repatriate their gold.  Poland would rather hold 
