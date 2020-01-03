@@ -90,7 +90,7 @@ do so at some point in the coming year.
 
 We're currently in the longest business cycle on record.  Under normal circumstances, a recession 
 should be on its way, but I need to consider the possibility of that not happening (devaluing 
-currencies either deliberately or accidentally:
+currencies either deliberately or accidentally):
 
 > "The down-cycle will be different than 2008 and 2000. The FED wont allow markets to adjust to reality, 
 > because of its political mandate, so **inflation will be the pressure valve** that releases all the excess in the system..."
@@ -100,8 +100,7 @@ benefited from the last 10 years of asset price inflation.  Word on the street i
 
 > With money printing, eventually money leaks from yielding assets into non yielding assets such as commodities. 
 
-**Precious metal** holdings are likely to be a safe place to hide out, if the Dutch central bank 
-are to be believed:
+**Precious metals** are likely to be a safe place to hide out, if the Dutch central bank are to be believed:
 
 > "Gold is the perfect piggy bank – it's the anchor of trust for the financial system. If
 > the system collapses, the gold stock can serve as a basis to build it up again"
