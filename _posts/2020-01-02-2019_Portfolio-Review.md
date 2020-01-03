@@ -89,25 +89,25 @@ do so at some point in the coming year.
 ## Conclusion 
 
 We're currently in the longest business cycle on record.  Under normal circumstances, a recession 
-should be on its way, but I need to consider the possibility of governments devaluing their 
-currencies (either deliberately or accidentally):
+should be on its way, but I need to consider the possibility of that not happening (devaluing 
+currencies either deliberately or accidentally:
 
 > "The down-cycle will be different than 2008 and 2000. The FED wont allow markets to adjust to reality, 
 > because of its political mandate, so **inflation will be the pressure valve** that releases all the excess in the system..."
 
-With the above in mind, I've started to **reduce liquidity** and purchase real assets that have not 
+With the above in mind, I've started to **reduce liquidity** and purchase **real assets** that have not 
 benefited from the last 10 years of asset price inflation.  Word on the street is that :
 
 > With money printing, eventually money leaks from yielding assets into non yielding assets such as commodities. 
 
-Precious metal holdings are likely to be a safe place to hide out, if the Dutch central bank 
+**Precious metal** holdings are likely to be a safe place to hide out, if the Dutch central bank 
 are to be believed:
 
 > "Gold is the perfect piggy bank – it's the anchor of trust for the financial system. If
 > the system collapses, the gold stock can serve as a basis to build it up again"
 
-Stocks are often considered an inflation hedge too, however "In hyperinflation, stocks can underperform 
-the rate of inflation immensely" :
+**Stocks** are often considered an inflation hedge too, however *"In hyperinflation, stocks can underperform 
+the rate of inflation immensely"* :
 
 <img style="border: 0;" src="/img/2020/20200102_VenGoldStock.png" />
 
@@ -118,9 +118,9 @@ of some sort of restructuring is non-zero and deckchairs are being moved accordi
 Overall, I'm happy with my idiosyncratic positioning in areas I consider to be either undervalued or 
 defensive.  In not having exposure to the broader indices, my performance is likely to differ markedly to 
 most other portfolios.  I had hoped that holding uncorrelated assets would smooth out my performance, but 
-with a partially constructed Growth portfolio, that hasn't been the case.
+with a partially constructed Growth portfolio that hasn't been the case.
 
-This year my investment process has not worked in my favour, but my gut instinct is to continue to my own
+This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
 thing and precisely the opposite to the herd.
 
 
