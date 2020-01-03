@@ -121,7 +121,7 @@ most other portfolios.  I had hoped that holding uncorrelated assets would smoot
 with a partially constructed Growth portfolio that hasn't been the case.
 
 This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
-thing and precisely the opposite to the herd.
+thing and follow the herd into ETFs.
 
 
 
