@@ -120,7 +120,7 @@ most other portfolios.  I had hoped that holding uncorrelated assets would smoot
 with a partially constructed Growth portfolio that hasn't been the case.
 
 This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
-thing and risk looking a bit [tonto](http://www.spanishcentral.com/translate/tonto).
+thing rather than invest in ETFs for a low-cost "average return".  I still expect the average return to be poor.
 
 
 
