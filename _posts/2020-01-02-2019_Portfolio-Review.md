@@ -119,9 +119,9 @@ defensive.  In not having exposure to the broader indices, my performance is lik
 most other portfolios.  I had hoped that holding uncorrelated assets would smooth out my performance, but 
 with a partially constructed Growth portfolio that hasn't been the case.
 
-This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
-thing rather than invest in ETFs for a low-cost "average return".  They're really a momentum play and I 
-still expect the average return to be poor.
+This year my investment allocation has not worked in my favour, but my gut instinct is to continue to follow 
+my own process and not to invest in ETFs for a low-cost "average return".  They're really a momentum play and 
+could suffer hugely when things turn.  I still expect the average return to be poor.
 
 
 
