@@ -14,12 +14,12 @@ frontPgDisp: Yes
 ## Commentary
 
 
-Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), my recession
-forecast has not come to pass and shares have been driven higher.  Given this, my defensive
+Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), stock markets
+have been driven higher and my recession was proved to be wrong.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.  
 
-Although the performance has been a bit meh, I'm happy to maintain the positioning which is 
-fairly evenly balanced.  The following details my overall position, including holdings outside the two
+Although the performance has been a bit *meh*, I'm happy to maintain the positioning going forward which is 
+fairly evenly balanced.  Here's my overall position, including holdings outside the two
 portfolios:
 
 <img style="border: 0;" src="/img/2020/20200102_Overview3.png" />
@@ -36,10 +36,10 @@ can be seen above, over a 2 years view it's keeping pace with the `FTSEAS-TR` bu
 significantly less volatility.
 
 During the year I sold out of one of the funds, the **Ruffer Investment Company**, as its performance was 
-poor during a period of market volatility.  The fund is no longer managed by Jonathan Ruffer and 
-now has 3 managers, which is 2 too many.  As well as being expensive in TER terms, it also had 
-multiple holding of other Ruffer funds which I suspect layered another level of **hidden fees**. Why 
-pay for a Ruffer gold fund, when they could just buy gold?
+poor during a period of market volatility.  Not doing it's job.  The fund is no longer managed by Jonathan 
+Ruffer and now has 3 managers. 2 too many.  As well as being expensive in TER terms, it also had 
+multiple holdings of other Ruffer funds whose function,  I suspect, was to layer another level of **hidden 
+fees**. Why pay for a Ruffer gold fund, when they could just buy gold?
 
 
 ## Growth Portfolio
@@ -120,7 +120,8 @@ most other portfolios.  I had hoped that holding uncorrelated assets would smoot
 with a partially constructed Growth portfolio that hasn't been the case.
 
 This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
-thing rather than invest in ETFs for a low-cost "average return".  I still expect the average return to be poor.
+thing rather than invest in ETFs for a low-cost "average return".  They're really a momentum play, you know.  I 
+still expect the average return to be poor.
 
 
 

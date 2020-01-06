@@ -9,10 +9,12 @@ frontPgDisp: Yes
 
 <img style="border: 0;" src="/img/2019/20191201_etf_header.jpg" />
 
-The main argument for [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) is their **low 
-cost fees**.  While an active manager might charge 1.5% (plus much more in hidden fees), a similar 
-ETF could charge 0.5% or less.  All else being equal, this 1% saving could compound over time to 
-correspond to a final investment pot of 50% more when compared to an active fund.
+The main argument for [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) is guaranteed market 
+hugging performance and  **low cost fees**.  While an active manager might charge 1.5% (plus much more 
+in hidden fees), a similar ETF could charge 0.5% or less.  All else being equal, this 1% saving could 
+compound over time to correspond to a final investment pot of 50% more when compared to an active fund.
+
+Here's some thoughts on why I'm not keen on using them...
 
 ## The Case Against ETFs
 
