@@ -15,7 +15,7 @@ frontPgDisp: Yes
 
 
 Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), stock markets
-have been driven higher and my recession was proved to be wrong.  Given this, my defensive
+have been driven higher and my recession call was proved to be wrong.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.  
 
 Although the performance has been a bit *meh*, I'm happy to maintain the positioning going forward which is 
@@ -120,7 +120,7 @@ most other portfolios.  I had hoped that holding uncorrelated assets would smoot
 with a partially constructed Growth portfolio that hasn't been the case.
 
 This year my investment allocation has not worked in my favour, but my gut instinct is to continue to my own
-thing rather than invest in ETFs for a low-cost "average return".  They're really a momentum play, you know.  I 
+thing rather than invest in ETFs for a low-cost "average return".  They're really a momentum play and I 
 still expect the average return to be poor.
 
 
