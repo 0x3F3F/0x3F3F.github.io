@@ -89,6 +89,8 @@ caused me to reconsider this as **long term returns are very poor**, as can be s
 chart below.  Investment in silver looks to be as good during bull phases and much better 
 over longer time frames, with no company risk.
 
+In [this](https://www.youtube.com/watch?v=ff6dTEX_PPA) Real Vision interview, Dan Tapiero and Thomas Kaplin raised the possibility (expectation even) that when gold is much higher, governments in many countries may expropriate mines.  They emphasised need to stick to safer jurisdictions.  My take from this would be to not invest in ETFs which will include all jurisdictions, and stick to individual names in North America.
+
 In the charts below the black line is the Barrons Gold Mining Index and the blue the
 Philadelphia Gold and Silver Index: 
 
