@@ -55,7 +55,7 @@ moved into the portfolio as had made decent gains and I wanted to account for th
 dated Notes / Cash were kept separate.
 
 Gold holdings were sold and replaced by **silver** which had lagged the gold price rise, with the Gold/Silver 
-ratio around an historic high of 85.  I'm prefering Silver to the miners as the historical returns are 
+ratio around an historic high of 85.  I prefer direct Silver holdings to the miners as the historical returns are 
 excellent and it doesn't have company specific risk, as detailed in my notes on the 
 [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) trend.
 
@@ -119,10 +119,8 @@ defensive.  In not having exposure to the broader indices, my performance is lik
 most other portfolios.  I had hoped that holding uncorrelated assets would smooth out my performance, but 
 with a partially constructed Growth portfolio that hasn't been the case.
 
-This year my investment allocation has not worked in my favour, but my gut instinct is to continue to follow 
-my own process and not to invest in ETFs for a low-cost "average return".  They're really a momentum play and 
-could suffer hugely when things turn.  I still expect the average return to be poor.
-
-
-
+This year my investment allocation has not worked in my favour.  My gut instinct is to continue to follow 
+my own process and not run with the ETF herd.  I consider ETFs as a momentum play, fine when the general 
+direction is positive, but could get messy on a pull-back as everyone rushes for the exit.  Momentum begets 
+momentum. 
 
