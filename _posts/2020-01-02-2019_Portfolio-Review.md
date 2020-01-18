@@ -15,7 +15,7 @@ frontPgDisp: Yes
 
 
 Since the [last review]({% post_url 2019-01-01-2018_Portfolio-Review %}), stock markets
-have been driven higher and my recession call was proved to be wrong.  Given this, my defensive
+have been driven higher and my recession call was proved to be incorrect.  Given this, my defensive
 positioning has meant that I have lagged both of my benchmarks.  
 
 Although the performance has been a bit *meh*, I'm happy to maintain the positioning going forward which is 
@@ -65,7 +65,7 @@ loss, though a disciplined approach meant that funds were available to average i
 uranium market is currently blocked due to anticipated US regulations, but I am hopeful once this is 
 resolved the market will rebound.  The longer the situation takes to resolve, the higher I suspect the 
 uranium price will go.  The **main risk is dilution**, though my overweight in producers should help 
-minimise this possibility.
+mitigate against this.
 
 A general **commodity investment trust** on a ~24% discount to NAV was added to the portfolio as part of my 
 [Commodity Cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) theme.
@@ -119,8 +119,8 @@ defensive.  In not having exposure to the broader indices, my performance is lik
 most other portfolios.  I had hoped that holding uncorrelated assets would smooth out my performance, but 
 with a partially constructed Growth portfolio that hasn't been the case.
 
-This year my investment allocation has not worked in my favour.  My gut instinct is to continue to follow 
+This year my investment allocation has not worked in my favour, but I'll continue to follow 
 my own process and not run with the ETF herd.  I consider ETFs as a momentum play, fine when the general 
-direction is positive, but could get messy on a pull-back as everyone rushes for the exit.  Momentum begets 
-momentum. 
+direction is positive, but could get messy on a pull-back as everyone rushes for the exit.  
+
 
