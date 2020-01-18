@@ -36,9 +36,10 @@ with shares that lie outside the indexes (or with lower weightings) being left b
 and not bid-up like the larger ETF constituents.  Steve Bregman classified this bifurcated 
 market as ["the ETF Divide"](https://horizonkinetics.com/wp-content/uploads/Grants_On-The-ETF-Divide.pdf).
 
-When the pendulum swings back, the overvalued stocks held within ETFs could **fall significantly** 
-and the undervalued stocks that were left behind outperform.  Active investors may once again have 
-their day in the sun.
+When the markets does have a pull back, there's a risk that the momentum that drove stocks
+higher goes into reverse, creating a negative feedback loop.  The overvalued stocks held within 
+ETFs could **fall significantly** and the undervalued stocks that were left behind 
+outperform.  Active investors may once again have their day in the sun.
 
 
 ### Suspicious PEs
@@ -95,5 +96,5 @@ selecting active funds that focus on equities that are outside the indexes, with
 
 Steven Bregman [Grants](https://vimeo.com/209940152/f2154e4d3d),  
 [Realvision 1](https://www.youtube.com/watch?v=xpk3triMLZQ), [2](https://www.youtube.com/watch?v=Ih7bWOSwECU), [3](https://www.youtube.com/watch?v=0JfGplGv3BA)  
-[JesseFelder](https://thefelderreport.com/2017/06/06/podcast-steven-bregman-on-the-greatest-bubble-ever-passive-etf-investing/)
-[Michael Burry]( https://www.bloomberg.com/news/articles/2019-08-28/the-big-short-s-michael-burry-sees-a-bubble-in-passive-investing)
+[JesseFelder](https://thefelderreport.com/2017/06/06/podcast-steven-bregman-on-the-greatest-bubble-ever-passive-etf-investing/)  
+[Michael Burry]( https://www.bloomberg.com/news/articles/2019-08-28/the-big-short-s-michael-burry-sees-a-bubble-in-passive-investing)  
