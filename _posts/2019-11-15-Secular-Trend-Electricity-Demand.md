@@ -4,7 +4,7 @@ section-type: post
 title: Secular Trend&#58; Electricity Demand
 category: Investment
 tags: [ 'Investment' ]
-frontPgDisp: Yes
+frontPgDisp: No
 ---
 
 <img style="border: 0;" src="/img/2019/20191115-Uranium.jpg" />

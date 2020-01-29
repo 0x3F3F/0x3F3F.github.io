@@ -4,7 +4,7 @@ section-type: post
 title: An ETF Bubble?
 category: Investment
 tags: [ 'Investment' ]
-frontPgDisp: No
+frontPgDisp: Yes
 ---
 
 <img style="border: 0;" src="/img/2019/20191201_etf_header.jpg" />

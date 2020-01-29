@@ -30,9 +30,10 @@ Mark Spiz-nagel explains this as follows:
 > opportunities with the highest returns, but long term **returns greatly depend on** having **uncorrelated** components,
 > even if some of those components have a low return or **even no overall return**
 
-In their "The Allegory of the Hawk and the Serpent" report, Artemis Capital detail how to invest for 100 years.  They note that: 
+In their ["The Allegory of the Hawk and the Serpent"](https://www.artemiscm.com/research) report, Artemis Capital detail 
+how to invest for 100 years.  To summarise: 
 
-> Anti-correlation is worth more than excess return
+> "Anti-correlation is worth more than excess return"
 
 Liked that - the secret of investment in 8 characters.  It's worth reading that note in it's entirety.
 
@@ -50,12 +51,13 @@ Bonds"**.  As they shrewdly observe:
 > "Recency Bias in now a Systematic Risk"
 
 The note states that while these portfolios perform well in secular booms, they struggle when interest rates 
-are at the zero bound or during periods of rapidly rising inflation.  Like now.
+are at the zero bound (US 1930, Japan 90's) or during periods of rapidly rising inflation (US 1970s).  Like now.
 
 In short, 60/40 portfolios may not provide the protection or return that their owners expect.  Not that I'd expect 
-them to pay any attention to these warnings:
+them to pay any attention to these warnings, given their recent performance.  Killer quote time:
 
 > "Most investors would rather fail conventionally than succeed unconventionally"
+
 
 ## Correlation Analysis
 
