@@ -10,7 +10,7 @@ frontPgDisp: Yes
 
 I intend to operate my investments based on a rough asset allocation model, aware of asset 
 allocations such as the Harry Brown portfolio can give results similar to 100% equity, but 
-with significantly less volatility.  Max draw downs in teens instead of 50%+
+with significantly less volatility.  
 
 Interesting chart time:
 
@@ -38,7 +38,7 @@ how to invest for 100 years.  To summarise:
 Liked that - the secret of investment in 8 characters.  It's worth reading that note in it's entirety.
 
 
-## The 60/40 Portfolio
+## The Classic 60/40 Portfolio
 
 I have always questioned the validity of this popular asset allocation, as bonds and stocks are not always negatively 
 correlated.
