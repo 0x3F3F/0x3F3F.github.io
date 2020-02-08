@@ -14,7 +14,7 @@ with significantly less volatility.
 
 Interesting chart time:
 
-![Asset Allocation Correlation](/img/2018/20180208_AACorrelation.jpg)
+<img style="border: 0;" src="/img/2018/20180208_AACorrelation.jpg" />
 
 Between 1916-2016, the return on S&P was 18.4 times, compared to 37.9 times for the S&P/BGMI rebalanced portfolio.
 
@@ -37,7 +37,7 @@ how to invest for 100 years.  To summarise:
 
 Liked that - the secret of investment in less than 8 words.  It's worth reading that note in it's entirety, here's a chart from it:
 
-![Asset Allocation Correlation2](/img/2018/20180208_Art.jpg)
+<img style="border: 0;" src="/img/2018/20180208_Art.jpg" />
 
 ## The Classic 60/40 Portfolio
 
