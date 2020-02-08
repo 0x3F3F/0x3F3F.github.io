@@ -35,8 +35,9 @@ how to invest for 100 years.  To summarise:
 
 > "Anti-correlation is worth more than excess return"
 
-Liked that - the secret of investment in 8 characters.  It's worth reading that note in it's entirety.
+Liked that - the secret of investment in less than 8 words.  It's worth reading that note in it's entirety, here's a chart from it:
 
+![Asset Allocation Correlation2](/img/2018/20180208_Art.jpg)
 
 ## The Classic 60/40 Portfolio
 
