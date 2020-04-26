@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: How to Crypto
 category: Investment
-tags: [ 'Investment' ]
+tags: [ 'Investment','Crypto' ]
 frontPgDisp: Yes
 ---
 
