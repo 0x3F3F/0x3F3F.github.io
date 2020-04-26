@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: How to Crypto
+title: Buying Crypto Currencies
 category: Investment
 tags: [ 'Investment','Crypto' ]
 frontPgDisp: Yes
