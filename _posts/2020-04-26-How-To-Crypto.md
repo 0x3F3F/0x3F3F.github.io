@@ -42,9 +42,21 @@ off of the offline machine.  Any intermediate files would then be deleted using 
 
 ## Bitcoin
 
-The process for bitcoin may well be similar to ethereum, but my initial thoughts are to
-use [bitaddress](http://bitaddress.org) which I have downloaded from github (noting the
-repo hadn't changed in years and checksums were correct).  I may come back to this.
+My starting point with bitcoin was the [bitaddress](http://bitaddress.org) site, which many 
+use to generate their wallets. My plan was to review the code before using it - however, 
+looking at the code there were over 10K lines of very low level code.
+
+I then went about looking for python scripts, though couldn't find a working solution.
+Bitcoin encoding is more difficult than that of ethereum.
+
+I finally stumbled on a post on how to perform the encoding
+[here](https://www.freecodecamp.org/news/how-to-generate-your-very-own-bitcoin-private-key-7ad0f4936e6c/) and 
+[here](https://www.freecodecamp.org/news/how-to-create-a-bitcoin-wallet-address-from-a-private-key-eca3ddd9c05f/), 
+along with a corresponding [github repo](https://github.com/Destiner/blocksmith) which I used to create a script. 
+
+While I didn't trust the bitaddress code to generate the private key, the offline site
+does have the option of generating addresses in various formats and QR codes.  My plan is
+to use that to validate the script output and to get a png with QR code etc.
 
 
 ## Ripple
