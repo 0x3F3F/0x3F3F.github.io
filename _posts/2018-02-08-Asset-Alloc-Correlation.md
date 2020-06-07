@@ -85,6 +85,8 @@ more correlated.  Note the Artemis capital comments above regarding bonds perfor
 the zero bound.
 
 
+## Links
 
+[Your Portfolio Intuition Is Poor](https://moontowermeta.com/your-portfolio-intuition-is-poor/)
 
 
