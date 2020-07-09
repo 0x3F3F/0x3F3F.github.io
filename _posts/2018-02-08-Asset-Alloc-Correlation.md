@@ -80,9 +80,13 @@ bonds have been an excellent diversifier, being strongly negatively correlated. 
 could be useful, though they appear to be more correlated in the recent past. The other item missing from the 
 table is cash.  
 
-The Bond/equity correlations go from -0.39 (20y), -0.29(10y), -0.13(5y) which shows that they are clearly becoming 
-more correlated.  Note the Artemis capital comments above regarding bonds performance when interest rates are near 
-the zero bound.
+This [site](https://asiliconvalleyinsider.com/2013/04/20/investing-like-david-swensen/) talks about David Swenson 
+the former CIO of Yale Endowment who stated that **"most of the return of a portfolio results from asset allocation"**. 
+The page goes on to details some asset allocation numbers and asset types.
+
+
+	"In investing, diversification is the only free lunch"
+	Harry Markowitz 
 
 
 ## Links
