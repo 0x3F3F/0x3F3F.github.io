@@ -85,8 +85,8 @@ the former CIO of Yale Endowment who stated that **"most of the return of a port
 The page goes on to details some asset allocation numbers and asset types.
 
 
-	"In investing, diversification is the only free lunch"
-	Harry Markowitz 
+> "In investing, diversification is the only free lunch"
+> Harry Markowitz 
 
 
 ## Links
