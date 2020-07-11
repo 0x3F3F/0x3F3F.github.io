@@ -6,6 +6,8 @@ category: Investment
 tags: [ 'Investment' ]
 ---
 
+<img style="border: 0;" src="/img/2019/20191128_header.jpg" />
+
 ## Investment Thesis
 
 Since the financial crisis of 2008 and the resulting QE, financial assets have significantly 
