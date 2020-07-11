@@ -6,12 +6,14 @@ category: Investment
 tags: [ 'Investment' ]
 ---
 
+<img style="border: 0;" src="/img/2020/20200712_header.jpg" />
+
 ## Investment Thesis
 
 
-As I have general inflation expectations in the coming years, the Oil and Gas sector is one which is of 
-great interest.  I was surprised to find that, as an inflation hedge, the energy sector has outperformed
-both industrial and precious metals: 
+Following the Virus / stock market fall, the actions of the governments to expand their balance sheets 
+has only re-enforced my view on inflation. I was surprised to find that, as an inflation hedge, the energy 
+sector has outperformed both industrial and precious metals. 
 
 <img style="border: 0;" src="/img/2020/20200712_EnergyInflationHedge.png" />
 
@@ -26,11 +28,13 @@ future shortages, as I don't see oil usage decreasing to the scale some might ex
 
 <img style="border: 0;" src="/img/2020/20200712_EnergyTrend.png" />
 
+Energy appears to be the most asymmetric way to play my view on higher inflation.  After 10 years of 
+underperformance, downside looks limited and there appear to be reasonable catalysis for decent upside.
+
 I've previously invested in smaller oil companies, and would prefer to avoid the volatility / risks 
 involved with them.  I'll look to play this by investing in oil majors, some of which have fallen 
 over 50%, as less downside.  In my view, they offer an opportunity to double or more in value and pay an
 ongoing dividend.
-
 
 
 
