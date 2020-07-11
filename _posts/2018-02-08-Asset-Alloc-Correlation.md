@@ -81,9 +81,9 @@ could be useful, though they appear to be more correlated in the recent past. Th
 table is cash.  
 
 This [site](https://asiliconvalleyinsider.com/2013/04/20/investing-like-david-swensen/) talks about David Swenson 
-the former CIO of Yale Endowment who stated that **"most of the return of a portfolio results from asset allocation"**. 
-The page goes on to details some asset allocation numbers and asset types.
-
+the former CIO of Yale Endowment who noted that there are 3 sources of returns: asset allocation, market timing, 
+and security selection.  Market timing is difficult to predict and security selection is a zero sum game.  The 
+leaves asset allocation, where he concluded that **"most of the return of a portfolio results from asset allocation"**. 
 
 > "In investing, diversification is the only free lunch"
 > Harry Markowitz 
