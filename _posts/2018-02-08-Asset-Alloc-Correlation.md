@@ -7,6 +7,10 @@ tags: [ 'AssetAllocation' ]
 frontPgDisp: Yes
 ---
 
+<img style="border: 0;" src="/img/2018/20180208_AAHeader.jpg" />
+
+> "In investing, diversification is the only free lunch"
+> Harry Markowitz 
 
 I intend to operate my investments based on a rough asset allocation model, aware of asset 
 allocations such as the Harry Brown portfolio can give results similar to 100% equity, but 
@@ -82,11 +86,9 @@ table is cash.
 
 This [site](https://asiliconvalleyinsider.com/2013/04/20/investing-like-david-swensen/) talks about David Swenson 
 the former CIO of Yale Endowment who noted that there are 3 sources of returns: asset allocation, market timing, 
-and security selection.  Market timing is difficult to predict and security selection is a zero sum game.  The 
+and security selection.  Market timing is difficult to predict and security selection is a zero sum game.  That 
 leaves asset allocation, where he concluded that **"most of the return of a portfolio results from asset allocation"**. 
 
-> "In investing, diversification is the only free lunch"
-> Harry Markowitz 
 
 
 ## Links
