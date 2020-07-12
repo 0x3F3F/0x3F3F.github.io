@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Importance of Non-Correlation In Asset Allocation
+title: Importance of Non-Correlation
 category: Investment
 tags: [ 'AssetAllocation' ]
 frontPgDisp: Yes
@@ -9,12 +9,13 @@ frontPgDisp: Yes
 
 <img style="border: 0;" src="/img/2018/20180208_AAHeader.jpg" />
 
-> "In investing, diversification is the only free lunch"
-> Harry Markowitz 
 
-I intend to operate my investments based on a rough asset allocation model, aware of asset 
+I intend to structure my investments using a rough asset allocation model, aware of asset 
 allocations such as the Harry Brown portfolio can give results similar to 100% equity, but 
 with significantly less volatility.  
+
+> "In investing, diversification is the only free lunch"  
+> *Harry Markowitz*
 
 Interesting chart time:
 
@@ -27,7 +28,7 @@ increase the total return** of a re-balanced portfolio compared to 100% equity. 
 that one is zigging while the other zagging - this is more important than the return of the asset. 
 
 
-Mark Spiz-nagel explains this as follows:
+Mark Spiznagel explains this as follows:
 
 > As long as the underperforming component adds value during market weakness, the rebalanced portfolio experiences 
 > reduced drawdowns and, therefore, compounds at a higher rate over time. Most sensible investors look only for
