@@ -46,9 +46,15 @@ Bonus chart time :
 
 <img style="border: 0;" src="/img/2018/20180208_Art.jpg" />
 
+This [site](https://asiliconvalleyinsider.com/2013/04/20/investing-like-david-swensen/) talks about David Swenson 
+the former CIO of Yale Endowment who noted that there are 3 sources of returns: asset allocation, market timing, 
+and security selection.  Market timing is difficult to predict and security selection is a zero sum game.  That 
+leaves asset allocation, where he concluded that **"most of the return of a portfolio results from asset allocation"**. 
+
+
 ## The Classic 60/40 Portfolio
 
-I have always questioned the validity of this popular asset allocation, as bonds and stocks are not always negatively 
+I have previously questioned the validity of this popular asset allocation, as bonds and stocks are not always negatively 
 correlated.
 
 The above Artemis Capital note confirms my suspicions, stating that 90% of the price appreciation of such a portfolio 
@@ -82,13 +88,7 @@ signify negative correlations, that is when one goes up the other goes down.
 
 W.r.t. equities, the table indicates that gold is a useful diversifier, with no correlation.  It also shows that 
 bonds have been an excellent diversifier, being strongly negatively correlated.  Commodities too look like they 
-could be useful, though they appear to be more correlated in the recent past. The other item missing from the 
-table is cash.  
-
-This [site](https://asiliconvalleyinsider.com/2013/04/20/investing-like-david-swensen/) talks about David Swenson 
-the former CIO of Yale Endowment who noted that there are 3 sources of returns: asset allocation, market timing, 
-and security selection.  Market timing is difficult to predict and security selection is a zero sum game.  That 
-leaves asset allocation, where he concluded that **"most of the return of a portfolio results from asset allocation"**. 
+could be useful, though they appear to be more correlated in the recent past.
 
 
 
