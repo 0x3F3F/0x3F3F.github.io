@@ -24,7 +24,7 @@ for the benchmark.  The S&P 500 sector weighting slipped to **<5% down from >15%
 
 Recent falls will have made the above chart even more extreme. As a result, many companies are going
 bankrupt and oil majors significantly cutting back spending.  This appears to be a perfect setup for 
-future shortages, as I don't see oil usage decreasing to the scale some might expect.
+future shortages which the following (old) chart demonstrates:
 
 <img style="border: 0;" src="/img/2020/20200712_EnergyTrend.png" />
 
@@ -33,8 +33,8 @@ underperformance, downside looks limited and there appear to be reasonable catal
 
 I've previously invested in smaller oil companies, and would prefer to avoid the volatility / risks 
 involved with them.  I'll look to play this by investing in oil majors, some of which have fallen 
-over 50%, as less downside.  In my view, they offer an opportunity to double or more in value and pay an
-ongoing dividend.
+over 50%, as less downside - great risk/reward.  In my view, they offer an opportunity to double or 
+more in value and pay an ongoing dividend.
 
 
 
