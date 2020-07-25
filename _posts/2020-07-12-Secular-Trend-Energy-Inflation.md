@@ -31,6 +31,8 @@ future shortages which the following (old) chart demonstrates:
 Energy appears to be the most asymmetric way to play my view on higher inflation.  After 10 years of 
 underperformance, downside looks limited and there appear to be reasonable catalysis for decent upside.
 
+## Method 
+
 I've previously invested in smaller oil companies, and would prefer to avoid the volatility / risks 
 involved with them.  I'll look to play this by investing in oil majors, some of which have fallen 
 over 50%, as less downside - great risk/reward.  In my view, they offer an opportunity to double or 
