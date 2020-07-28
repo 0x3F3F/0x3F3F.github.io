@@ -98,7 +98,8 @@ Steven Bregman [Grants](https://vimeo.com/209940152/f2154e4d3d),
 [Realvision 1](https://www.youtube.com/watch?v=xpk3triMLZQ), [2](https://www.youtube.com/watch?v=Ih7bWOSwECU), [3](https://www.youtube.com/watch?v=0JfGplGv3BA)  
 [JesseFelder](https://thefelderreport.com/2017/06/06/podcast-steven-bregman-on-the-greatest-bubble-ever-passive-etf-investing/)  
 [Michael Burry]( https://www.bloomberg.com/news/articles/2019-08-28/the-big-short-s-michael-burry-sees-a-bubble-in-passive-investing)  
-[Mike Green](https://www.realvision.com/tv/shows/interviews/videos/the-perils-of-passive-indexation?utm_source=Organic&utm_medium=Twitter&utm_campaign=43810_INTERVIEW_GH_SMT_RV_W2_TSNAP)
-[Mike Green & Steve Bregman](https://www.youtube.com/watch?v=I4ce1LiuwcA)
-[AquirersMultiple](https://acquirersmultiple.com/2020/07/murray-stahl-indexation-investing-ready-to-come-to-an-end/)
+[Mike Green](https://www.realvision.com/tv/shows/interviews/videos/the-perils-of-passive-indexation?utm_source=Organic&utm_medium=Twitter&utm_campaign=43810_INTERVIEW_GH_SMT_RV_W2_TSNAP)  
+[Mike Green & Steve Bregman](https://www.youtube.com/watch?v=I4ce1LiuwcA)  
+[AquirersMultiple](https://acquirersmultiple.com/2020/07/murray-stahl-indexation-investing-ready-to-come-to-an-end/)  
+
 
