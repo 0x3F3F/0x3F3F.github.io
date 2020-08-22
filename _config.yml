@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Iain Benson"
-title: "iainbenson.com"
-description: "Blog and website of Iain Benson" 
-keywords: "benson, iain, personal, jekyll, theme"
+title: "Iain Benson"
+description: "Iain Benson's Blog and website" 
+keywords: "benson, iain, iain benson, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
