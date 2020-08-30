@@ -13,7 +13,7 @@ tags: [ 'Investment' ]
 Since the financial crisis of 2008 and the resulting QE, financial assets have significantly 
 outperformed real assets.  The following chart shows just how extreme this outperformance is:
 
-<img style="border: 0;" src="/img/2019/20191128_DowCommodityRatio.png" />
+<img style="border: 0;" src="/img/2019/20191128_DowCommodityRatio.jpg" />
 
 Interest rates now around their limits at the zero bound, new policies are being considered 
 (MMT) which are said to be much more inflationary.  
