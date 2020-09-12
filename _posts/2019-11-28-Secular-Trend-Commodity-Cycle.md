@@ -42,14 +42,13 @@ a mining business, providing capital in exchange for revenues.  Advantages inclu
 
 - Get royalty before deductions.  Low risk way to gain exposure.
 - When commodity prices fall and squeeze miners costs, there is no effect on royalty company.
-- Better Inflation Hedge: Cost of drilling/digging increases => Less profits for Miners.  Royalties unaffected. 
+- Better Inflation Hedge: Mining cost increases => Less profits for Miners.  Royalties unaffected. 
 - Not affected by mining issues (cost overruns etc)
-- Include significant upside such as life of mine extensions, which isn't priced in.
+- Upside not priced in (Mine life extensions, Commmdty price increases, New discoveries)
 - Trading at low values to NAV when compared with precious metal peers.
 
 As well as capturing the commodity upside, it is anticipated that the discounts to NAV
-should narrow as the companies increase in size - bigger Canadian royalty companies trade
-at 5x rating.
+should narrow as the companies increase in size as borrowing becomes cheaper.
 
 
 
