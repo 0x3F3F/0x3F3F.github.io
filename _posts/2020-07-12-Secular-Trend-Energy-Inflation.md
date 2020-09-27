@@ -42,8 +42,7 @@ more in value and pay an ongoing dividend.
 
 ## Links
 
-None Yet...
-
+[(Oil) Industry Performance](http://www.philosophicaleconomics.com/2015/09/industry/)
 
 
 
