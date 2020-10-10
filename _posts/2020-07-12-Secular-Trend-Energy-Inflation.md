@@ -34,7 +34,8 @@ underperformance, downside looks limited and there appear to be reasonable catal
 ## Method 
 
 I've previously invested in smaller oil companies, and would prefer to avoid the volatility / risks 
-involved with them.  I'll look to play this by investing in oil majors, some of which have fallen 
+involved with them.  I'll look to play this by investing in oil majors and 
+<a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#royalties">royalty companies</a>, some of which have fallen 
 over 50%, as less downside - great risk/reward.  In my view, they offer an opportunity to double or 
 more in value and pay an ongoing dividend.
 

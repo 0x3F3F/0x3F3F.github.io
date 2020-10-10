@@ -36,7 +36,7 @@ Strictly speaking, my large allocation to uranium as part of my [Electricity Dem
 theme should be considered a commodity allocation - but I'm choosing to put that in a different 
 silo as has it's own unique driving factors.
 
-I intend to play this theme my investing in Royalty / Streaming companies, rather than miners 
+I intend to play this theme my investing in <span id="royalty">Royalty / Streaming companies</span>, rather than miners 
 or commodity funds.  Royalty companies can be considered as a finance business rather than
 a mining business, providing capital in exchange for revenues.  Advantages include: 
 
