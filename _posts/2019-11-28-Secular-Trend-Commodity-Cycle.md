@@ -45,15 +45,15 @@ which I'd like to manage separately.
 Royalty companies can be considered as a finance business rather than a mining business, providing 
 capital in exchange for revenues.  Advantages include: 
 
-- Receive royalty before deductions.  Lower risk way to gain exposure.
-- Falling commodity prices squeeze miners costs, there is no effect on royalty company.
+- Low Risk(I): Mining companies must pay royalties prior to all other deductions.
+- Low Risk(II): Falling commodity prices squeeze miners costs.  Royalties unaffected.
+- Low Risk(III): Unaffected by unexpected costs (cost overruns etc).
 - Better Inflation Hedge: Mining cost increases => Less profits for Miners.  Royalties unaffected. 
-- Not affected by mining issues (cost overruns etc)
 - Upside not priced in (Mine life extensions, Commodity price increases, New discoveries)
-- Trading at low values to NAV when compared with precious metal peers.
+- Trading at low multiples to NAV when compared with precious metal peers.
 
-As well as capturing the commodity upside, it is anticipated that the discounts to NAV
-should narrow as the companies increase in size as borrowing becomes cheaper.
+As well as capturing the commodity upside, it is anticipated that the discounts to NAV should narrow as 
+the companies increase in size as borrowing becomes cheaper.
 
 
 
