@@ -34,17 +34,22 @@ recovery.
 
 Strictly speaking, my large allocation to uranium as part of my [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) 
 theme should be considered a commodity allocation - but I'm choosing to put that in a different 
-silo as has it's own unique driving factors.
+silo as has it's own driving factors.
 
-I intend to play this theme my investing in Royalty / Streaming companies, rather than miners 
-or commodity funds.  Royalty companies can be considered as a finance business rather than
-a mining business, providing capital in exchange for revenues.  Advantages include: 
+This theme is more general and I intend to play it by investing in **royalty companies** focused on 
+base metals, rather than commodity funds.  Commodity funds come with significant gold exposure, 
+which I'd like to manage separately.  
 
-- Get royalty before deductions.  Low risk way to gain exposure.
-- When commodity prices fall and squeeze miners costs, there is no effect on royalty company.
+## Royalty Companies
+
+Royalty companies can be considered as a finance business rather than a mining business, providing 
+capital in exchange for revenues.  Advantages include: 
+
+- Receive royalty before deductions.  Lower risk way to gain exposure.
+- Falling commodity prices squeeze miners costs, there is no effect on royalty company.
 - Better Inflation Hedge: Mining cost increases => Less profits for Miners.  Royalties unaffected. 
 - Not affected by mining issues (cost overruns etc)
-- Upside not priced in (Mine life extensions, Commmdty price increases, New discoveries)
+- Upside not priced in (Mine life extensions, Commodity price increases, New discoveries)
 - Trading at low values to NAV when compared with precious metal peers.
 
 As well as capturing the commodity upside, it is anticipated that the discounts to NAV
