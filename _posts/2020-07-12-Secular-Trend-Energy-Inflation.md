@@ -11,8 +11,8 @@ tags: [ 'Investment' ]
 ## Investment Thesis
 
 
-Following the Virus / stock market fall, the actions of the governments to expand their balance sheets 
-has only re-enforced my view on inflation. I was surprised to find that, as an inflation hedge, the energy 
+Following the pandemic and resulting stock market fall, the actions of the governments to expand their balance sheets 
+has re-enforced my view on inflation.  I was surprised to find that, as an inflation hedge, the energy 
 sector has outperformed both industrial and precious metals. 
 
 <img style="border: 0;" src="/img/2020/20200712_EnergyInflationHedge.png" />
@@ -24,19 +24,20 @@ for the benchmark.  The S&P 500 sector weighting slipped to **<5% down from >15%
 
 Recent falls will have made the above chart even more extreme. As a result, many companies are going
 bankrupt and oil majors significantly cutting back spending.  This appears to be a perfect setup for 
-future shortages which the following (old) chart demonstrates:
+**future shortages**.  The following (old) chart shows the demand shortfall, even prior to the
+recent problems:
 
 <img style="border: 0;" src="/img/2020/20200712_EnergyTrend.png" />
 
-Energy appears to be the most asymmetric way to play my view on higher inflation.  After 10 years of 
+Energy appears to be an asymmetric way to play my view on higher inflation.  After 10 years of 
 underperformance, downside looks limited and there appear to be reasonable catalysis for decent upside.
 
 ## Method 
 
 I've previously invested in smaller oil companies, and would prefer to avoid the volatility / risks 
-involved with them.  I'll look to play this by investing in oil majors and 
+involved with them.  I'm  playing this by investing in oil majors and 
 <a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#royalty-companies">royalty companies</a>, 
-some of which have fallen significantly => as less downside - great risk/reward.  In my view, they offer 
+some of which have fallen significantly.  Hopefully less downside and great risk/reward.  In my view, they offer 
 an opportunity to double or more in value and pay an ongoing dividend.
 
 
