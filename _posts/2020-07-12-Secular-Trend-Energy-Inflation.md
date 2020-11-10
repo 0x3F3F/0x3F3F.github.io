@@ -45,7 +45,7 @@ The above points suggest that the Oil Age is far from over. **Energy demand is p
 
 ## Method 
 
-I'm  playing this by investing in an oil major with low cost/long reserve life and a  
+I'm  playing this by investing in an oil major with low cost/long reserve life and a 
 <a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#royalty-companies">royalty company</a>, 
 both of which have fallen significantly.  Avoiding oil majors that are downplaying their role as oil gas companies & 
 investing heavily into renewables to please ESG funds.  In my view this is a low risk opportunity to 3x while receiving an ongoing dividend.
