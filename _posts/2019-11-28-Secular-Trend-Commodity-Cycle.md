@@ -42,6 +42,9 @@ which I'd like to manage separately.
 
 ## Royalty Companies
 
+>"The best business is a royalty on the growth of others  - requiring little capital
+>itself" Warren Buffett
+
 Royalty companies can be considered as a finance business rather than a mining business, providing 
 capital in exchange for revenues.  Advantages include: 
 
