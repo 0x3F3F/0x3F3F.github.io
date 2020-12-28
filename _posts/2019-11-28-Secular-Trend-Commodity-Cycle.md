@@ -63,8 +63,8 @@ the companies increase in size as borrowing becomes cheaper.
 
 ## Links
 
-[Simon White](https://www.youtube.com/watch?v=7IeplCGRQ0g)
-[GoRozen]( http://blog.gorozen.com/blog/what-catalyst-will-finally-kill-the-commodities-bear-market).
-
+[Simon White](https://www.youtube.com/watch?v=7IeplCGRQ0g)  
+[GoRozen]( http://blog.gorozen.com/blog/what-catalyst-will-finally-kill-the-commodities-bear-market).  
+[Good Vid on Royalty Rationale](https://www.youtube.com/watch?v=4mRnsXpqtKE)  
 
 
