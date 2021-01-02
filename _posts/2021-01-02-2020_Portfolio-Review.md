@@ -17,9 +17,9 @@ Performance this year was better than [last year]({% post_url 2020-01-02-2019_Po
 achieved an overall return of  **+40%**, ahead of both the `RPI+3%` (+4%), and the `FTSEAS-TR` (-9%) benchmarks.  
 
 I managed to avoid losing money in the February dip, selling holdings before it.  It was apparent there was trouble 
-ahead in January when twitter was full of China lockdown talk, the slow market reaction was hard to explain (Efficient 
-Market?).  Having nailed the dip, I then **completely missed the bounce**, Doh!
-
+ahead in January when twitter was full of China lockdown talk. The slow market reaction was hard to explain (Efficient 
+Market?), I read one interesting theory that the trading algos didn't have a global pandemic in their training 
+datasets and so didn't know it should go down.  Having nailed the dip, I then **completely missed the bounce**, Doh!
 
 
 ## Multi Asset Portfolio
