@@ -13,15 +13,13 @@ frontPgDisp: Yes
 
 ## Commentary
 
-Performance this year was good, better than [last year]({% post_url 2020-01-02-2019_Portfolio-Review %}).  
-I achieved an overall return of  **+40%**, ahead of both the `RPI+3%` (+4%), and the `FTSEAS-TR` (-9%) benchmarks.  
+Performance this year was good, better than [last year]({% post_url 2020-01-02-2019_Portfolio-Review %}).  I 
+achieved an overall return of  **+40%**, ahead of both the `RPI+3%` (+4%), and the `FTSEAS-TR` (-9%) benchmarks.  
 
 I managed to avoid losing money in the February dip, selling holdings before it.  It was apparent there was trouble 
 ahead in January when twitter was full of China lockdown talk, the slow market reaction was hard to explain.  Having 
 nailed the dip, I then completely missed the bounce, Doh!
 
-
-<img style="border: 0;" src="/img/2021/20210102_Overview3.png" />
 
 
 ## Multi Asset Portfolio
