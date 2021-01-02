@@ -67,7 +67,7 @@ view, this has presented one of the (apparently many) opportunities of a lifetim
 Canadian royalty and a large cap integrated oil company.  In an inflationary environment, royalty 
 companies will continue to receive their 'rent' without having to drill expensive holes.  The other 
 investment was in `Suncor Energy`; the main attraction being that it is low cost producer with ~30year 
-reserve life (Compared majors eg ~9yrs).  In an inflationary environment, Suncor won't be forced to 
+reserve life (Compared to other oil majors circa ~9yrs).  In an inflationary environment, Suncor won't be forced to 
 pay ever increasing costs to expand their reserves, they'll just continue to dig it out the ground 
 and shove it on the back of a truck, or something like that.  They should benefit fully from price 
 increases.  That's the theory.
@@ -76,7 +76,7 @@ increases.  That's the theory.
 **Uranium Supply / Demand:**  
 As part of the [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) theme, my basket was 
 reduced to only 2 companies.  `Energy Fuels` was sold as it diluted ~30% despite previously stating it had sufficient 
-cash.  Investigation showed significant dilution in previous years, so I took the opportunity to sell on a  
+cash.  Investigation showed significant dilution in previous years, so I took the opportunity to sell on a 
 bounce and rebalanced into general commodities for a more balanced portfolio.  It since doubled, though I still believe 
 my decision was correct.  In truth, I was beginning to view the uranium sector as pretty un-investable, with most companies 
 likely to dilute significantly but the recovery looks like it may be under way with my largest holding `Nexgen Energy` up by 80%.
@@ -114,9 +114,10 @@ sustainable dividends, either is fine by me.
 
 ## The Great Crypto Experiment of 2020
 
-Alternatively, the **Mediocre-at-Best** Crypto Experiment.  Anyway, long storey short: I got bored and wrote 
-some scripts to generate crypto addresses, bought ~800 quids worth of `XRP`, transferred it to my address, it worked!, 
-it trebled, SEC launched legal case against Ripple, it halved and I sold.  I should have invested in bitcoin instead:
+Alternatively, the **Mediocre-at-Best** Crypto Experiment.  Anyway, long storey short: I got bored and 
+[wrote some scripts]({% post_url 2020-04-26-How-To-Crypto %}) to generate crypto addresses, bought ~800 quids 
+worth of `XRP`, transferred it to my address, it worked!, it trebled, SEC launched legal case against Ripple, 
+it halved and I sold.  I should have invested in bitcoin instead.
 
 <img style="border: 0;" src="/img/2021/20210102_Kuppy.png" />
 
@@ -156,11 +157,11 @@ into broad based funds where there won't ever be a need to sell and incur CGT.  
 hit on some of the asymmetric themes in the Growth portfolio, though even there I've a 5/10year horizon 
 and might even lose money.
 
-In terms of 2021 predictions, I don't have any insight.  People are questioning whether (following the 
-stimulus) the business cycle still exists? Stocks could easily up 40% or down 40%, failure to 
-predict market moves this year has re-enforced the fact that I've short term no edge, hopefully my longer 
-term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022, probably 2021 too though 
-possibly get another chance to position in 2021.  On that topic, this guy "knows his shit" &trade; : 
+In terms of 2021 predictions, I don't have any insight.  People are questioning whether, following the 
+stimulus, the business cycle still exists? Stocks could easily up 40% or down 40%, failure to 
+predict market moves this year has re-enforced the fact that I've no short term edge, hopefully my longer 
+term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022 & probably 2021 too,  
+possibly get another chance to position?  On that topic, this guy "knows his shit" &trade; : 
 
 <img style="border: 0;" src="/img/2021/20210102_CapZay.png" />
 
