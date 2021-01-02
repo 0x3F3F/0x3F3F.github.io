@@ -13,12 +13,12 @@ frontPgDisp: Yes
 
 ## Commentary
 
-Performance this year was good, better than [last year]({% post_url 2020-01-02-2019_Portfolio-Review %}).  I 
+Performance this year was better than [last year]({% post_url 2020-01-02-2019_Portfolio-Review %}).  I 
 achieved an overall return of  **+40%**, ahead of both the `RPI+3%` (+4%), and the `FTSEAS-TR` (-9%) benchmarks.  
 
 I managed to avoid losing money in the February dip, selling holdings before it.  It was apparent there was trouble 
-ahead in January when twitter was full of China lockdown talk, the slow market reaction was hard to explain.  Having 
-nailed the dip, I then completely missed the bounce, Doh!
+ahead in January when twitter was full of China lockdown talk, the slow market reaction was hard to explain (Efficient 
+Market?).  Having nailed the dip, I then **completely missed the bounce**, Doh!
 
 
 
@@ -27,8 +27,8 @@ nailed the dip, I then completely missed the bounce, Doh!
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_MA1.png" />
 <img style="border: 0;" src="/img/2021/20210102_MA2.png" />
 
-The `Multi Asset portfolio` returned **+8%**, avoiding the bulk of the Mar/Feb sell-off and finishing ahead of both `FTSEAS-TR` 
-(with less volatility) and `RPI+3%`.  I intend to continue adding to this portfolio.  
+The `Multi Asset portfolio` returned **+8%**, avoiding the bulk of the Mar/Feb sell-off and finishing ahead of both `RPI+3%` 
+and `FTSEAS-TR` with less volatility. 
 
 I have been trying to time my entry here, but now questioning my rationale given that the funds are ~60% bonds/cash.  I 
 have deffo lost money by not just investing and forgetting about it.
@@ -50,7 +50,7 @@ missed the equities bounce, but was nimble enough to position in commodities, wh
 <a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#investment-thesis">historically cheap</a>. 
 
 
-**Precious Metals**  
+**Precious Metals:**  
 The [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) theme performed well this 
 year.  Following the collapse in markets around Feb/Mar time, I added to my holdings when silver was around 
 $14/15-ish.  The price then doubled and I thought it prudent to take some profit after such a quick gain - but like a 
@@ -60,7 +60,7 @@ which should do well in a precious metals bull market.  I plan to keep an overal
 the oil:gold ratio is in oil's favour.
 
 
-**Oil & Gas**  
+**Oil & Gas:**  
 With the economy shutting down, many oil companies prices fell significantly to multi decade lows.  In my 
 view, this has presented one of the (apparently many) opportunities of a lifetime as I'm expecting 
 [Energy Inflation]({% post_url 2020-07-12-Secular-Trend-Energy-Inflation %}).  I invested in a
@@ -73,7 +73,7 @@ and shove it on the back of a truck, or something like that.  They should benefi
 increases.  That's the theory.
 
 
-**Uranium Supply / Demand**  
+**Uranium Supply / Demand:**  
 As part of the [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) theme, my basket was 
 reduced to only 2 companies.  `Energy Fuels` was sold as it diluted ~30% despite previously stating it had sufficient 
 cash.  Investigation showed significant dilution in previous years, so I took the opportunity to sell on a  
@@ -82,7 +82,7 @@ my decision was correct.  In truth, I was beginning to view the uranium sector a
 likely to dilute significantly but the recovery looks like it may be under way with my largest holding `Nexgen Energy` up by 80%.
 
  
-**Base Metal Royalties**  
+**Base Metal Royalties:**  
 I started adding holdings to the [Commodity Cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) 
 theme, buying into 2 base metal Royalty companies (and selling CNY prior to Covid dip).  One of the companies 
 provides exposure to [copper](https://www.bhp.com/media-and-insights/prospects/2017/11/ten-reasons-why-we-like-copper/), 
@@ -90,7 +90,7 @@ potash and Iron ore and the other coal, copper, and potentially battery metals. 
 low risk way to gain exposure to the secular commodity theme.  
 
 
-**Other Stuff**  
+**Other Stuff:**  
 An investment was made into a Global Macro / Relative Value hedge feeder fund.  ETF people should look away now, 
 as the fees are eye-watering.  The rationale here is it is one of the few sources of non correlated returns 
 available to non institutional investors (remember the 
@@ -134,16 +134,16 @@ Feb/Mar drawdown. Being too conservative meant that only a **small portion of ov
 form the large gains.  I was expecting further significant falls and didn't foresee the large government 
 stimulus, though don't think the magnitude was predictable :
 
-> Took unprecedented Fed BS ($4Trillion or 2x 2008) + buying corp debt + repo in response
-> to a -30% drawdown to prevent financial system meltdown.
+> "Took unprecedented Fed BS ($4Trillion or 2x 2008) + buying corp debt + repo in response
+> to a -30% drawdown to prevent financial system meltdown."
  
 And now, an important public service announcement:
 
-> To everyone who got into trading stocks this year, I have a little hard truth for you:
-> You're not actually that god at it.  You just got caught a wild bull market.  Take some money off the table.
+> "To everyone who got into trading stocks this year, I have a little hard truth for you:
+> You're not actually that god at it.  You just got caught a wild bull market.  Take some money off the table."
 
-Think I agree with that, though not enough to take any money off the table.  End of year
-was a bit melt up-ey, do expect decent pullback.
+I'm not sure if it was a bull market or a fed induced asset inflation.  I do expect a
+pull back, though not enough to take any money off the table - End of year was a bit melt up-ey.
 
 In the `Growth Portfolio`, I'm still looking to deploy money into an **Emerging Market Consumer** theme and 
 also a **value orientated special situations** fund, as you do.  I know, it's a growth portfolio.  They don't 
@@ -164,10 +164,11 @@ possibly get another chance to position in 2021.  On that topic, this guy "knows
 
 <img style="border: 0;" src="/img/2021/20210102_CapZay.png" />
 
-My plan is to try and focus on not doing anything too stupid: 
-- don't pay too much
-- don't concentrate holdings
-- don't feel forced to quickly invest as markets shoot higher.  
+Current game plan 
+- Focus on not doing anything too stupid 
+- Don't pay too much
+- Don't concentrate holdings
+- Don't feel forced to quickly invest as markets shoot higher.  
 
 I'm already failing on at least one of those.  Most investments will likely now be in the Multi Asset 
 category as I've less chance of screwing that up.
