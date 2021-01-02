@@ -7,7 +7,7 @@ tags: [ 'PortfolioReview' ]
 frontPgDisp: Yes
 ---
 
-<img style="border: 0;" style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_Overview1.png" />
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_Overview1.png" />
 <img style="border: 0;" src="/img/2021/20210102_Overview2.png" />
 
 
@@ -24,10 +24,10 @@ nailed the dip, I then completely missed the bounce, Doh!
 
 ## Multi Asset Portfolio
 
-<img style="border: 0;" src="/img/2021/20210102_MA1.png" />
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_MA1.png" />
 <img style="border: 0;" src="/img/2021/20210102_MA2.png" />
 
-Multi asset performance was OK **+8%**, avoiding the bulk of the Mar/Feb sell-off and finishing ahead of both `FTSEAS-TR` 
+The `Multi Asset portfolio` returned **+8%**, avoiding the bulk of the Mar/Feb sell-off and finishing ahead of both `FTSEAS-TR` 
 (with less volatility) and `RPI+3%`.  I intend to continue adding to this portfolio.  
 
 I have been trying to time my entry here, but now questioning my rationale given that the funds are ~60% bonds/cash.  I 
@@ -36,19 +36,18 @@ have deffo lost money by not just investing and forgetting about it.
 
 ## Growth Portfolio
 
-<img style="border: 0;" src="/img/2021/20210102_G1.png" />
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_G1.png" />
 <img style="border: 0;" src="/img/2021/20210102_G2.png" />
+
+The `Growth portfolio` returned **+55%** which was well ahead of both it's benchmarks, though more volatile than I'd 
+like.  This return was largely due to my market timing of the entry point (after years waiting!), I never 
+really believed in the can't time the market mantra - except now for multi asset funds.  
 
 Holdings in the Growth Portfolio were increased significantly during the year, influenced by the increase 
 in government money printing and my uneasiness in holding a high cash weighting.  Most purchases were 
 commodity related, which presented the best risk-reward following the March sell-off.  In truth, I 
 missed the equities bounce, but was nimble enough to position in commodities, which are historically 
 cheap (See commodity:Stock ratio chart).
-
-
-The portfolio returned **+55%** which was well ahead of both it's benchmarks, though more volatile than I'd 
-like.  This return was largely due to my market timing of the entry point (after years waiting!), I never 
-really believed in the can't time the market mantra - except now for multi asset funds.  
 
 
 The [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) theme performed well this 
@@ -133,12 +132,12 @@ stimulus, though don't think the magnitude was predictable :
  
 And now, an important public service announcement:
 
-<img style="border: 0;" src="/img/2021/20210102_Saca.png" />
+<img style="border: 0;" src="/img/2021/20210102_Sacca.png" />
 
 Think I agree with that, though not enough to take any money off the table.  End of year
 was a bit melt up-ey, do expect decent pullback.
 
-In the growth portfolio, I'm still looking to deploy money into an Emerging Market Consumer theme and 
+In the `Growth Portfolio`, I'm still looking to deploy money into an Emerging Market Consumer theme and 
 also a value orientated special situations fund, as you do.  I know, it's a growth portfolio.  They don't 
 look like they're going to get any cheaper, so I may average into these over the coming year - possibly 
 only at a half weighting.
@@ -157,9 +156,12 @@ possibly get another chance to position in 2021.  On that topic, this guy "knows
 
 <img style="border: 0;" src="/img/2021/20210102_CapZay.png" />
 
-My plan is to try and focus on not doing anything too stupid: don't pay too much, don't concentrate holdings, 
-don't feel forced to quickly invest as markets shoot higher.  I'm already failing on at least one of those.  Most 
-investments will likely now be in the Multi Asset category as I've less chance of screwing that up.
+My plan is to try and focus on not doing anything too stupid: 
+- don't pay too much
+- don't concentrate holdings
+- don't feel forced to quickly invest as markets shoot higher.  
+
+I'm already failing on at least one of those.  Most investments will likely now be in the Multi Asset category as I've less chance of screwing that up.
 
 
 
