@@ -46,18 +46,21 @@ really believed in the can't time the market mantra - except now for multi asset
 Holdings in the Growth Portfolio were increased significantly during the year, influenced by the increase 
 in government money printing and my uneasiness in holding a high cash weighting.  Most purchases were 
 commodity related, which presented the best risk-reward following the March sell-off.  In truth, I 
-missed the equities bounce, but was nimble enough to position in commodities, which are historically 
-cheap (See commodity:Stock ratio chart).
+missed the equities bounce, but was nimble enough to position in commodities, which are 
+<a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#investment-thesis">historically cheap</a>. 
 
 
+#### Precious Metals
 The [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) theme performed well this 
 year.  Following the collapse in markets around Feb/Mar time, I added to my holdings when silver was around 
 $14/15-ish.  The price then doubled and I thought it prudent to take some profit after such a quick gain - but like a 
-good pirate, I still retain a large weighting.  I've also purchased a mid sized gold royalty company which should 
-do well in a precious metals bull market.  I'm maintaining an overall weighting below that of energy as the oil:gold 
-ratio is in oil's favour.
+**good pirate**, I still retain a large weighting.  I've also purchased a mid sized gold 
+<a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#royalty-companies">royalty company</a> 
+which should do well in a precious metals bull market.  I plan to keep an overall weighting below that of energy as 
+the oil:gold ratio is in oil's favour.
 
 
+#### Oil & Gas
 With the economy shutting down, many oil companies prices fell significantly to multi decade lows.  In my 
 view, this has presented one of the (apparently many) opportunities of a lifetime as I'm expecting 
 [Energy Inflation]({% post_url 2020-07-12-Secular-Trend-Energy-Inflation %}).  I invested in a
@@ -70,6 +73,7 @@ and shove it on the back of a truck, or something like that.  They should benefi
 increases.  That's the theory.
 
 
+#### Uranium Supply / Demand
 As part of the [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) theme, my basket was 
 reduced to only 2 companies.  `Energy Fuels` was sold as it diluted ~30% despite previously stating it had sufficient 
 cash.  Investigation showed significant dilution in previous years, so I took the opportunity to sell on a  
@@ -78,6 +82,7 @@ my decision was correct.  In truth, I was beginning to view the uranium sector a
 likely to dilute significantly but the recovery looks like it may be under way with my largest holding `Nexgen Energy` up by 80%.
 
  
+#### Base Metal Royalties
 I started adding holdings to the [Commodity Cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) 
 theme, buying into 2 base metal Royalty companies (and selling CNY prior to Covid dip).  One of the companies 
 provides exposure to [copper](https://www.bhp.com/media-and-insights/prospects/2017/11/ten-reasons-why-we-like-copper/), 
@@ -85,6 +90,7 @@ potash and Iron ore and the other coal, copper, and potentially battery metals. 
 low risk way to gain exposure to the secular commodity theme.  
 
 
+#### Other Stuff
 An investment was made into a Global Macro / Relative Value hedge feeder fund.  ETF people should look away now, 
 as the fees are eye-watering.  The rationale here is it is one of the few sources of non correlated returns 
 available to non institutional investors (remember the 
@@ -100,7 +106,7 @@ are an asset light, high return business selling an addictive product.  Addition
 entry as the advertising ban means no new competitors or need to spend on advertising.  Their interests are highly 
 aligned with governments (tax generator).
 
-Reviewing the above - I appear to be investing in a general anti-ESG theme, which has left some companies seriously 
+Reviewing the above - I appear to be investing in a general **anti-ESG theme**, which has left some companies seriously 
 undervalued as investors are herded into ESG friendly funds.  I don't think this is an accident, a sort of bait and 
 switch thingy awaits.  Another possibility is that cash could continue flowing out and I keep collecting large 
 sustainable dividends, either is fine by me.
@@ -109,12 +115,12 @@ sustainable dividends, either is fine by me.
 ## The Great Crypto Experiment of 2020
 
 Alternatively, the Mediocre-at-Best Crypto Experiment.  Anyway, long storey short: I got bored and wrote 
-some scripts to generate crypto addresses, bought ~800 quids worth of XRP, transferred it to my address, it worked!, 
+some scripts to generate crypto addresses, bought ~800 quids worth of i`XRP`, transferred it to my address, it worked!, 
 it trebled, SEC launched legal case against Ripple, it halved and I sold.  I should have invested in bitcoin instead:
 
 <img style="border: 0;" src="/img/2021/20210102_Kuppy.png" />
 
-The SEC consider XRP as a security and there is the real possibility the exchanges will de-list it.  I do wonder 
+The SEC consider `XRP` as a security and there is the real possibility the exchanges will de-list it.  I do wonder 
 about the viability of other cryptos, if the government can crash them overnight. I know about defi, this ones different, 
 etc, but the government could make things really tough if they wanted to (see 
 [this](https://www.youtube.com/watch?v=vyQsWfsTenw) on that topic).  Think that's probably
@@ -128,11 +134,13 @@ Feb/Mar drawdown. Being too conservative meant that only a small portion of over
 form the large gains.  I was expecting further significant falls and didn't foresee the large government 
 stimulus, though don't think the magnitude was predictable :
 
-<img style="border: 0;" src="/img/2021/20210102_ChrisCole.png" />
+> Took unprecedented Fed BS ($4Trillion or 2x 2008) + buying corp debt + repo in response
+> to a -30% drawdown to prevent financial system meltdown.
  
 And now, an important public service announcement:
 
-<img style="border: 0;" src="/img/2021/20210102_Sacca.png" />
+> To everyone who got into trading stocks this year, I have a little hard truth for you:
+> You're not actually that god at it.  You just got caught a wild bull market.  Take some money off the table.
 
 Think I agree with that, though not enough to take any money off the table.  End of year
 was a bit melt up-ey, do expect decent pullback.
@@ -161,7 +169,8 @@ My plan is to try and focus on not doing anything too stupid:
 - don't concentrate holdings
 - don't feel forced to quickly invest as markets shoot higher.  
 
-I'm already failing on at least one of those.  Most investments will likely now be in the Multi Asset category as I've less chance of screwing that up.
+I'm already failing on at least one of those.  Most investments will likely now be in the Multi Asset 
+category as I've less chance of screwing that up.
 
 
 
