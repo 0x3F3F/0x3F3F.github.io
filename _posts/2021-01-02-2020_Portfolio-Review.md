@@ -50,7 +50,7 @@ missed the equities bounce, but was nimble enough to position in commodities, wh
 <a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#investment-thesis">historically cheap</a>. 
 
 
-#### Precious Metals
+**Precious Metals**  
 The [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) theme performed well this 
 year.  Following the collapse in markets around Feb/Mar time, I added to my holdings when silver was around 
 $14/15-ish.  The price then doubled and I thought it prudent to take some profit after such a quick gain - but like a 
@@ -60,20 +60,20 @@ which should do well in a precious metals bull market.  I plan to keep an overal
 the oil:gold ratio is in oil's favour.
 
 
-#### Oil & Gas
+**Oil & Gas**  
 With the economy shutting down, many oil companies prices fell significantly to multi decade lows.  In my 
 view, this has presented one of the (apparently many) opportunities of a lifetime as I'm expecting 
 [Energy Inflation]({% post_url 2020-07-12-Secular-Trend-Energy-Inflation %}).  I invested in a
 Canadian royalty and a large cap integrated oil company.  In an inflationary environment, royalty 
 companies will continue to receive their 'rent' without having to drill expensive holes.  The other 
-investment was in `Suncor`; the main attraction being that it is low cost producer with ~30year 
-reserve life (Compared to Shell ~9yrs).  In an inflationary environment, Suncor won't be forced to 
+investment was in `Suncor Energy`; the main attraction being that it is low cost producer with ~30year 
+reserve life (Compared majors eg ~9yrs).  In an inflationary environment, Suncor won't be forced to 
 pay ever increasing costs to expand their reserves, they'll just continue to dig it out the ground 
 and shove it on the back of a truck, or something like that.  They should benefit fully from price 
 increases.  That's the theory.
 
 
-#### Uranium Supply / Demand
+**Uranium Supply / Demand**  
 As part of the [Electricity Demand]({% post_url 2019-11-15-Secular-Trend-Electricity-Demand %}) theme, my basket was 
 reduced to only 2 companies.  `Energy Fuels` was sold as it diluted ~30% despite previously stating it had sufficient 
 cash.  Investigation showed significant dilution in previous years, so I took the opportunity to sell on a  
@@ -82,7 +82,7 @@ my decision was correct.  In truth, I was beginning to view the uranium sector a
 likely to dilute significantly but the recovery looks like it may be under way with my largest holding `Nexgen Energy` up by 80%.
 
  
-#### Base Metal Royalties
+**Base Metal Royalties**  
 I started adding holdings to the [Commodity Cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) 
 theme, buying into 2 base metal Royalty companies (and selling CNY prior to Covid dip).  One of the companies 
 provides exposure to [copper](https://www.bhp.com/media-and-insights/prospects/2017/11/ten-reasons-why-we-like-copper/), 
@@ -90,7 +90,7 @@ potash and Iron ore and the other coal, copper, and potentially battery metals. 
 low risk way to gain exposure to the secular commodity theme.  
 
 
-#### Other Stuff
+**Other Stuff**  
 An investment was made into a Global Macro / Relative Value hedge feeder fund.  ETF people should look away now, 
 as the fees are eye-watering.  The rationale here is it is one of the few sources of non correlated returns 
 available to non institutional investors (remember the 
@@ -114,8 +114,8 @@ sustainable dividends, either is fine by me.
 
 ## The Great Crypto Experiment of 2020
 
-Alternatively, the Mediocre-at-Best Crypto Experiment.  Anyway, long storey short: I got bored and wrote 
-some scripts to generate crypto addresses, bought ~800 quids worth of i`XRP`, transferred it to my address, it worked!, 
+Alternatively, the **Mediocre-at-Best** Crypto Experiment.  Anyway, long storey short: I got bored and wrote 
+some scripts to generate crypto addresses, bought ~800 quids worth of `XRP`, transferred it to my address, it worked!, 
 it trebled, SEC launched legal case against Ripple, it halved and I sold.  I should have invested in bitcoin instead:
 
 <img style="border: 0;" src="/img/2021/20210102_Kuppy.png" />
@@ -130,7 +130,7 @@ the end of my crypto adventures.
 ## Conclusion 
 
 Although the returns this year have been very good, I'm annoyed at myself for not investing more in the 
-Feb/Mar drawdown. Being too conservative meant that only a small portion of overall worth befitted 
+Feb/Mar drawdown. Being too conservative meant that only a **small portion of overall worth befitted** 
 form the large gains.  I was expecting further significant falls and didn't foresee the large government 
 stimulus, though don't think the magnitude was predictable :
 
@@ -145,12 +145,12 @@ And now, an important public service announcement:
 Think I agree with that, though not enough to take any money off the table.  End of year
 was a bit melt up-ey, do expect decent pullback.
 
-In the `Growth Portfolio`, I'm still looking to deploy money into an Emerging Market Consumer theme and 
-also a value orientated special situations fund, as you do.  I know, it's a growth portfolio.  They don't 
+In the `Growth Portfolio`, I'm still looking to deploy money into an **Emerging Market Consumer** theme and 
+also a **value orientated special situations** fund, as you do.  I know, it's a growth portfolio.  They don't 
 look like they're going to get any cheaper, so I may average into these over the coming year - possibly 
 only at a half weighting.
 
-With the governments need for money, it's likely CGT will increase and so tax risk needs to be considered 
+With the governments need for money, it's likely CGT will increase and so **tax risk** needs to be considered 
 when constructing the portfolio.  The only way I see of mitigating against this risk is to divert investments 
 into broad based funds where there won't ever be a need to sell and incur CGT.  I'll need to take the 
 hit on some of the asymmetric themes in the Growth portfolio, though even there I've a 5/10year horizon 
@@ -159,7 +159,7 @@ and might even lose money.
 In terms of 2021 predictions, I don't have any insight.  People are questioning whether (following the 
 stimulus) the business cycle still exists? Stocks could easily up 40% or down 40%, failure to 
 predict market moves this year has re-enforced the fact that I've short term no edge, hopefully my longer 
-term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022,
+term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022, probably 2021 too though 
 possibly get another chance to position in 2021.  On that topic, this guy "knows his shit" &trade; : 
 
 <img style="border: 0;" src="/img/2021/20210102_CapZay.png" />
