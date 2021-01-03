@@ -19,7 +19,7 @@ achieved an overall return of  **+40%**, ahead of both the `RPI+3%` (+4%), and t
 I managed to avoid losing money in the February dip, selling holdings before it.  It was apparent there was trouble 
 ahead in January when twitter was full of China lockdown talk. The slow market reaction was hard to explain (Efficient 
 Market?), I read one interesting theory that the trading algos didn't have a global pandemic in their training 
-datasets and so didn't know it should go down.  Having nailed the dip, I then **completely missed the bounce**, Doh!
+datasets and so didn't know it should go down.  Anyway, having nailed the dip, I then **completely missed the bounce** - Doh!
 
 
 ## Multi Asset Portfolio
@@ -40,8 +40,8 @@ have deffo lost money by not just investing and forgetting about it.
 <img style="border: 0;" src="/img/2021/20210102_G2.png" />
 
 The `Growth portfolio` returned **+55%** which was well ahead of both it's benchmarks, though more volatile than I'd 
-like.  This return was largely due to my market timing of the entry point (after years waiting!), I never 
-really believed in the can't time the market mantra - except now for multi asset funds.  
+like.  This return was largely due to my market timing of the entry point after years waiting!, I never 
+really believed in the can't time the market thing - Except now for multi asset funds.  
 
 Holdings in the Growth Portfolio were increased significantly during the year, influenced by the increase 
 in government money printing and my uneasiness in holding a high cash weighting.  Most purchases were 
@@ -53,8 +53,8 @@ missed the equities bounce, but was nimble enough to position in commodities, wh
 **Precious Metals:**  
 The [Currency Debasement]({% post_url 2019-11-08-Secular-Trend-Currency-Debasement %}) theme performed well this 
 year.  Following the collapse in markets around Feb/Mar time, I added to my holdings when silver was around 
-$14/15-ish.  The price then doubled and I thought it prudent to take some profit after such a quick gain - but like a 
-**good pirate**, I still retain a large weighting.  I've also purchased a mid sized gold 
+$14/15-ish.  The price then doubled and I thought it prudent to take some profit after such a quick gain - but **like a 
+good pirate**, I still retain a large weighting.  I've also purchased a mid sized gold 
 <a href="https://www.iainbenson.com/investment/2019/11/28/Secular-Trend-Commodity-Cycle.html#royalty-companies">royalty company</a> 
 which should do well in a precious metals bull market.  I plan to keep an overall weighting below that of energy as 
 the oil:gold ratio is in oil's favour.
@@ -67,7 +67,7 @@ view, this has presented one of the (apparently many) opportunities of a lifetim
 Canadian royalty and a large cap integrated oil company.  In an inflationary environment, royalty 
 companies will continue to receive their 'rent' without having to drill expensive holes.  The other 
 investment was in `Suncor Energy`; the main attraction being that it is low cost producer with ~30year 
-reserve life (Compared to other oil majors circa ~9yrs).  In an inflationary environment, Suncor won't be forced to 
+reserve life (Compared to other oil majors with circa ~10yrs).  In an inflationary environment, Suncor won't be forced to 
 pay ever increasing costs to expand their reserves, they'll just continue to dig it out the ground 
 and shove it on the back of a truck, or something like that.  They should benefit fully from price 
 increases.  That's the theory.
@@ -114,7 +114,7 @@ sustainable dividends, either is fine by me.
 
 ## The Great Crypto Experiment of 2020
 
-Alternatively, the **Mediocre-at-Best** Crypto Experiment.  Anyway, long storey short: I got bored and 
+Alternatively, the **Mediocre-at-Best** Crypto Experiment.  Anyway, long storey short: I got bored (danger!) and 
 [wrote some scripts]({% post_url 2020-04-26-How-To-Crypto %}) to generate crypto addresses, bought ~800 quids 
 worth of `XRP`, transferred it to my address, it worked!, it trebled, SEC launched legal case against Ripple, 
 it halved and I sold.  I should have invested in bitcoin instead.
@@ -157,10 +157,10 @@ into broad based funds where there won't ever be a need to sell and incur CGT.  
 hit on some of the asymmetric themes in the Growth portfolio, though even there I've a 5/10year horizon 
 and might even lose money.
 
-In terms of 2021 predictions, I don't have any insight.  People are questioning whether, following the 
+In terms of 2021 predictions, nae clue.  People are questioning whether, following the 
 stimulus, the business cycle still exists? Stocks could easily up 40% or down 40%, failure to 
 predict market moves this year has re-enforced the fact that I've no short term edge, hopefully my longer 
-term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022 & probably 2021 too,  
+term investment theses hold up.  I'm thinking it may be risky holding cash going into 2022 & probably 2021 too, 
 possibly get another chance to position?  On that topic, this guy "knows his shit" &trade; : 
 
 <img style="border: 0;" src="/img/2021/20210102_CapZay.png" />
