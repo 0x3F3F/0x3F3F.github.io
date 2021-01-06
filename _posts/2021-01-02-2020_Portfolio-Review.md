@@ -125,7 +125,7 @@ The SEC consider `XRP` as a security and there is the real possibility the excha
 about the viability of other cryptos, if the government can crash them overnight. I know about defi, this ones different, 
 etc, but the government could make things really tough if they wanted to (see 
 [this](https://www.youtube.com/watch?v=vyQsWfsTenw) on that topic).  Think that's probably
-the end of my crypto adventures.<span style="color:gray; font-size: x-small">*</span>  
+the end of my crypto adventures.<span style="color:gray; font-size: x-small; vertical-align: super;">*</span>  
 
 <span style="color:gray; font-size: x-small">*Disclaimer: I may or may not own 163 quids worth of bitcoin which henceforth
 (in the event of it's existence) will be known as the Bitcoin Retirement Fund</span>
