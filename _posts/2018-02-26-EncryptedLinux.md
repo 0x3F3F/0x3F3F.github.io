@@ -34,7 +34,7 @@ I then opened these encrypted volumes as follows:
 ```shellsession
 $ cryptsetup luksOpen /dev/sda6 root
 $ cryptsetup luksOpen /dev/sda7 swap
-$ cryptsetup luksOpen /dev/sda7 home
+$ cryptsetup luksOpen /dev/sda8 home
 ```
 
 This creates unencrypted entries with corresponding names in **/dev/mapper/**.  It's these that should be mounted, should there
@@ -160,5 +160,31 @@ offset used when re-creating the swap and thus the original UUID/LABEL is mainta
 initial 1Mb header.  As the UUID will remain unchanged, the crypttab entry is always valid and the swap should be correctly mounted.
 
 After the above steps, I again updated the locale and ran `update-initramfs -u`.  On rebooting, it appeared to work :shipit:
+
+
+### 2021 Update
+
+For some reason I stated to get prompted for a password for the home partition.  I tried the keyctl fix
+[here](https://unix.stackexchange.com/questions/392284/using-a-single-passphrase-to-unlock-multiple-encrypted-disks-at-boot), but it 
+didn't work and so went with the keyfile fix.  This [site](https://turlucode.com/arch-linux-install-guide-efi-lvm-luks/) had info about 
+encrypting the home volume
+
+
+```shellsession
+$ mkdir -m 700 /etc/crypttab-keys
+$ dd if=/dev/random of=/etc/crypttab-keys/home bs=1 count=256 status=progress
+$ cryptsetup luksAddKey /dev/sda8 /etc/crytptab-keys/home
+```
+Then updated crypttab  home entry
+
+```plain
+home UUID=a757443a-4163-c2376154793d /home/crypttab-keys/home luks
+```
+
+Then did an update-initramfs -u.
+
+
+
+
 
 
