@@ -37,7 +37,7 @@ theme should be considered a commodity allocation - but I'm choosing to put that
 silo as has it's own driving factors.
 
 This theme is more general and I intend to play it by investing in **royalty companies** focused on 
-base metals, rather than commodity funds.  As [Horizon Kinetics)](https://horizonkinetics.com/app/uploads/Q4-2020-Review_Final_Approved.pdf) explain:
+base metals, rather than commodity funds.  As [Horizon Kinetics](https://horizonkinetics.com/app/uploads/Q4-2020-Review_Final_Approved.pdf) explain:
 
 >While mining companies have appreciated during brief bouts of inflation, they have done poorly during extended 
 >periods of inflation. This is because they are asset intensive businesses, both as to physical capital and human 
