@@ -37,17 +37,30 @@ theme should be considered a commodity allocation - but I'm choosing to put that
 silo as has it's own driving factors.
 
 This theme is more general and I intend to play it by investing in **royalty companies** focused on 
-base metals, rather than commodity funds.  Commodity funds come with significant gold exposure, 
-which I'd like to manage separately.  
+base metals, rather than commodity funds.  As [Horizon Kinetics)](https://horizonkinetics.com/app/uploads/Q4-2020-Review_Final_Approved.pdf) explain:
+
+>While mining companies have appreciated during brief bouts of inflation, they have done poorly during extended 
+>periods of inflation. This is because they are asset intensive businesses, both as to physical capital and human 
+>capital. Over time, inflation acts upon the cost of replacing equipment, of purchasing and developing new 
+>reserves, and of retaining and compensating employees.  This erodes both profit margins and the stock valuations.  
+
+They then go on to explain that there is a limited universe of business models that are **asset-light**, rather than asset 
+intensive, and which derive their revenues from assets that tend to be inflation vectors.
+One example is a royalty company.
+
 
 ## Royalty Companies
 
->"The best business is a royalty on the growth of others  - requiring little capital
->itself" Warren Buffett
+>"The best business is a royalty on the growth of others  - requiring little capital itself" Warren Buffett
 
 Royalty companies can be considered as a finance business rather than a mining business, providing 
-capital in exchange for revenues.  Advantages include: 
+capital in exchange for revenues.  Royalty companies don’t require capital equipment or property; neither do 
+they have any operations per se, just administrative staff. Therefore, they benefit fully from any increase 
+in the price and volume of the underlying commodity in which they have a royalty interest. 
 
+Advantages include: 
+
+- Very high profit margins (profitable even if commodity price declines)
 - Low Risk(I): Mining companies must pay royalties prior to all other deductions.
 - Low Risk(II): Falling commodity prices squeeze miners costs.  Royalties unaffected.
 - Low Risk(III): Unaffected by unexpected costs (cost overruns etc).
