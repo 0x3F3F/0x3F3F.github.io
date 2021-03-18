@@ -13,10 +13,18 @@ tags: [ 'Investment' ]
 
 Funds held in my Multi Asset portfolio have large holdings of TIPs to protect against inflation.  One concern I have is that if the 
 CB loses control, first it will change the measure of inflation so we'll stay under the target.  [Jim Bianco](https://youtu.be/gZEh9Q3LzfY?t=840) 
-noted that recently the Fed had recently bought more TIPs than were issued, and now have an enormous footprint (~25%) in the market and the 
-ability to manipulate the rates - they might not offer the expected protection. Given this, I have been looking for alternative inflation hedges 
-so as to mitigate the risk of potential problems with TIPs.  Ideally, I have been looking diversify to areas outside of the Real Asset Category, 
-which is my other source of inflation protection.
+noted that recently the Fed had recently bought more TIPs than were issued, and now have an enormous footprint (~21%) in the market and the 
+ability to manipulate the rates, "It no longer measures, it is now targeted".  They might not offer the expected protection. 
+
+In [this interview](https://youtu.be/PmlORdi-8bU?t=2160), Russell Napier discusses financial repression and his expectation that over a prolonged 
+period, the governments will peg rates near zero with actual inflation being much higher.  He mentions how this repression may be at the 
+institutional level, rather than personal level and raises the prospect of forcing financial institutions (funds!) to buy government bonds.  In 
+order to do this they would be forced to sell equities, leading to prolonged equity underperformance.  His thoughts are that it is possible 
+escape the repression by identifying companies that would benefit in an inflationary environment, even if more generally the equity performance 
+is poor.  He specifically mentions companies with fixed costs, emerging markets, gold and residential real estate.  
+
+Given the above, I have been looking for alternative inflation hedges so as to mitigate the risk of potential problems with TIPs.  Ideally, I have 
+been looking diversify to areas outside of the Real Asset Category, which is my other source of inflation protection.
 
 Many companies viewed as offering inflation protection such as oil companies **do not perform well** under an extended period of inflation. These 
 companies are asset intensive and although they initially benefit, their fixed costs and operating costs increase which causes profit margins to 
@@ -27,12 +35,14 @@ There are alternative **'Asset-Light'** companies, that can perform well regardl
 drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  The 
 asset light business creates lots of excess cash that can be re-invested.  These companies usually  provide a product or service that is not widely 
 available or easily reproducible - they have pricing power, with the ability (in an inflationary environment) to increase prices without their 
-costs increasing.  
+costs increasing.  Exactly the type of company Russell Napier was discussing above. 
 
-Some of the ideas below come from the work of Horizon Kinetics and their ETF which covers the same theme.
+The bulk of the ideas below come from the work of Horizon Kinetics and their ETF which covers the same theme.
 
 
-## Security Exchanges
+## Method
+
+### Security Exchanges
 
 
 Security exchanges could be considered **counter cyclical**, providing essential economic infrastructure.  They can be thought of as operating a 
@@ -48,7 +58,7 @@ general increase in speculation.  It is instructive to view the performance duri
 > an otherwise injurious future equity market."
 
 
-## Tobacco
+### Tobacco
 
 Rationale:
 - Asset light, high return business.
