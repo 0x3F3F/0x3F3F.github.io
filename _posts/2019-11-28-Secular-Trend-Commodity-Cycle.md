@@ -68,6 +68,12 @@ Advantages include:
 - Upside not priced in (Mine life extensions, Commodity price increases, New discoveries)
 - Trading at low multiples to NAV when compared with precious metal peers.
 
+One obvious question: if royalties are so profitable, why do mining companies sell them?
+The reason is that after selling a royalty, the mining companies don't start to pay back until the mine is
+producing, which can be several years.  If they instead chose debt, they would have years of interest payments 
+to make prior to production
+
+
 As well as capturing the commodity upside, it is anticipated that the discounts to NAV should narrow as 
 the companies increase in size as borrowing becomes cheaper.
 
