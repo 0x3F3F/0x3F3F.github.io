@@ -44,9 +44,10 @@ base metals, rather than commodity funds.  As [Horizon Kinetics](https://horizon
 >capital. Over time, inflation acts upon the cost of replacing equipment, of purchasing and developing new 
 >reserves, and of retaining and compensating employees.  This erodes both profit margins and the stock valuations.  
 
-They then go on to explain that there is a limited universe of business models that are **asset-light**, rather than asset 
-intensive, and which derive their revenues from assets that tend to be inflation vectors.
-One example is a royalty company.
+Russel Clark gave an example of this when he who noted that  BHP lost 90% of its value in the 1970s during an inflation 
+boom.  Horizon Kinetics go on to explain that there is a limited universe of business models that are **asset-light**, 
+rather than asset intensive, and which derive their revenues from assets that tend to be inflation vectors.  One example 
+is a royalty company.
 
 
 ## Royalty Companies

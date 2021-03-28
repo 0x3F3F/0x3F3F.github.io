@@ -29,7 +29,8 @@ been looking diversify to areas outside of the Real Asset Category, which is my 
 Many companies viewed as offering inflation protection such as oil companies **do not perform well** under an extended period of inflation. These 
 companies are asset intensive and although they initially benefit, their fixed costs and operating costs increase which causes profit margins to 
 contract.  Speaking more generally, many companies experience poor returns in inflationary environments as many costs cannot be passed on. In 
-addition, PE ratios also contract leading to poor performance.
+addition, PE ratios also contract leading to poor performance eg MCD 1973->1979 the PE went 75->10 despite 25% earnings growth.
+
 
 There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
 drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  The 
