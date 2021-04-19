@@ -23,6 +23,10 @@ order to do this they would be forced to sell equities, leading to prolonged equ
 escape the repression by identifying companies that would benefit in an inflationary environment, even if more generally the equity performance 
 is poor.  He specifically mentions companies with fixed costs, emerging markets, gold and residential real estate.  
 
+In [this video](https://vimeo.com/535034640/5467084c46) Andy Parker of Horizon kinetics states that he thinks TIPs fail as an inflation hedge 
+for 2 reasons. Firstly, that they are a bet on inflation rather than a hedge as for TIPs to have a +ve rate of return inflation needs to be high.
+Secondly, TIPs underestimate the rate of inflation as they use CPI which understates inflation, so the bet is not well placed.
+
 Given the above, I have been looking for alternative inflation hedges so as to mitigate the risk of potential problems with TIPs.  Ideally, I have 
 been looking diversify to areas outside of the Real Asset Category, which is my other source of inflation protection.
 
@@ -30,7 +34,6 @@ Many companies viewed as offering inflation protection such as oil companies **d
 companies are asset intensive and although they initially benefit, their fixed costs and operating costs increase which causes profit margins to 
 contract.  Speaking more generally, many companies experience poor returns in inflationary environments as many costs cannot be passed on. In 
 addition, PE ratios also contract leading to poor performance eg MCD 1973->1979 the PE went 75->10 despite 25% earnings growth.
-
 
 There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
 drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  The 
