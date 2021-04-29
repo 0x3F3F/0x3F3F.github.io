@@ -24,7 +24,7 @@ escape the repression by identifying companies that would benefit in an inflatio
 is poor.  He specifically mentions companies with fixed costs, emerging markets, gold and residential real estate.  
 
 In [this video](https://vimeo.com/535034640/5467084c46) Andy Parker of Horizon kinetics states that he thinks TIPs fail as an inflation hedge 
-for 2 reasons. Firstly, that they are a bet on inflation rather than a hedge as for TIPs to have a +ve rate of return inflation needs to be high.
+for 2 reasons. Firstly, that they are a bet on inflation rather than a hedge, for TIPs to have a +ve rate of return inflation needs to be high.
 Secondly, TIPs underestimate the rate of inflation as they use CPI which understates inflation, so the bet is not well placed.
 
 Given the above, I have been looking for alternative inflation hedges so as to mitigate the risk of potential problems with TIPs.  Ideally, I have 
@@ -38,8 +38,8 @@ addition, PE ratios also contract leading to poor performance eg MCD 1973->1979 
 There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
 drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  The 
 asset light business creates lots of excess cash that can be re-invested.  These companies usually  provide a product or service that is not widely 
-available or easily reproducible - they have pricing power, with the ability (in an inflationary environment) to increase prices without their 
-costs increasing.  Exactly the type of company Russell Napier was discussing above. 
+available or easily reproducible.  They have pricing power, in an inflationary environment they have the ability to increase prices without their 
+costs increasing, resulting in margin expansion.  Exactly the type of company Russell Napier was discussing above. 
 
 The bulk of the ideas below come from the work of Horizon Kinetics and their ETF which covers the same theme.
 
@@ -68,7 +68,7 @@ Rationale:
 - Asset light, high return business.
 - Addictive product with pricing power.
 - Wide Moat (advertising ban limits new entrants)
-- Aligned with governments (as tax generator)
+- Aligned with governments (tax generator)
 - Best performing industry over last 100 years.
 - ESG created opportunity as funds divest.
 - Ability to pivot to cannabis (distribution networks etc already in place)
