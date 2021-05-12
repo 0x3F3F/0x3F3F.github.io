@@ -4,6 +4,7 @@ section-type: post
 title: Asset-Light Inflation Hedges
 category: Investment
 tags: [ 'Investment' ]
+frontPgDisp: Yes
 ---
 
 <img style="border: 0;" src="/img/2021/20210306_Header.jpg" />
@@ -35,13 +36,20 @@ companies are asset intensive and although they initially benefit, their fixed c
 contract.  Speaking more generally, many companies experience poor returns in inflationary environments as many costs cannot be passed on. In 
 addition, PE ratios also contract leading to poor performance eg MCD 1973->1979 the PE went 75->10 despite 25% earnings growth.
 
-There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
-drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  The 
-asset light business creates lots of excess cash that can be re-invested.  These companies usually  provide a product or service that is not widely 
-available or easily reproducible.  They have pricing power, in an inflationary environment they have the ability to increase prices without their 
-costs increasing, resulting in margin expansion.  Exactly the type of company Russell Napier was discussing above. 
 
-The bulk of the ideas below come from the work of Horizon Kinetics and their ETF which covers the same theme.
+### Asset Light
+There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
+drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  
+
+Horizon Kinetics noted many companies will suffer **margin compression**, with the primary cause due to employees requiring their salary to match 
+inflation.  Companies will need to increase salaries above inflation to have an (after tax) take home pay increase matching inflation.  Assuming 
+salaries start to fall into higher tax brackets, significant increases would be required.  This squeezes their margins and makes them less profitable.  Asset 
+light business often have fewer employees, and so don't suffer the same problem.
+
+The asset light business creates lots of excess cash that can be re-invested.  These companies usually  provide a product or service that is not widely 
+available or easily reproducible.  They have pricing power, in an inflationary environment they have the ability to increase prices without their 
+costs increasing, resulting in **margin expansion**.  Exactly the type of company Russell Napier was discussing above. 
+
 
 
 ## Method
@@ -64,6 +72,7 @@ general increase in speculation.  It is instructive to view the performance duri
 
 ### Tobacco
 
+
 Rationale:
 - Asset light, high return business.
 - Addictive product with pricing power.
@@ -73,6 +82,11 @@ Rationale:
 - ESG created opportunity as funds divest.
 - Ability to pivot to cannabis (distribution networks etc already in place)
 - In last inflationary period (70s) was one of best [performing sectors](https://www.nytimes.com/2004/03/28/business/investing-where-to-turn-when-inflation-roars-again.html).
+
+
+> "Tobacco, which proved itself the best performing sector in the deflationary bear market from 1929-32, turned
+> out the be the best performing sector in the inflationary bear market of 1968-82.  Managements ability to adjust
+> prices to maintain margins in the sector in differing inflationary environments seems almost unique."  Russell Napier.
 
 
 

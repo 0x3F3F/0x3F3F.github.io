@@ -4,7 +4,7 @@ section-type: post
 title: 2020 Portfolio Review
 category: Portfolio
 tags: [ 'PortfolioReview' ]
-frontPgDisp: Yes
+frontPgDisp: No
 ---
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2021/20210102_Overview1.png" />
