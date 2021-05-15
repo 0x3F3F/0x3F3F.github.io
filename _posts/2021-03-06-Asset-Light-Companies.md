@@ -41,14 +41,15 @@ addition, **PE ratios also contract** leading to poor performance eg MCD 1973->1
 There are alternative **'Asset-Light'** companies, that can perform well regardless economic circumstances, and benefit from indirect exposure to inflation 
 drivers.  These companies typically have **low fixed costs** (eg few employees) which would not increase by much in an inflationary environment.  
 
-Horizon Kinetics noted many companies will suffer **margin compression**, with the primary cause due to employees requiring their salary to match 
+Horizon Kinetics noted many companies will suffer **margin compression**, with a primary cause being due to employees requiring their salary to match 
 inflation.  Companies will need to increase salaries above inflation to have an (after tax) take home pay increase matching inflation.  Assuming 
 salaries start to fall into higher tax brackets, significant increases would be required.  This squeezes their margins and makes them less profitable.  Asset 
 light business often have fewer employees, and so don't suffer the same problem.
 
 The asset light business creates lots of excess cash that can be re-invested.  These companies usually  provide a product or service that is not widely 
 available or easily reproducible.  They have pricing power, in an inflationary environment they have the ability to increase prices without their 
-costs increasing, resulting in **margin expansion**.  Exactly the type of company Russell Napier was discussing above. 
+costs increasing, resulting in **margin expansion**.  Importantly, they are not a bet on inflation: they do NOT require an inflationary environment 
+to prosper.  Exactly the type of company Russell Napier was discussing above. 
 
 
 
