@@ -73,11 +73,16 @@ general increase in speculation.  It is instructive to view the performance duri
 
 ### Tobacco
 
+> "Tobacco, which proved itself the best performing sector in the deflationary bear market from 1929-32, turned
+> out the be the best performing sector in the inflationary bear market of 1968-82.  Managements ability to adjust
+> prices to maintain margins in the sector in differing inflationary environments seems almost unique.",  Russell Napier.
 
 Rationale:
 - Asset light, high return business.
-- Addictive product with pricing power.
 - Wide Moat (advertising ban limits new entrants)
+- Addictive product.
+- Excise tax structure gives pricing power advantage (See below).
+- Inflation results in PE contraction, effect less pronounced as already on depressed PEs
 - Aligned with governments (tax generator)
 - Best performing industry over last 100 years.
 - ESG created opportunity as funds divest.
@@ -85,9 +90,10 @@ Rationale:
 - In last inflationary period (70s) was one of best [performing sectors](https://www.nytimes.com/2004/03/28/business/investing-where-to-turn-when-inflation-roars-again.html).
 
 
-> "Tobacco, which proved itself the best performing sector in the deflationary bear market from 1929-32, turned
-> out the be the best performing sector in the inflationary bear market of 1968-82.  Managements ability to adjust
-> prices to maintain margins in the sector in differing inflationary environments seems almost unique.",  Russell Napier.
+> "Tobacco is the only Staples industry in which prices can consistently rise higher than inflation, and excise structures create a further advantage for 
+> manufacturers in disguising the level of price increase they themselves take.  To the extent that some of the tax burden is specific (based on the number 
+> of cigarettes per pack) rather than ad valorem (based on the selling price), manufacturers can obtain a bigger price increase of their own relative to 
+> any given level of retail price increase.  That excise multiplier effect is very important when tax accounts for 60-80% of the retail price." Ash Park
 
 
 
@@ -102,6 +108,6 @@ Rationale:
 ## Links
 
 [(Oil) Industry Performance](http://www.philosophicaleconomics.com/2015/09/industry/)
-
+Lawrence Hamtil [1](https://fortunefinancialadvisors.com/blog/tobacco-and-defense-as-inflation-shelters/)
 
 
