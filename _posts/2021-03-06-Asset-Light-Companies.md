@@ -71,6 +71,7 @@ general increase in speculation.  It is instructive to view the performance duri
 > an otherwise injurious future equity market."
 
 
+<!--
 ### Tobacco
 
 > "Tobacco, which proved itself the best performing sector in the deflationary bear market from 1929-32, turned
@@ -94,7 +95,7 @@ Rationale:
 > manufacturers in disguising the level of price increase they themselves take.  To the extent that some of the tax burden is specific (based on the number 
 > of cigarettes per pack) rather than ad valorem (based on the selling price), manufacturers can obtain a bigger price increase of their own relative to 
 > any given level of retail price increase.  That excise multiplier effect is very important when tax accounts for 60-80% of the retail price." Ash Park
-
+-->
 
 
 
