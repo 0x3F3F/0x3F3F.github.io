@@ -110,5 +110,5 @@ Rationale:
 
 [(Oil) Industry Performance](http://www.philosophicaleconomics.com/2015/09/industry/)
 Lawrence Hamtil [1](https://fortunefinancialadvisors.com/blog/tobacco-and-defense-as-inflation-shelters/)
-
+Russell Napier [1](https://themarket.ch/interview/russell-napier-we-are-entering-a-time-of-financial-repression-ld.4628)
 
