@@ -46,11 +46,10 @@ outperform.  Active investors may once again have their day in the sun.
 
 Steven Bregman [details the calculation](https://youtu.be/xpk3triMLZQ?t=1325) of the PE Ratio 
 for the NASDAQ.  High PEs & -ve PEs are excluded from the calculation,  then the calculation 
-is performed using a 'Weighting Harmonic mean'.  This calculation is somewhat different to 
-an average (or weighted average), instead it involves the summation of the reciprocals.
-Performing all these actions makes the PE come to at around **28 rather than 56** ( WTF! ).
+is performed using a 'Weighting Harmonic mean'. 
+[This post](https://twitter.com/10kdiver/status/1424040667483762700) explains the process, 
+essentially it is the earnings yields that must be averaged not PEs.
 
-This slight of hand does raise the prospect of what other 'funnies' there are, under-the-hood.
 
 
 ### Float Adjusted
