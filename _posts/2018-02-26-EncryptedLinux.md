@@ -69,9 +69,10 @@ $ mkdir root
 $ mount /dev/mapper/root root
 $ mount /dev/sda5 root/boot
 
+$ mount --bind /proc /mnt/root/proc
+$ mount --bind /sys /mnt/root/sys
+$ mount --bind /dev /mnt/root/dev
 $ chroot root
-$ mount -t proc proc /proc
-$ mount -t sysfs sys /sys
 ```
 
 The `crypttab` file needs to be created, to tell the system which volumes are encrypted.  
@@ -183,6 +184,24 @@ home UUID=a757443a-4163-c2376154793d /home/crypttab-keys/home luks
 
 Then did an update-initramfs -u.
 
+
+### 2021 Update 2
+
+Had to re-install linux as couldn't do an in place upgrade.  Yet more issues with swap as above wasn't working.  Could edit required files without having to use Live CD.
+
+First updated swap entry on crypttab to :
+
+```plain
+swap /dev/sda7 /dev/urandom swap
+```
+
+And fstab:
+
+```plain
+/dev/mapper/swap none            swap    sw              0       0
+```
+
+On reboot it picked up this configuration.  No need to manually create mess about with cryptsetup etc.
 
 
 
