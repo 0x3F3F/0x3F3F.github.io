@@ -60,7 +60,8 @@ lines: # You can add HTML Tags in the Text
   - text: "In knowing that you know nothing, that makes you the smartest of all"
   - text: "The eyes only see what the mind is prepared to comprehend"
   
-me-img: "/img/author.jpg"
+#me-img: "/img/author.jpg"
+me-img: "/img/willy.png"
 
 ##############################
 # Color the browser elements #
