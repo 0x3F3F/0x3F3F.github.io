@@ -114,8 +114,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/glasgowuni.jpg"
+    date: "2022 - Today"
+    description: "Back in Scotland!"
   - image: "/img/timeline/spain.jpg"
-    date: "2009 - Today"
+    date: "2009 - 2021"
     description: "Freelance Programmer, working remotely from my underwater Spanish volcano.  Involved in Dev and Test."
   - image: "/img/timeline/linedata2.jpg"
     date: "2006 - 2009"
