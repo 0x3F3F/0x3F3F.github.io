@@ -116,7 +116,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/mountain.jpg"
     date: "2022 - Today"
-    description: "Back in Scotland!"
+    description: "Back in Scotland. Taking pics of random mountains."
   - image: "/img/timeline/spain.jpg"
     date: "2009 - 2021"
     description: "Freelance Programmer, working remotely from my underwater Spanish volcano.  Involved in Dev and Test."
