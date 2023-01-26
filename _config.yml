@@ -114,7 +114,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/glasgowuni.jpg"
+  - image: "/img/timeline/mountain.jpg"
     date: "2022 - Today"
     description: "Back in Scotland!"
   - image: "/img/timeline/spain.jpg"
