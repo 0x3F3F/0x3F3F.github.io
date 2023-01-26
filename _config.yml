@@ -154,7 +154,7 @@ email: "&#105;&#097;&#105;&#110;&#098;&#101;&#110;&#115;&#111;&#110;@&#112;&#114
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Iain Benson is a real person and not a grassy plant viking. He lives in Northern Spain. In his spare time, Iain likes tinkering with his Raspberry Pi, going for long walks and drinking wine.  Preferably all at the same time."
+author_blurb: "Iain Benson is a real person and not a grassy plant viking. He lives in Scotland. In his spare time, Iain likes tinkering with his Raspberry Pi, going for long walks and drinking wine.  Preferably all at the same time."
 author_blurb_image: "/img/author.jpg"
 
 ##################
