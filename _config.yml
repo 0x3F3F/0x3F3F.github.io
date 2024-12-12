@@ -119,10 +119,10 @@ events:
     description: "Back in Scotland. Taking pics of random mountains."
   - image: "/img/timeline/spain.jpg"
     date: "2009 - 2021"
-    description: "Contractor, working remotely from my underwater Spanish volcano.  Involved in Dev and Test."
+    description: "Contractor. Working remotely from my underwater Spanish volcano.  Involved in Dev and Test."
   - image: "/img/timeline/linedata2.jpg"
     date: "2006 - 2009"
-    description: "Analyst Programmer, Linedata Services. Fund Management Accounting Software, C, Oracle, Python."
+    description: "Analyst Programmer, Linedata Services. Fund Management, C, Oracle, Python."
   - image: "/img/timeline/eurofightersmall.jpg"
     date: "2001 - 2006"
     description: "Systems Engineer, BAE Systems. Dev of radar modes for Eurofighter Typhoon using C and GEDAE."
@@ -134,7 +134,7 @@ events:
     description: "Msc Opto-electronics at the University of Strathclyde."
   - image: "/img/timeline/glasgowuni.jpg"
     date: "1992 - 1996"
-    description: "1st Class BSc (hons) in Physics at the University of Glasgow."  
+    description: "1st Class BSc(hons) in Physics at the University of Glasgow."  
   
 # First image of the Timeline
 
