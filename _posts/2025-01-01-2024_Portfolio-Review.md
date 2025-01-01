@@ -7,7 +7,6 @@ tags: [ 'PortfolioReview' ]
 frontPgDisp: Yes
 ---
 
-<!--img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Perf.png" /-->
 
 Performance this year has been mixed with an increase of **+8.5%**, ahead of my`RPI+3%` (+6%) benchmark but trailing the `FTSEAS-TR` 
 (9.2%).    
@@ -20,7 +19,7 @@ Performance this year has been mixed with an increase of **+8.5%**, ahead of my`
 This portfolio has an anti-ESG bias, trying to take advantage of mis-pricings caused by ESG constraints eg funds 
 not allowed to own tobacco/coal, transition to electric will be slower than thought (oil will be needed much longer), 
 coal still essential and growing etc. There is also a bias to inflation beneficiaries - 
-[asset light]({% post_url 2021-03-06-Aset-Light-Companies %}), real assets etc. 
+[asset light]({% post_url 2021-03-06-Asset-Light-Companies %}), real assets etc. 
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
 
