@@ -8,16 +8,14 @@ frontPgDisp: Yes
 ---
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Perf.png" />
-<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
-
-
-## Commentary
 
 Performance this year has been mixed with an increase of **+8%**, ahead of my`RPI+3%` (+6%) benchmark but trailing the `FTSEAS-TR` 
 (9%).    
 
 
-## ESG Portfolio
+## Portfolio
+
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
 
 This portfolio has an anti-ESG bias, trying to take advantage of mis-pricings caused by ESG constraints eg funds 
 not allowed to own tobacco/coal, transition to electric will be slower than thought (oil will be needed much longer), 

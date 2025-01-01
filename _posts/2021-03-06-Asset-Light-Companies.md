@@ -4,7 +4,7 @@ section-type: post
 title: Asset-Light Inflation Hedges
 category: Investment
 tags: [ 'Investment' ]
-frontPgDisp: Yes
+frontPgDisp: No
 ---
 
 <img style="border: 0;" src="/img/2021/20210306_Header.jpg" />
