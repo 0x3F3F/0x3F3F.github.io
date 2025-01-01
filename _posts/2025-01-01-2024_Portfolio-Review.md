@@ -23,8 +23,6 @@ coal still essential and growing etc. There is also a bias to inflation benefici
 
 <img style="border: 0 ; padding-bottom: 5px" src="/img/2024/2024_Holdings2.png" />
 
-I am a believer that it is possible to time the market to enhance returns, and have a watch-list of stocks that I'm hoping 
-will fall into my buy zone.  
 
 
 ### Consumer Staples
@@ -112,7 +110,7 @@ I lost them, so bought SBSW in low/mid 4's and sold at high 5's.  However, I was
 I initiated a significant position in **Platinum**.  The metal has traded above gold in the past but now is substantially cheaper, it would have to 
 2.5x to get back to that level.  The asymmetric risk reward looks good, with maybe 20% downside or so.  It has suffered from 
 expected lack of demand due to EVs, but this now appears to be in doubt as many manufacturers pulling back from EVs and instead looking at 
-hybrids.  Platinum also has other 'green' growth uses such as hydrogen fuel cells.  I've read that many jewellers are stocking more platinum 
+hybrids which have high PGM loadings.  Platinum also has other 'green' growth uses such as hydrogen fuel cells.  I've read that many jewellers are stocking more platinum 
 as the working capital required is much less than holding a large stock of gold jewellery.  Platinum is a veblen good, a higher price makes 
 it more sought after, increasing demand (like luxury handbags).
 
