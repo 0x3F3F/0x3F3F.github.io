@@ -45,7 +45,7 @@ on the inflation protection of DGE's premium brands and the market gave better o
 ### Oil and Gas
 
 Oil and Gas exposure is via **offshore drillers** ("Steel on water") which should be long term beneficiaries of structural inflation 
-and my [energy theme]({% post_url 2020-07-12-Secuar-Trende-Energy-Inflation %}).  These shares trade at 2022 levels, at a fraction of 
+and my [energy theme]({% post_url 2020-07-12-Secular-Trend-Energy-Inflation %}).  These shares trade at 2022 levels, at a fraction of 
 book value.   I think they give better inflation protection than regular oil and gas companies and with significantly less political 
 risk.  The industry is **consolidating**, which should lead to **pricing power** for the **scarce assets with high barriers to entry**. 
 
