@@ -14,14 +14,14 @@ Performance this year has been mixed with an increase of **+8.5%**, ahead of my`
 
 ## Portfolio
 
-<img style="border: 0 ; padding-bottom: 5px" src="/img/2024/2024_Holdings2.png" />
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
 
 This portfolio has an anti-ESG bias, trying to take advantage of mis-pricings caused by ESG constraints eg funds 
 not allowed to own tobacco/coal, transition to electric will be slower than thought (oil will be needed much longer), 
 coal still essential and growing etc. There is also a bias to inflation beneficiaries - 
 [asset light]({% post_url 2021-03-06-Asset-Light-Companies %}), real assets etc. 
 
-<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
+<img style="border: 0 ; padding-bottom: 5px" src="/img/2024/2024_Holdings2.png" />
 
 I am a believer that it is possible to time the market to enhance returns, and have a watch-list of stocks that I'm hoping 
 will fall into my buy zone.  
