@@ -7,20 +7,22 @@ tags: [ 'PortfolioReview' ]
 frontPgDisp: Yes
 ---
 
-<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Perf.png" />
+<!--img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Perf.png" /-->
 
-Performance this year has been mixed with an increase of **+8%**, ahead of my`RPI+3%` (+6%) benchmark but trailing the `FTSEAS-TR` 
-(9%).    
+Performance this year has been mixed with an increase of **+8.5%**, ahead of my`RPI+3%` (+6%) benchmark but trailing the `FTSEAS-TR` 
+(9.2%).    
 
 
 ## Portfolio
 
 <img style="border: 0 ; padding-bottom: 5px" src="/img/2024/2024_Holdings2.png" />
-<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
 
 This portfolio has an anti-ESG bias, trying to take advantage of mis-pricings caused by ESG constraints eg funds 
 not allowed to own tobacco/coal, transition to electric will be slower than thought (oil will be needed much longer), 
-coal still essential and growing etc. There is also a bias to inflation beneficiaries - asset light, real assets etc. 
+coal still essential and growing etc. There is also a bias to inflation beneficiaries - 
+[asset light]({% post_url 2021-03-06-Aset-Light-Companies %}), real assets etc. 
+
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Holdings.png" />
 
 I am a believer that it is possible to time the market to enhance returns, and have a watch-list of stocks that I'm hoping 
 will fall into my buy zone.  
@@ -29,12 +31,12 @@ will fall into my buy zone.
 ### Consumer Staples
 
 My largest position remains **BATS**, which provides good income and is an asset light, non cyclical.  I've noted that at times, 
-it does appear to be uncorrelated to the market, which I like from a portfolio perspective (bond substitute).  The price fell 
-significantly during the year but I averaged down in the 22-23 area, creating a very unbalanced portfolio.  I sold about a 
-third in the 28-29 area, and have the significant dividends on top.  I may trim this further but will keep a high overweight 
-as I think it provides me with a safe income stream with unrecognised growth catalysts (Vapes+oral, EM exposure, call option 
-on weed).  BATS are managing their debt "maturity wall" well, once it becomes apparent it's a non-issue I'd expect a re-rate 
-(catalyst could be increased buybacks).
+it does appear to be [uncorrelated to the market]({% post_url 2018-02-08-Asset-Alloc-Correlation %}), which I like from a portfolio 
+perspective (bond substitute).  The price fell significantly during the year but I averaged down in the 22-23 area, creating a very 
+unbalanced portfolio.  I sold about a third in the 28-29 area, and have the significant dividends on top.  I may trim this further 
+but will keep a high overweight as I think it provides me with a safe income stream with unrecognised growth catalysts (Vapes+oral, 
+EM exposure, call option on weed).  BATS are managing their debt "maturity wall" well, once it becomes apparent it's a non-issue 
+I'd expect a re-rate (catalyst could be increased buybacks).
 
 Following Nick Train, I initiated a **Diageo** position - which kept falling.  This gave some premium Brands exposure, choosing this as 
 less keen on other options such as Unilever.  However, I subsequently sold the position to crystallise a loss, I was unconvinced 
@@ -44,12 +46,12 @@ on the inflation protection of DGE's premium brands and the market gave better o
 ### Oil and Gas
 
 Oil and Gas exposure is via **offshore drillers** ("Steel on water") which should be long term beneficiaries of structural inflation 
-and my energy theme.  These shares trade at 2022 levels, at a fraction of book value.   I think they give better inflation protection 
-than regular oil and gas companies and with significantly less political risk.  The industry is consolidating, which should lead to 
-pricing power for the scarce assets with high barriers to entry. 
+and my [energy theme]({% post_url 2020-07-12-Secuar-Trende-Energy-Inflation %}).  These shares trade at 2022 levels, at a fraction of 
+book value.   I think they give better inflation protection than regular oil and gas companies and with significantly less political 
+risk.  The industry is **consolidating**, which should lead to **pricing power** for the **scarce assets with high barriers to entry**. 
 
 They have fallen significantly and I've averaged down making them large holdings.  These are highly cyclical, with the ability 
-to multibag your money, then probably lose it again quickly.  I expect this cycle's performance may exceed that of the last: offshore is 
+to multibag, then probably lose it again quickly.  I expect this cycle's performance may exceed that of the last: offshore is 
 one of the cheapest options for oil companies, the theory is that there will be a shortage of rigs.  It takes years to build a new 
 rig/drillship,  less credit may be available this time around (burned last cycle) and so day rates should move up.
 
@@ -74,7 +76,7 @@ I've also been looking at Alpha Metallurgical Resources, and may switch some off
 
 
 ### Commodities
-My commodity exposure is through VALE and Glencore.  I split the (~40%) coal out of the Glencore holding and count it under the coal 
+My commodity exposure is through Vale and Glencore.  I split the (~40%) coal out of the Glencore holding and count it under the coal 
 weighting for better visibility.  
 
 My emphasis is on the bulks which, although isn't sexy, is apparently where the money is made.  Near term Iron Ore demand looks suspect, 
