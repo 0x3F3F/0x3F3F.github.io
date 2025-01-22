@@ -15,7 +15,7 @@ url: "http://www.iainbenson.com"
 baseurl:
 
 # Google tracking id
-google-tracking-id: "UA-96368179-1"
+google-tracking-id: ""
 #google-tracking-id:
 
 # Forces https everywhere in your website, except when you serve it locally
