@@ -11,6 +11,7 @@ frontPgDisp: Yes
 Performance this year has been mixed with an increase of **+8.5%**, ahead of my`RPI+3%` (+6%) benchmark but just trailing the `FTSEAS-TR` 
 (9.2%).    
 
+<img style="border: 0 ; padding-bottom: 20px" src="/img/2024/2024_Perf.png" />
 
 ## Portfolio
 
