@@ -53,28 +53,28 @@ should exhibit **pricing power inelasticity** (somewhat recession proof).
 
 
 ### Oil and Gas
-Oil and Gas exposure is via **Offshore drillers**.  The thesis is that that they trade at a fraction of replacement 
-cost; it takes years to build a new rig/drillship and they are in **limited supply**. Once the new offshore cycle starts the dayrates 
+Oil and Gas exposure is via **Offshore drillers**.  The thesis is that that they trade at a **fraction of replacement 
+cost**; it takes years to build a new rig/drillship and they are in **limited supply**. Once the new offshore cycle starts the dayrates 
 should increase significantly, the rates are currently far far below those required to incentivise new builds. Teir 1 shale oil development in 
 America appears to be slowing and offshore the cheapest new oil available to oil companies. 
 
 > "the secret is to look for consolidating industries and avoid highly competitive/fragmented industries"
 
-This sector is consolidating, leading to pricing power for scarce assets with high barriers to entry.  In inflationary times, **scarce 
+This sector is consolidating, **leading to pricing power** for scarce assets with **high barriers to entry**.  In inflationary times, **scarce 
 assets are exactly what we should be holding**.
 
 As the price of oil increases, many oil companies may face populist windfall taxes - offshore services are a **clever way to participate** in 
 an oil rise but avoid this political risk.   
 
 But there is a downside! This sector is highly volatile and cyclical.  In the April sell off, the holdings lost over 50% in value.  Top 
-ups were made by selling holdings that had gone down less, making this risky sector overweight.  This gamble paid off as many are up 
+ups were made by selling holdings that had gone down less, making this risky sector an overweight.  This gamble paid off as many holdings are up 
 over 100% off the lows.  This has been a **major driver of this year's portfolio return**.
 
-**Transocean** is the principle holding, giving exposure to **'best in class' semisubs/drillships**.  It has significant debt and so most levered 
-to the thesis.  In inflationary times, it is said that debt becomes an asset (as gets inflated away).  Many consider this a poor sector pick, 
+**Transocean** is the principle holding, giving exposure to **best in class** semisubs/drillships.  It has significant debt and so **most levered 
+to the thesis**.  In inflationary times, it is said that debt becomes an asset (as gets inflated away).  Many consider this a poor sector pick, 
 but it has most contracted book compared to competitors - [Mohnish Pabrai](https://x.com/Armin_Hartl/status/2001593280317075714) noted this 
-**lack of white space hints to quality** of ships, crew and business acumen compared to the other players.  By avoiding bankruptcy in the last 
-cycle, it kept hold of experienced employees.  As the best known driller, it should benefit from fund flows if there is a retail push into the sector.  
+lack of white space **hints to quality** of ships, crew and business acumen compared to the other players.  By avoiding bankruptcy in the last 
+cycle, it kept hold of experienced employees.  As the best known driller, it should **benefit from fund flows** if there is a retail push into the sector.  
 
 A holding in **Noble** is maintained as some sector diversification. They appear to be well managed.  Valaris was sold after a 100% gain off the 
 lows, I'm not convinced about [their management](https://x.com/Alpaca_Capital/status/1999557427243405672) and the lack of buybacks at the lows, despite 
@@ -83,13 +83,13 @@ being 'cashed up' (and buying much higher).
 The portfolio retains a significant holding to **BORR Drilling** which operates a fleet of **modern jackups**.  This share has faced it's own 
 idiosyncratic issues and is down a lot, but these appear to be resolving and it's prospects look good going forwards.
 
-I initiated a position in the North Sea based **Harbour Energy**.  While I'm cautious on governments levying windfall taxes on oil companies, 
+I initiated a position in the North Sea based **Harbour Energy**.  While I'm cautious on governments **levying windfall taxes** on oil companies, 
 I don't think those Harbour face could get much worse than 78%.  Indeed, could view this as a play on the government eventually easing up on 
 the tax regime once it become apparent they're destroying UK oil industry/receiving less revenue.  This position was reduced following the 
 announcement they would takeover LLOG, which would mean much more debt and so the risk reward changed (took ~5% loss).
 
-The oil price seems to be at a generational low when compared to that of real money.  The chart below shows barrels per Oz of silver.
-In inflationary environments PMs are said to move first with other commodities later, lets see what happens...
+The oil price seems to be **at a generational low** when compared to that of real money.  The chart below shows barrels per Oz of silver.
+In inflationary environments Precious Metals are said to move first with other commodities later.
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Silver.jpg" />
 
@@ -97,24 +97,24 @@ In inflationary environments PMs are said to move first with other commodities l
 ### Commodities
 
 Commodity exposure is via generalist large cap companies that will benefit from my [commodity cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) 
-theme.  My emphasis is on the bulks which is apparently where the money is made.  When compared to the S&P around all time highs, prices 
-could be viewed as cheap.  After years of underinvestment, all the conditions are present to foment a bubble.  Following the precious metals 
+theme.  My emphasis is on the bulks which, based on past cycles, is where the money is made.  When compared to the S&P around all time highs, prices 
+could be viewed as cheap.  After **years of underinvestment**, all the conditions are present to foment a bubble.  Following the precious metals 
 breaking higher, I suspect that the **trend will push out** into industrial metals.  
 
 Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
 the UK and Brazil meant I was paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
-, with the **royalty structure giving additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
+, with the royalty structure giving **additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
 world growth.
 
 **Glencore** gives exposure to **Copper** and **Coal**, along with their **trading arm** (uncorrelated returns?).  Copper is **THE** energy transition 
 metal, battery chemistries change but the requirement for copper won't.  Key points: several large mines have gone offline this year, 
 ore grades have collapsed from ~2% to <1%, few new discoveries and takes ~20yrs to go from discovery to production.  In other words, 
-supply is extremely tight (falling 1.5%/yr) while demand keeps rising (1.6%/yr)  - this indicates higher prices going forward. 
+**supply is tight** (falling 1.5%/yr) while **demand keeps rising** (1.6%/yr)  - this indicates higher prices going forward. 
 Holding GLEN also gives a call option on the possibility of a merger with RIO.  In short, **Glencore gives multiple ways to win**. 
 
 **S32** was purchased to diversify the Glencore holding.  These are ex BHP assets.  It gives exposure to **aluminium**, where destocking is 
-taking place and US premiums are at highs. In the US there appears to be competition between aluminium refiners and AI data centres for power.  
-Aluminium could also benefit from from copper substitution.  S32 also gives exposure to **silver** and 'critical minerals' which aren't in 
+taking place and US premiums are at highs. In the US there appears to be competition between aluminium refiners and AI data centres for power. 
+Aluminium could also benefit from from **copper substitution**.  S32 also gives exposure to **silver** and 'critical minerals' which aren't in 
 the price, with the recent silver price rise this could be a significant.
 
 
@@ -134,8 +134,8 @@ read that India has said it could now continue building coal plants until 2047, 
 In short, supply growth is constrained and demand will [continue to grow](https://x.com/ekwufinance/status/1994013418366349382) which creates 
 a **compelling opportunity**.  
 
-Coal is represented in the portfolio via Glencore and Thungela.  **Thungela** is a spin off from Anglo American who divested their coal portfolio.  
-It's down over 80% from it's recent high. If I had to bet on a company that could 10x, it'd be this. 
+Coal is represented in the portfolio via Glencore and Thungela.  **Thungela** is a spin off from Anglo American who divested their coal portfolio. 
+It's down over 80% from it's recent high. If I had to **bet on a company that could 10x**, it'd be this. 
 
 
 ### Chemicals
@@ -162,13 +162,13 @@ banks).  When compared to money supply, **gold could still be considered cheap**
 
 2/3rds of the physical platinum was sold on the Oct pull back and moved into the miner **Valterra Platinum**.   This continues the profitable game of **buying 
 deeply discounted assets** that were sold off by Anglo American.  Valterra should give **levered exposure** to the platinum price and pay a dividend 
-(instead of having to pay a carry cost).  It also gives significant exposure to Palladium/Rhodium, and has the longest life mines in the sector.  
+(instead of having to pay a carry cost).  It also gives significant exposure to Palladium/Rhodium, and has the longest life mines in the sector. 
 Retaining some physical platinum serves as a **natural hedge**: if there is an issue with Valterra then the platinum price would re-rate higher and 
 offset the loss. 
 
 Tensions with China are rising: China implementing export controls on rare earths/silver, US banning chip sales and seizing Venezuelan oil tankers 
 bound for China (squeezing them out of Latam oil and metals?).  Could this signal a bifurcation between East/West?  We could be viewing the 
-re-monetisation of Gold prior to the return to a multipolar world - in which case this could be the new normal, rather than a price spike.  Not 
+**re-monetisation of Gold** prior to the return to a multipolar world - in which case this could be the **new normal**, rather than a price spike.  Not 
 adding here but very happy to hold for now.
 
 
@@ -177,9 +177,9 @@ Japan positions were closed and moved to oil, which I think has better prospects
 
 
 ### Transportation
-I initiated holdings in shipping and rail companies, all at low valuations.
+I initiated holdings in **shipping** and **rail companies**, all at low valuations.
 
-Rail companies operate as pseudo monopolies with high replacement cost. They are the lowest cost of on land transport and can be viewed as 
+Rail companies operate as **pseudo monopolies** with **high replacement cost**. They are the lowest cost of on land transport and can be viewed as 
 'green'.  I bought into **Canadian National Railway**, other owners include Bill Gates (it was his largest position) and Personal Assets Trust 
 (a fund I rate highly).  Long term hold.
 
@@ -205,7 +205,7 @@ each other so there is a case for holding a basket of them.  I expect to add fur
 
 ### Commentary
 
-This year the portfolio **significantly outperformed the benchmarks** and marked the 6th year of positive returns (55%, 49%, 
+This year the portfolio **significantly outperformed the benchmarks** and marked the **6th year of positive returns** (55%, 49%, 
 28%, 7%, 8%, 35%).  As I hope I have demonstrated above, most of the themes have catalysts in place to suggest that the 
 **performance could continue** in the coming years.
 
@@ -221,17 +221,17 @@ market and charge higher prices than would otherwise be possible.  There is also
 > Who is going to compete for less than 15% ROIC?  
 > Many capex heavy businesses will achieve excess returns over next decade.
 
-Companies like VALE, GLEN, RIG, BORR have large sunk costs, with the cost to replicate in an inflationary environment only increasing.  
-An **ever increasing moat**.  Or, as some guy on twitter succinctly said:
+Companies like VALE, GLEN, RIG, BORR have large sunk costs, with the cost to replicate in an inflationary environment only increasing. 
+An **ever increasing moat**.  Or, as SomeGuy™ on twitter succinctly said:
 
-> "Buying scarce tangible assets using yesterday’s dollars leads to high pricing power and inflation only increases the capital barriers to entry"
+> Buying scarce tangible assets using yesterday’s dollars leads to high pricing power and inflation only increases the capital barriers to entry
 
 Most portfolio holdings are down between 30 to 80% from their all time highs.  I don't view them as expensive.  I do view the wider SP500 
 as expensive as the overweighted MAG7 continue to push the market higher.  With a few exceptions, my holdings lie on the other side 
 of the **'ETF divide'**, that is the shares **aren't in and haven't been subject to ETF flows**.  
 
 To be clear, short term the prices could drop significantly as commodities are volatile. I hope to lighten up as the commodities bull 
-progresses, though it will be difficult to know when that
+progresses, though it will be difficult to know when to sell.
 
 I executed ~450 trades this year, a huge number.  Thousands of pounds in fees.  Every year I state that I'll trade less, but I now hope 
 my portfolio can remain more static in 2026.  The eventual aim is to end up with a portfolio of never sell companies which is more 
