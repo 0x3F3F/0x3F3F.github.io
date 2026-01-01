@@ -8,8 +8,8 @@ frontPgDisp: Yes
 ---
 
 
-Performance this year has been solid with an increase of **+34.8%**, ahead of both`RPI+3%` (+6.7%) and the `FTSEAS-TR` 
-(+24.4%) benchmarks.    
+It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both`RPI+3%` (+6.7%) and the `FTSEAS-TR` 
+(+24.4%) benchmarks.  Since 2020 the performance has been **+362% v's +57%** for the `FTSEAS-TR`.
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Perf.jpg" />
 
@@ -158,7 +158,7 @@ could continue.
 One of the reasons for investing heavily into platinum was that the gold price had increased, and platinum had not moved.  This has played 
 out as expected, but still needs to more than double to match gold's price (remember it used to be more expensive than gold!).  I expect **another 
 100% gain in platinum** from here, probably more as I think gold will keep rising with 2 major drivers : **devaluation** & **de-dollarisation** (central 
-banks).  When compared to money supply, **gold could still be considered cheap**, even after this years 48% increase.
+banks).  When compared to money supply, **gold could still be considered cheap**, even after this year's 48% increase.
 
 2/3rds of the physical platinum was sold on the Oct pull back and moved into the miner **Valterra Platinum**.   This continues the profitable game of **buying 
 deeply discounted assets** that were sold off by Anglo American.  Valterra should give **levered exposure** to the platinum price and pay a dividend 
@@ -169,7 +169,7 @@ offset the loss.
 Tensions with China are rising: China implementing export controls on rare earths/silver, US banning chip sales and seizing Venezuelan oil tankers 
 bound for China (squeezing them out of Latam oil and metals?).  Could this signal a bifurcation between East/West?  We could be viewing the 
 **re-monetisation of Gold** prior to the return to a multipolar world - in which case this could be the **new normal**, rather than a price spike.  Not 
-adding here but very happy to hold for now.
+adding here, but very happy to continue to hold.
 
 
 ### Japan
@@ -227,8 +227,8 @@ An **ever increasing moat**.  Or, as SomeGuy™ on twitter succinctly said:
 > Buying scarce tangible assets using yesterday’s dollars leads to high pricing power and inflation only increases the capital barriers to entry
 
 Most portfolio holdings are down between 30 to 80% from their all time highs.  I don't view them as expensive.  I do view the wider SP500 
-as expensive as the overweighted MAG7 continue to push the market higher.  With a few exceptions, my holdings lie on the other side 
-of the **'ETF divide'**, that is the shares **aren't in and haven't been subject to ETF flows**.  
+as expensive as the overweighted MAG7 continue to push the market higher.  With a few exceptions, my holdings lie on the **other side 
+of the 'ETF divide'**, that is the shares **aren't in and haven't been subject to ETF flows**.  That's going to me important moving forward. 
 
 To be clear, short term the prices could drop significantly as commodities are volatile. I hope to lighten up as the commodities bull 
 progresses, though it will be difficult to know when to sell.
@@ -237,6 +237,7 @@ I executed ~450 trades this year, a huge number.  Thousands of pounds in fees.  
 my portfolio can remain more static in 2026.  The eventual aim is to end up with a portfolio of never sell companies which is more 
 tax efficient. 
 
-
+Following gold's rise, I think 2026 could be a very good year for commodities.  The portfolio in now not very defensive, so could suffer 
+significantly in the event of a recession.  I'm hoping that the low valuations will provide some protection in the event of a downturn.
 
 
