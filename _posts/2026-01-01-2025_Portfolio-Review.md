@@ -8,8 +8,10 @@ frontPgDisp: Yes
 ---
 
 
-It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both`RPI+3%` (+6.7%) and the `FTSEAS-TR` 
-(+24.4%) benchmarks.  Since 2020 the performance has been **+362% v's +57%** for the `FTSEAS-TR`.
+It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSEAS-TR** 
+(+24.4%) benchmarks.  
+
+Since 2020 the performance has been **+362% v's +57%** for the FTSEAS-TR.
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Perf.jpg" />
 
