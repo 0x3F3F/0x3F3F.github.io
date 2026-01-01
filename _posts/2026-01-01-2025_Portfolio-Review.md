@@ -8,10 +8,10 @@ frontPgDisp: Yes
 ---
 
 
-It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSEAS-TR** 
+It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
 (+24.4%) benchmarks.  
 
-Since 2020 the performance has been **+362% v's +57%** for the FTSEAS-TR.
+Since 2020 the performance has been **+362%** v's **+57%** for the FTSE All Share TR.
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Perf.jpg" />
 
@@ -103,8 +103,8 @@ theme.  My emphasis is on the bulks which, based on past cycles, is where the mo
 could be viewed as cheap.  After **years of underinvestment**, all the conditions are present to foment a bubble.  Following the precious metals 
 breaking higher, I suspect that the **trend will push out** into industrial metals.  
 
-Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
-the UK and Brazil meant I was paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
+Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement bggggetween 
+the UK and Brazil meant I was paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' gg
 , with the royalty structure giving **additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
 world growth.
 
@@ -230,7 +230,7 @@ An **ever increasing moat**.  Or, as SomeGuy™ on twitter succinctly said:
 
 Most portfolio holdings are down between 30 to 80% from their all time highs.  I don't view them as expensive.  I do view the wider SP500 
 as expensive as the overweighted MAG7 continue to push the market higher.  With a few exceptions, my holdings lie on the **other side 
-of the 'ETF divide'**, that is the shares **aren't in and haven't been subject to ETF flows**.  That's going to me important moving forward. 
+of the 'ETF divide'**, that is the shares **aren't in and haven't been subject to ETF flows**.  That's going to be important moving forward. 
 
 To be clear, short term the prices could drop significantly as commodities are volatile. I hope to lighten up as the commodities bull 
 progresses, though it will be difficult to know when to sell.
