@@ -94,7 +94,7 @@ In inflationary environments PMs are said to move first with other commodities l
 
 ### Commodities
 
-Commodity exposure is via generalist large cap companies that will benefit from my [commodity cycle]({% post_url 2019-11-28-COmmodity-Cycle %}) 
+Commodity exposure is via generalist large cap companies that will benefit from my [commodity cycle]({% post_url 2019-11-28-Secular-Trend-Commodity-Cycle %}) 
 theme.  My emphasis is on the bulks which is apparently where the money is made.  When compared to the S&P around all time highs, prices 
 could be viewed as cheap.  After years of underinvestment, all the conditions are present to foment a bubble.  Following the precious metals 
 breaking higher, I suspect that the **trend will push out** into industrial metals.  
@@ -235,25 +235,5 @@ my portfolio can remain more static in 2026.  The eventual aim is to end up with
 tax efficient. 
 
 
-
--------------
-
-2025 return has been +35% vs FTSEAS-TR benchmark of +24%.
-
-The bulk of the returns have been from being overweight Nicotine, Offshore Services (big loser in April but sized up around low) and Platinum.  Main mistake of the year was not sizing up platinum as it was an obvious asymmetric bet (Too busy doubling up in offshore drillers instead)
-
-Current portfolio
-
-25%	Coal (GLEN/TGA)
-22% Commodities (GLEN/S32/VALE/LIF)
-22% Oil Gas (RIG/NE/BORR/HBR)
-10% Premium Alcohol (DGE/RCO)
-7%  Chemicals (DOW,LYB)
-7%  Shipping (CKN, SBLK)
-7%  PGMs (Valterra, Platinum)
-4%  Financial Services (LSEG,ASX)
-1%  Nicotine (BATS)
-
-Returns since 2020 are +55%, +49%, +28%, +7%, +8%, and now 35%.
 
 
