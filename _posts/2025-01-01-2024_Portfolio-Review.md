@@ -4,7 +4,7 @@ section-type: post
 title: 2024 Portfolio Review
 category: Portfolio
 tags: [ 'PortfolioReview' ]
-frontPgDisp: Yes
+frontPgDisp: No
 ---
 
 
