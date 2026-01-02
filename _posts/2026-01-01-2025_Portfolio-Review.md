@@ -8,7 +8,7 @@ frontPgDisp: Yes
 ---
 
 
-Overall, az solid performance this year with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
+Overall, a solid performance this year with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
 (+24.4%) benchmarks.  
 
 Since 2020 the performance has been **+362%** v's **+57%** for the FTSE All Share Total Return.
