@@ -8,10 +8,10 @@ frontPgDisp: Yes
 ---
 
 
-It's been a solid performance this year, with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
+Overall, az solid performance this year with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
 (+24.4%) benchmarks.  
 
-Since 2020 the performance has been **+362%** v's **+57%** for the FTSE All Share TR.
+Since 2020 the performance has been **+362%** v's **+57%** for the FTSE All Share Total Return.
 
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Perf.jpg" />
 
@@ -103,8 +103,8 @@ theme.  My emphasis is on the bulks which, based on past cycles, is where the mo
 could be viewed as cheap.  After **years of underinvestment**, all the conditions are present to foment a bubble.  Following the precious metals 
 breaking higher, I suspect that the **trend will push out** into industrial metals.  
 
-Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement bggggetween 
-the UK and Brazil meant I was paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' gg
+Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
+the UK and Brazil meant paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
 , with the royalty structure giving **additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
 world growth.
 
@@ -123,8 +123,8 @@ the price, with the recent silver price rise this could be a significant.
 ### Coal
 The coal allocation is **weighted towards thermal**, direct met coal holdings were sold with Glencore now providing that exposure.
 
-Thermal coal is a **capital starved sector**, with major producers pulling out. It gives an opportunity to **play the AI bubble indirectly** 
-and cheaply.  I like to express views indirectly as often the 2nd derivative doesn't reflect reality (until it does).  The power 
+Thermal coal is a **capital starved sector**, with major producers pulling out. It gives an opportunity to **play the AI bubble indirectly 
+and cheaply**.  I like to express views indirectly as often the 2nd derivative doesn't reflect reality (until it does).  The power 
 demands of AI data centres mean that coal (and gas, though lead times on gas turbines are ~6yrs) will likely fuel most of that 
 demand as they are the **only reliable sources that can quickly ramp up**.  This comes at a time when investments in coal and gas 
 production have been weak.
@@ -149,7 +149,7 @@ chemical stocks?  Regardless, these companies pay a good dividend while I wait f
 
 
 ### Precious Metals
-Performance has been spectacular with the direct **Platinum holdings up 110%** this year.  The main mistake of last year was not weighting this 
+Performance has been **spectacular** with the direct Platinum holdings **up 110%** this year.  The main mistake of last year was not weighting this 
 sector more heavily as it was an obvious trade. It should have been a 10+% position. 
 
 **Franco Nevada** was sold for a 1 yr gain of 21% and moved into palladium/platinum prior to their run. 
