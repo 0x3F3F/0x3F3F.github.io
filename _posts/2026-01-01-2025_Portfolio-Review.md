@@ -101,6 +101,8 @@ theme.  My emphasis is on the bulks which, based on past cycles, is where the mo
 could be viewed as cheap.  After **years of underinvestment**, all the conditions are present to foment a bubble.  Following the precious metals 
 breaking higher, I suspect that the **trend will push out** into industrial metals.  
 
+> "Soon, all commodity charts will look like gold", Bank of America's Hartnett
+
 Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
 the UK and Brazil meant paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
 , with the royalty structure giving **additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
