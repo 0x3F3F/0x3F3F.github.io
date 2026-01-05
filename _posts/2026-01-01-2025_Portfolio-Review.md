@@ -11,8 +11,6 @@ frontPgDisp: Yes
 Overall, a solid performance this year with an increase of **+34.8%**.  This is well ahead of both **RPI+3%** (+6.7%) and the **FTSE All Share Total Return** 
 (+24.4%) benchmarks.  
 
-Since 2020 the performance has been **+362%** v's **+57%** for the FTSE All Share Total Return.
-
 <img style="border: 0 ; padding-bottom: 20px" src="/img/2025/2025_Perf.jpg" />
 
 ## Portfolio
@@ -66,7 +64,7 @@ This sector is consolidating, **leading to pricing power** for scarce assets wit
 assets are exactly what we should be holding**.
 
 As the price of oil increases, many oil companies may face populist windfall taxes - offshore services are a **clever way to participate** in 
-an oil rise but avoid this political risk.   
+an oil rise but avoid this political risk.  A picks and shovels play.
 
 But there is a downside! This sector is highly volatile and cyclical.  In the April sell off, the holdings lost over 50% in value.  Top 
 ups were made by selling holdings that had gone down less, making this risky sector an overweight.  This gamble paid off as many holdings are up 
