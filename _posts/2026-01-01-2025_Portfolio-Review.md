@@ -103,6 +103,11 @@ breaking higher, I suspect that the **trend will push out** into industrial meta
 
 > "Soon, all commodity charts will look like gold", Bank of America's Hartnett
 
+[This post](https://x.com/Mark4XX/status/2009967153705869726) talks of re-industrialisation now being a US top priority (factories/mines/supply chains),  
+with US shifting from global dominance to **"hemispheric dominance"**.  Recent actions in Venezuela and rush to secure critical minerals would appear 
+to confirm this. This re-industrialisation will require physical commodities which could result in decade long commodity boom in this new era of 
+hemispheric competition.
+
 Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
 the UK and Brazil meant paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
 , with the royalty structure giving **additional inflation protection**.  I'm not super bullish, as Iron ore can be viewed as a proxy for 
@@ -169,9 +174,9 @@ Retaining some physical platinum serves as a **natural hedge**: if there is an i
 offset the loss. 
 
 Tensions with China are rising: China implementing export controls on rare earths/silver, US banning chip sales and seizing Venezuelan oil tankers 
-bound for China (squeezing them out of Latam oil and metals?).  Could this signal a bifurcation between East/West?  We could be viewing the 
-**re-monetisation of Gold** prior to the return to a multipolar world - in which case this could be the **new normal**, rather than a price spike.  Not 
-adding here, but very happy to continue to hold.
+bound for China (squeezing them out of Latam oil and metals?).  Could this signal a bifurcation between East/West (see hemispheric dominance above)?  
+We could be viewing the **re-monetisation of Gold** prior to the return to a multipolar world - in which case this could be the **new normal**, rather 
+than a price spike.  Not adding here, but very happy to continue to hold.
 
 
 ### Japan
