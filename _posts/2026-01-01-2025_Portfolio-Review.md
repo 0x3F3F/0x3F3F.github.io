@@ -103,10 +103,10 @@ breaking higher, I suspect that the **trend will push out** into industrial meta
 
 > "Soon, all commodity charts will look like gold", Bank of America's Hartnett
 
-[This post](https://x.com/Mark4XX/status/2009967153705869726) talks of re-industrialisation now being a US top priority (factories/mines/supply chains),  
-with US shifting from global dominance to **"hemispheric dominance"**.  Recent actions in Venezuela and rush to secure critical minerals would appear 
+[This post](https://x.com/Mark4XX/status/2009967153705869726) talks of re-industrialisation now being a US top priority (factories/mines/supply chains), 
+with US shifting from global dominance to **"hemispheric dominance"**.  Recent actions in Venezuela and the rush to secure critical minerals would appear 
 to confirm this. This re-industrialisation will require physical commodities which could result in decade long commodity boom in this new era of 
-hemispheric competition.
+hemispheric competition.  Interesting.
 
 Iron Ore prices have remained suppressed through the year.  The **Vale** holding was reduced as the lack of double tax agreement between 
 the UK and Brazil meant paying tax twice.  I diversified into **Labrador Iron Ore Royalty Corp**, a Canadian 'compounder' 
