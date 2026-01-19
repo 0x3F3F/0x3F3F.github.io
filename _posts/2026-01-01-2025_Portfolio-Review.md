@@ -43,6 +43,8 @@ Investments were made in **Diageo** at a 12 year low (down over 50%) and also **
 sold off as investors worry that drinking is less popular due to weight loss drugs / healthier lifestyles.  I've taken the opposite 
 view as see alcohol consumption as lindy, and invested in these quality businesses while trading cheaply.  
 
+> "You’re paying single-digit to low-teens multiples for global habits that have survived wars, recessions, and moral panics"
+
 **Diageo offers broad exposure** to spirits and also owns Guinness which is selling well, it could be a takeover target at current levels. 
 A new CEO is starting in January and so the turnaround might be imminent.
 
